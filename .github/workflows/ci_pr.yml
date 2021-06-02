@@ -1,10 +1,10 @@
-name: CI
+name: CI_PR
 on:
   pull_request_target:
     branches:
       - master
-    paths:
-      - 'content/authors/**'
+    # paths:
+    #   - 'content/authors/**'
       
 jobs:
   deploy:
