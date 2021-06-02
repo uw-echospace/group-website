@@ -2,7 +2,8 @@ name: CI
 on:
   push:
     branches:
-      - master
+      - test-pt-build
+      # - master
       
 jobs:
   deploy:
@@ -32,6 +33,7 @@ jobs:
           personal_token: ${{ secrets.HUGO_REPO_TOKEN }}
           external_repository: uw-echospace/uw-echospace.github.io
           publish_dir: ./public
+          destination_dir: ./testview
           #   keep_files: true
           publish_branch: master
         #   cname: example.com
