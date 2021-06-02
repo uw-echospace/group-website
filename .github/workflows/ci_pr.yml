@@ -1,6 +1,6 @@
 name: CI
 on:
-  push:
+  pull_request:
     branches:
       - master
       
@@ -24,7 +24,7 @@ jobs:
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://uw-echospace.github.io/testview/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -32,6 +32,7 @@ jobs:
           personal_token: ${{ secrets.HUGO_REPO_TOKEN }}
           external_repository: uw-echospace/uw-echospace.github.io
           publish_dir: ./public
+          destination_dir: ./testview
           #   keep_files: true
           publish_branch: master
         #   cname: example.com
