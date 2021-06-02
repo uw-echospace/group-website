@@ -34,5 +34,7 @@ jobs:
           publish_dir: ./public
           destination_dir: ./testview
           #   keep_files: true
+          user_name: leewujung
+          user_email: leewujung@gmail.com
           publish_branch: master
         #   cname: example.com
