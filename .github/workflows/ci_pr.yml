@@ -2,9 +2,7 @@ name: CI_PR
 on:
   pull_request_target:
     branches:
-      - master
-    # paths:
-    #   - 'content/authors/**'
+      - testview
       
 jobs:
   deploy:
