@@ -72,3 +72,4 @@ email: ""
 user_groups:
 - Researchers
 ---
+Currently working on multi-year time-series analysis of OOI data, focusing on combining sonar data with environmental observations. 
