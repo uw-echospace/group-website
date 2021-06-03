@@ -2,7 +2,7 @@ name: CI_PR
 on:
   pull_request_target:
     branches:
-      - testview
+      - master
       
 jobs:
   deploy:
