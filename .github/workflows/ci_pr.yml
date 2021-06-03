@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
