@@ -26,15 +26,20 @@ jobs:
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify --baseURL "https://uw-echospace.github.io/testview/"
+        run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy Website Preview
+        uses: nwtgck/actions-netlify@v1.1
         with:
-          personal_token: ${{ secrets.HUGO_REPO_TOKEN }}
-          external_repository: uw-echospace/uw-echospace.github.io
-          publish_dir: ./public
-          destination_dir: ./testview
-          #   keep_files: true
-          publish_branch: master
-        #   cname: example.com
+          publish-dir: './public'
+          production-deploy: false
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploy from GitHub Actions"
+          enable-commit-comment: false
+          enable-pull-request-comment: true
+          overwrites-pull-request-comment: true
+          alias: deploy-preview-${{ github.event.number }}
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
