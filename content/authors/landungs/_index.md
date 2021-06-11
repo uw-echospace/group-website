@@ -73,8 +73,8 @@ user_groups:
 
 ## Ocean Research Software Engineering
 
-I am a software engineer with a strong focus in designing and maintaining geospatial data analysis systems to support environmental research. I am currently providing software and research support for the OOI/RSN team. I am also a part of the Open-Source Ocean Acoustics Github Organization, developing [echopype](https://github.com/OSOceanAcoustics/echopype) software for ocean sonar data.
+I am a software engineer with a strong focus in designing and maintaining geospatial data analysis systems and software to support environmental research. I am currently providing software and research support for the [OOI Regional Cabled Array team](https://interactiveoceans.washington.edu/). I am also a part of the Open-Source Ocean Acoustics Github Organization, developing [echopype](https://github.com/OSOceanAcoustics/echopype) software for ocean sonar data.
 
-I have expertise in Python programming, web development, geospatial data analytics, data management solutions, data visualization, relational databases, and system administration.
+I have expertise in Python programming, web development, geospatial data analytics, data management solutions, data visualization, relational databases, and system administration. I love to contribute to open-source software and share my knowledge.
 
 I am a UW School of Oceanography alumnus. I gained my bachelor's degree here with a focus on geospatial data analysis and management through the development of wave sensor buoys to study the spatial variability of oceanic waves. I was also actively involved with Marine Technology Society (MTS), OceanGate Foundation (OGF), Benthic Acoustic Mapping and Survey (BEAMS), Ocean Observatory Initiative-Interactive Oceans (OOI-IO), and served as the Information Technology Lead for Exploration and Remote Instrumentation by Students (ERIS).
