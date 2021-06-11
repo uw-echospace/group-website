@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Landungs "Don" Setiawan
+title: Don Setiawan
 
 # Username (this should match the folder name)
 authors:
@@ -12,52 +12,50 @@ weight: 14
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Research Software Engineer
 
 # Organizations/Affiliations
 organizations:
 - name: School of Oceanography
+  url: "https://www.ocean.washington.edu/home/Don_Setiawan"
 - name: University of Washington
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Research Software Engineer at the University of Washington with a strong focus in designing, developing, and maintaining scientific data analysis systems. I am a contributor to various open source software. I learning new technologies and apply them in my work.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Geospatial Information Systems (GIS)
+- Data Engineering / Data Science
+- Software Engineering
+- Web Development
+- DevOps/GitOps
 
 education:
   courses:
   - course: BSc in Oceanography
     institution: University of Washington
-    year: \?
-
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+    year: 2015
+  - course: AAS in Ocean Research
+    institution: Ocean Research College Academy, EvCC
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lsetiawan
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/landungsetiawan/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:landungs@uw.edu' # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  link: 'mailto:landungs@uw.edu'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=lsetiawan&user=DWr-V0AAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
