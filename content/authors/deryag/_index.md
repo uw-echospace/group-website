@@ -23,7 +23,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Research Assistant at the University of Washington Applied Physics Lab with a focus in multi-year time-series analysis of seawater characteristics and sonar data. 
 
-#interests:
+interests:
 - Data Science
 - Time-series Analysis
 - Science Communication 
