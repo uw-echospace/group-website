@@ -69,9 +69,9 @@ user_groups:
 - Researchers
 ---
 
-## Ocean Research Data Science
+## Research Assistant 
 
-I am an oceanographer and data scientist currently using Python to perform analysis on multi-year time-series data of seawater characteristics and sonar, conducting data and metadata organization and analysis of sonar observations from the NWFSC Pacific hake survey, and using the echopype package to convert, quality assure, process, and visualize sonar data for distributed computing. In my free time, I enjoy writing for my blog about ocean data science, including write-ups of my projects and Python tutorials. 
+I am an oceanographer and data scientist currently using Python to perform analysis on multi-year time-series data of seawater characteristics and sonar. I will also be helping to conduct data and metadata organization and analysis of sonar observations from the NWFSC Pacific hake survey and use the echopype Python package to convert, quality assure, process, and visualize sonar data for distributed computing. In my free time, I enjoy writing for my blog about ocean data science, including write-ups of my projects and Python tutorials. 
 
 I have experience in Python programming, data science, data analysis, data visualization, statistical modeling, machine learning, research, and science writing. I love learning and teaching others how to use Python to answer questions about the world with data. 
 
