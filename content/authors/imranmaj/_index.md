@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I enjoy programming and learning about acoustics.
+# bio: I enjoy programming and learning about acoustics.
 
 #interests:
 #- Artificial Intelligence
@@ -76,3 +76,4 @@ email: ""
 user_groups:
 - Researchers
 ---
+I enjoy programming and learning about acoustics.
