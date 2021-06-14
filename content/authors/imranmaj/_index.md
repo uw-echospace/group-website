@@ -16,23 +16,24 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Computer Engineering
+- name: University of Washington Department of Electrical and Computer Engineering
+- name: University of Washington Applied Physics Laboratory
 - name: University of Washington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I enjoy programming and learning about acoustics.
 
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 
-# education:
-#   courses:
-#   - course: BSc in ?
-#     institution: University of Washington
-#     year: 2020
+education:
+  courses:
+  - course: BS in Electrical Engineering (in progress)
+    institution: University of Washington
+    year: 2022 (expected)
 
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
@@ -55,9 +56,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/imranmaj
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
