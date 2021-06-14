@@ -32,6 +32,6 @@ jobs:
           personal_token: ${{ secrets.HUGO_REPO_TOKEN }}
           external_repository: uw-echospace/uw-echospace.github.io
           publish_dir: ./public
-          keep_files: true
+          # keep_files: true
           publish_branch: master
-        #   cname: example.com
+          # cname: example.com

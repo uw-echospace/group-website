@@ -1,9 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Echo Statistics"
-date: 2019-01-04T17:02:36-08:00
+authors: 
+  - leewj
+slug: echo-stat-tutorial
+weight: 30
 draft: false
-tags: ["matlab", "open-source", "sonar", "echosounder"]
+tags: 
+  - matlab
+  - open-source
+  - echosounder
 summary: "Matlab code to reproduce all figures in an in-depth tutorial on echo statistics."
 
 # Customize

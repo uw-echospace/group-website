@@ -1,11 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Developing a temporally adaptive decomposition framework for analyzing long-term echosounder time series"
-date: 2020-01-01T14:50:00-08:00
-weight: 202001
+title: "Cloud-native fisheries acoustics data workflow"
+date: 2021-05-01T17:02:36-08:00
+authors: 
+slug: 2021-hake-workflow
+weight: 10
 draft: false
-tags: ["echosounder", "OOI"]
-summary: "Developing algorithms for automatic extraction of prominent spatio-temporal patterns of animal movements and grouping activities observed in sonar echoes using data from the Ocean Observatories Initiative (OOI)."
+tags: 
+  - machine learning
+  - cloud computing
+  - community engagement
+summary: "Creating a cloud-native data workflow for fisheries acoustics data."
 
 # Customize
 share: false
@@ -26,4 +31,6 @@ image:
 
 ---
 
-NSF Award page: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1849930&HistoricalAwards=false
+
+**Funding agency**: NOAA Office of Ocean Exploration and NOAA Fisheries
+

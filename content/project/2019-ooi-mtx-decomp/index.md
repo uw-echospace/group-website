@@ -1,11 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Accelerating information extraction from fisheries acoustic data through a cloud-based machine learning workflow"
-date: 2021-05-01T17:02:36-08:00
-weight: 202105
+title: "Pattern discovery from long-term echosounder time series"
+date: 2019-01-01T14:50:00-08:00
+authors: 
+slug: 2019-ooi-mtx-decomp
+weight: 30
 draft: false
-tags: ["echosounder", "machine learning", "cloud computing", "community convention"]
-summary: "Accelerate the extraction of biological information from fisheries acoustic data through an integrated approach that combines development of machine learning methodology with a cloud-based workflow."
+tags: 
+  - machine learning
+  - OOI
+summary: "Developing algorithms to discover prominent spatio-temporal patterns of animal movement and grouping behavior observed in sonar echoes using data from the Ocean Observatories Initiative (OOI)."
 
 # Customize
 share: false
@@ -28,3 +32,4 @@ image:
 
 
 
+**Funding agency**: National Science Foundation [Award #1849930](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1849930&HistoricalAwards=false)

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Wu-Jung Lee
+title: Emilio Mayorga
 
 # Username (this should match the folder name)
 authors:
-- leewj
+- emiliom
 
-weight: 10
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,15 +30,12 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Oceanographic Engineering
-    institution: MIT-WHOI Joint Program in Oceanography
-    year: 2013
-  - course: BSc in Electrical Engineering
-    institution: National Taiwan University
-    year: 2005
-  - course: BSc in Life Science (Zoology)
-    institution: National Taiwan University
-    year: 2005
+  - course: PhD in \?
+    institution: \?
+    year: \?
+  - course: \?
+    institution: \?
+    year: \?
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:leewj@uw.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/leewujung
+  link: mailto:emiliom@uw.edu
+# - icon: twitter
+#   icon_pack: fab
+#   link: 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/leewujung
+# - icon: github
+#   icon_pack: fab
+#   link: 
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
@@ -75,5 +72,3 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-
-TESTVIEW RUN 2
