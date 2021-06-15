@@ -16,8 +16,8 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington Department of Electrical and Computer Engineering
-- name: University of Washington Applied Physics Laboratory
+- name: Department of Electrical and Computer Engineering
+- name: Applied Physics Laboratory
 - name: University of Washington
   url: ""
 
@@ -76,4 +76,8 @@ email: ""
 user_groups:
 - Researchers
 ---
-I enjoy programming and learning about acoustics.
+I am a student studying at the University of Washington studying Electrical Engineering with a concentration in Embedded Computing Systems. I hope to graduate from the University of Washington in Spring/Fall of 2022. I enjoy programming and working with others to create better software.
+
+I am pursuing that passion in my position as a Student Assistant at the Applied Physics Laboratory where I am helping to develop [Echopype](https://github.com/OSOceanAcoustics/echopype), a tool for working with sonar data. Although I do not have much experience with acoustics, I enjoy  learning more about this field every day.
+
+Other topics I am interested in are networking and server-side development. I am familiar with Python and Rust.
