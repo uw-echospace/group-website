@@ -23,14 +23,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Software Engineering
+- Data Science / Visualization
+- Signal Processing
 
 education:
   courses:
-  - course: BSc in \?
+  - course: BSc in Applied Physics
     institution: University of Washington
     year: 2020
 
@@ -55,9 +55,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ngkavin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,3 +72,7 @@ email: ""
 user_groups:
 - Researchers
 ---
+
+I am a research assistant and software engineer focused on developing tools to assist with research in bioacoustics. Among other things, I have worked on the development of [echopype](https://github.com/OSOceanAcoustics/echopype), [echoregions](https://github.com/OSOceanAcoustics/echoregions), GUIs for detecting and cleaning porpoise clicks, and scripts for converting and calibrating data provided by the Oceans Observatories Initiative (OOI) and the National Centers for Environmental Information (NCEI) data repositories.
+
+I recieved my bachelor's degree in Applied Physics from the University of Washington, and will be returning this Fall to begin a master's in Electrical Engineering.
