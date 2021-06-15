@@ -18,7 +18,7 @@ role: Senior Data Scientist
 organizations:
 - name: eScience Institute
 - name: University of Washington
-  url: https://escience.washington.edu/
+  url: "https://escience.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -45,7 +45,7 @@ social:
   link: mailto:vms16@uw.edu
 - icon: home
   icon_pack: fas
-  link: https://valentina-s.github.io/valentina-staneva/
+  link: "https://valentina-s.github.io/valentina-staneva/"
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
@@ -54,7 +54,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/valentina-s/
+    link: "https://github.com/valentina-s/"
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
@@ -74,14 +74,14 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Senior Data Scientist and Data Science Fellow at the eScience Institute, Paul G. Allen School of Computer Science & Engineering, University of Washington. As part of my role I collaborate with researchers from a wide range of domains on extracting information from large data sets of various modalities, such as time series, images, videos, audio, text, etc. I am involved in data science education for audiences at broad level of experience, and regularly teach workshops on introductory and advanced topics. I support open science and reproducible research, and strive to help others adopt better data science workflows.
+I am a Senior Data Scientist and Data Science Fellow at the eScience Institute, Paul G. Allen School of Computer Science and Engineering, University of Washington. As part of my role I collaborate with researchers from a wide range of domains on extracting information from large data sets of various modalities, such as time series, images, videos, audio, text, etc. I am involved in data science education for audiences at broad level of experience, and regularly teach workshops on introductory and advanced topics. I support open science and reproducible research, and strive to help others adopt better data science workflows.
 
 # Research Interests:
-Image Analysis
-Time Series Analysis
-Machine Learning for Ocean Acoustics
-Large Scale Computing
-Reproducible Research Workflows
-Data Science for Social Good
+* Image Analysis
+* Time Series Analysis
+* Machine Learning for Ocean Acoustics
+* Large Scale Computing
+* Reproducible Research Workflows
+* Data Science for Social Good
 
 
