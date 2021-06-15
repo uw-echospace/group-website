@@ -18,7 +18,7 @@ role: Senior Data Scientist
 organizations:
 - name: eScience Institute
 - name: University of Washington
-  url: "https://escience.washington.edu/"
+  url: https://escience.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -54,7 +54,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: github.com/valentina-s
+    link: https://github.com/valentina-s/
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
