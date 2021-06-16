@@ -76,7 +76,7 @@ email: ""
 user_groups:
 - Researchers
 ---
-I am a student studying at the University of Washington studying Electrical Engineering with a concentration in Embedded Computing Systems. I hope to graduate from the University of Washington in Spring/Fall of 2022. I enjoy programming and working with others to create better software.
+I am a student at the University of Washington studying Electrical Engineering with a concentration in Embedded Computing Systems. I hope to graduate from the University of Washington in Spring/Fall of 2022. I enjoy programming and working with others to create better software.
 
 I am pursuing that passion in my position as a Student Assistant at the Applied Physics Laboratory where I am helping to develop [Echopype](https://github.com/OSOceanAcoustics/echopype), a tool for working with sonar data. Although I do not have much experience with acoustics, I enjoy  learning more about this field every day.
 
