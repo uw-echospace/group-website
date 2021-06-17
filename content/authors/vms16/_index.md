@@ -31,9 +31,11 @@ education:
   courses:
   - course: Ph.D. in Applied Mathematics and Statistics
     institution: Johns Hopkins University
+    year: 2017
 
   - course: B.S. in Mathematics
     institution: Concord University
+    year: 2006
 
     
  
