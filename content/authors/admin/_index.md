@@ -30,4 +30,5 @@ We are a diverse group of researchers whose work centers around extracting knowl
 - Acoustic ocean sensing
 - Fisheries acoustics
 - Animal echolocation / bioacoustics
-- Reproducible research
+- Data systems and workflows
+- Data science in oceanography
