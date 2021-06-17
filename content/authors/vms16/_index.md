@@ -21,7 +21,7 @@ organizations:
   url: "https://escience.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+#bio: 
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
@@ -31,8 +31,11 @@ education:
   courses:
   - course: Ph.D. in Applied Mathematics and Statistics
     institution: Johns Hopkins University
+
   - course: B.S. in Mathematics
     institution: Concord University
+
+    
  
 
 # Social/Academic Networking
