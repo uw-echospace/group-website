@@ -16,27 +16,30 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: \?
+- name: Applied Physics Laboratory
 - name: University of Washington
-  url: ""
+#  url: ""
 
-# Short bio (displayed in user profile at end of posts)
-# bio: I enjoy programming and learning about acoustics.
+ Short bio (displayed in user profile at end of posts)
+ bio: I am an Undergraduate Research Assistant at the University of Washington studying Marine Biology and Art. I am developing data analysis and processing skills to apply to projects in Conservation Ecology.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Marine and Arctic Ecology
+- Data Analysis/Data Science
+- Software Engineering
+- 2D Animation
+- Illustration
 
 education:
   courses:
-  - course: BS in \?
+  - course: BS in Marine Biology (in progress)
     institution: University of Washington
     year: 2023 (expected)
 
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+  - course: BA in Art: Painting & Drawing (in progress)
+    institution: University of Washington
+    year: 2023 (expected)
+    
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -49,6 +52,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:stuara@uw.edu' # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alyson-stuart/
+- icon: paint-brush
+  icon_pack: fas
+  link: http://aly.stumpbeach.com/
+  
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -58,9 +68,6 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/imranmaj
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/imranmaj/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,10 +75,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
+I am an undergrad at the University of Washington studying Marine Biology and Art. I intend to graduate in the Spring of 2023. I hope to pursue projects where both scientific and artistic thinking can compliment each other.
+With Echospace, I am assisting with the creation of programs used to analyze and compress large volumes of biologically-oriented acoustic data, including that of the NCWFSC Pacific hake survey. I will be further developing my preexisting programming skills to better benefit this and future projects.
+I am also participating in the collection and analysis of passive acoustic data targeting native bat species from the UW Union Bay Natural Area , as well the operation and deployment of ADCPs off the Washington Coastal Shelf.
