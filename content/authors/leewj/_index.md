@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Senior Oceanographer, Group Lead
+role: Senior Oceanographer
 
 # Organizations/Affiliations
 organizations:
@@ -24,10 +24,11 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Acoustic ocean sensing
+- Acoustical oceanography
 - Fisheries acoustics
 - Animal echolocation / bioacoustics
-- Reproducible research
+- Distributed sensing
+- Data science education
 
 education:
   courses:
@@ -37,7 +38,7 @@ education:
   - course: BSc in Electrical Engineering
     institution: National Taiwan University
     year: 2005
-  - course: BSc in Life Science (Zoology)
+  - course: BSc in Life Science (Zoology focus)
     institution: National Taiwan University
     year: 2005
 
