@@ -36,7 +36,7 @@ education:
     institution: University of Washington
     year: 2023 (expected)
 
-  - course: BS in Art: Painting & Drawing (in progress)
+  - course: BA in Art (in progress)
     institution: University of Washington
     year: 2023 (expected)
     
