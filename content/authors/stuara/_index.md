@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+# bio: I am an Undergraduate Research Assistant at the University of Washington studying Marine Biology and Art. I am developing data analysis and processing skills to apply to projects in conservation ecology.
 
 #interests:
 #- Marine and Arctic Ecology
@@ -30,15 +30,15 @@ organizations:
 #- 2D Animation
 #- Illustration
 
-education:
-  courses:
-  - course: BS in Marine Biology (in progress)
-    institution: University of Washington
-    year: 2023 (expected)
-
-  - course: BA in Art: Painting & Drawing (in progress)
-    institution: University of Washington
-    year: 2023 (expected)
+#education:
+#  courses:
+#  - course: BS in Marine Biology (in progress)
+#    institution: University of Washington
+#   year: 2023 (expected)
+#
+#  - course: BA in Art: Painting & Drawing (in progress)
+#    institution: University of Washington
+#    year: 2023 (expected)
     
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
