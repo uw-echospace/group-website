@@ -32,10 +32,11 @@ organizations:
 
 education:
   courses:
-  - course: BS in Marine Biology (in progress)
-    institution: University of Washington
-    year: 2023 (expected)
-    
+  
+#  - course: BS in Marine Biology (in progress)
+#    institution: University of Washington
+#    year: 2023 (expected)
+#    
   - course: BA in Art: Painting & Drawing (in progress)
     institution: University of Washington
     year: 2023 (expected)
