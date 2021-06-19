@@ -40,10 +40,6 @@ education:
     institution: University of Washington
     year: 2023 (expected)
     
-#  - course: BA in Art: Painting & Drawing (in progress)
-#    institution: University of Washington
-#    year: 2023 (expected)
-    
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -87,5 +83,7 @@ user_groups:
 - Researchers
 ---
 I am an undergrad at the University of Washington studying Marine Biology and Art. I intend to graduate in the Spring of 2023. I hope to pursue projects where both scientific and artistic thinking can compliment each other.
+
 With Echospace, I am assisting with the creation of programs used to analyze and compress large volumes of biologically-oriented acoustic data, including that of the NCWFSC Pacific hake survey. I will be further developing my preexisting programming skills to better benefit this and future projects.
+
 I am also participating in the collection and analysis of passive acoustic data targeting native bat species from the UW Union Bay Natural Area , as well the operation and deployment of ADCPs off the Washington Coastal Shelf.
