@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
- bio: I am an Undergraduate Research Assistant at the University of Washington studying Marine Biology and Art. I am developing data analysis and processing skills to apply to projects in conservation ecology.
+# bio: I am an Undergraduate Research Assistant at the University of Washington studying Marine Biology and Art. I am developing data analysis and processing skills to apply to projects in conservation ecology.
 
 interests:
 - Marine and Arctic Ecology
