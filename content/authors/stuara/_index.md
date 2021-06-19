@@ -32,7 +32,7 @@ organizations:
 
 education:
   courses:
-  - course: BS in Applied Physics
+  - course: BS in Marine Biology (in progress)
     institution: University of Washington
     year: 2021
     
