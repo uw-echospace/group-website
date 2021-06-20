@@ -2,7 +2,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Echo Statistics"
 authors: 
-  - leewj
 slug: echo-stat-tutorial
 weight: 30
 draft: false

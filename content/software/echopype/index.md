@@ -3,12 +3,6 @@
 title: "Echopype"
 date: 2020-11-01T14:50:00-08:00
 authors: 
-  - leewj
-  - emiliom
-  - vms16
-  - landungs
-  - imranmaj
-  - ngkavin
 slug: echopype
 weight: 30
 draft: false
