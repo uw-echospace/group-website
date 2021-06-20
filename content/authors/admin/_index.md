@@ -28,6 +28,7 @@ We are a diverse group of researchers whose work centers around extracting knowl
 
 ### Research areas:
 - Acoustic ocean sensing
+- Machine learning in acoustics
 - Fisheries acoustics
 - Animal echolocation / bioacoustics
 - Data systems and workflows
