@@ -53,6 +53,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/leewujung
+- icon: home
+  icon_pack: fas
+  link: https://leewujung.github.io/
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
