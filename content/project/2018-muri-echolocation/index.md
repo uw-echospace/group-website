@@ -7,7 +7,7 @@ slug: 2018-muri-echolocation
 weight: 40
 draft: false
 tags: 
-  - echolocation
+  - animal echolocation
   - toothed whales
 summary: "Modeling the echolocation-based target search behavior of toothed whales as an information-seeking process."
 

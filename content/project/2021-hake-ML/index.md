@@ -8,6 +8,7 @@ weight: 10
 draft: false
 tags: 
   - machine learning
+  - fisheries acoustics
   - cloud computing
   - community engagement
 summary: "Accelerating information extraction from fisheries acoustic data through a cloud-based machine learning workflow."

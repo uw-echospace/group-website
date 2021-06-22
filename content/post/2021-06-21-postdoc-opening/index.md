@@ -5,10 +5,11 @@ date: 2021-06-21T14:50:00-08:00
 authors: 
   - leewj
   - vms16
-slug: 2021-06-21-postdoc-opening
+slug: 2021-06-21-postdoc-opening-hake-ml
 draft: false
 tags: 
   - machine learning
+  - fisheries acoustics
   - cloud computing
 summary: "We are looking for a postdoc scientist to join our team to work on our recently funded project from NOAA Fisheries!"
 
@@ -47,7 +48,7 @@ The postdoc will develop and apply machine learning methodologies to extract ide
 
 The UW Echospace group, based jointly at the Applied Physics Laboratory (APL, https://www.apl.washington.edu/) and eScience Institute (https://escience.washington.edu/), is a highly collaborative research group with members with diverse backgrounds and experiences. Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from computational method development, open source software, cloud applications, to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.
 
-The anticipated start date of this position is in the Fall of 2021. The initial appointment period is 18 months, with renewal contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotional opportunities following the completion of the postdoc appointment are possible subject to availability of funds and demonstration of an interest in developing independent research initiatives during the appointment. The candidate is encouraged to apply for the APL Science and Engineering Enrichment and Development (SEED) Postdoctoral Scholar Program in conjunctionparallel with this position (see https://apply.interfolio.com/86009 for detail). 
+The anticipated start date of this position is in the Fall of 2021. The initial appointment period is 18 months, with renewal contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotional opportunities following the completion of the postdoc appointment are possible subject to availability of funds and demonstration of an interest in developing independent research initiatives during the appointment. The candidate is encouraged to apply for the APL Science and Engineering Enrichment and Development (SEED) Postdoctoral Scholar Program in parallel with this position (see https://apply.interfolio.com/86009 for detail). 
 
 ### Qualifications
 Qualifications of the ideal candidate include:
@@ -64,7 +65,7 @@ Please submit your application to Dr. Wu-Jung Lee (wjlee@apl.washington.edu) wit
 -----------------
 
 #### _Limitations on Appointment_
-_Cumulative length of postdoctoral appointment may not exceed 5 years, including postdoctoral experience(s) at other institutions. Postdoctoral Scholars are engaged in full-time mentored advanced training to enhance professional skills and research independence, and perform primarily research and scholarship under the direction and supervision of University faculty mentors._
+_In compliance with regulations at University of Washington, cumulative length of postdoctoral appointment may not exceed 5 years, including postdoctoral experience(s) at other institutions. Postdoctoral Scholars are engaged in full-time mentored advanced training to enhance professional skills and research independence, and perform primarily research and scholarship under the direction and supervision of University faculty mentors._
 
 _Postdoctoral scholars are represented by UAW 4121 and are subject to the collective bargaining agreement, unless agreed exclusion criteria apply. For more information, please visit the University of Washington Labor Relations website (UAW Contract)._
 

@@ -9,6 +9,7 @@ draft: false
 tags: 
   - machine learning
   - OOI
+  - fisheries acoustics
 summary: "Developing algorithms to discover prominent spatio-temporal patterns of animal movement and grouping behavior observed in sonar echoes using data from the Ocean Observatories Initiative (OOI)."
 
 # Customize

@@ -10,6 +10,7 @@ tags:
   - glider
   - ADCP
   - fieldwork
+  - distributed sensing
 summary: "Enabling distributed, persistent observation of mid-trophic zooplankton and fish using autonomous underwater gliders equipped with acoustic Doppler current profilers (ADCPs)."
 
 # Customize
