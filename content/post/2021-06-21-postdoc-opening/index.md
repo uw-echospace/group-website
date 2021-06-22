@@ -10,7 +10,7 @@ draft: false
 tags: 
   - machine learning
   - cloud computing
-summary: "We are looking for a postdoc scientist to join our team under our recently funded NOAA project!"
+summary: "We are looking for a postdoc scientist to join our team to work on our recently funded project from NOAA Fisheries!"
 
 # Customize
 share: false
@@ -47,10 +47,16 @@ The postdoc will develop and apply machine learning methodologies to extract ide
 
 The UW Echospace group, based jointly at the Applied Physics Laboratory (APL, https://www.apl.washington.edu/) and eScience Institute (https://escience.washington.edu/), is a highly collaborative research group with members with diverse backgrounds and experiences. Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from computational method development, open source software, cloud applications, to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.
 
-The initial appointment period is 18 months, with renewal contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). The candidate is encouraged to apply for the APL Science and Engineering Enrichment and Development (SEED) Postdoctoral Scholar Program in conjunction with this position (see https://apply.interfolio.com/86009 for detail). Promotional opportunities following the completion of the postdoc appointment are possible subject to availability of funds and demonstration of an interest in developing independent research initiatives during the appointment. The anticipated start date of this position is in the Fall of 2021. 
+The anticipated start date of this position is in the Fall of 2021. The initial appointment period is 18 months, with renewal contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotional opportunities following the completion of the postdoc appointment are possible subject to availability of funds and demonstration of an interest in developing independent research initiatives during the appointment. The candidate is encouraged to apply for the APL Science and Engineering Enrichment and Development (SEED) Postdoctoral Scholar Program in conjunctionparallel with this position (see https://apply.interfolio.com/86009 for detail). 
 
 ### Qualifications
-The ideal candidate will hold a PhD degree in acoustics, oceanography, computer science, or a related field, have a track record of first-author, peer-reviewed publications, and prior research experience in any of the following areas: ocean acoustics, fisheries acoustics, machine learning, statistics, and physical or biological oceanography. They are expected to have excellent communication skills, the experience and/or ability to work in a team environment, and a strong interest in interdisciplinary research approaches.
+Qualifications of the ideal candidate include:
+- A PhD degree (earned or nearing completion of) in acoustics, oceanography, physics, computational sciences, statistics, applied mathematics, or a related science or engineering discipline
+- A track record of first-author, peer-reviewed publications
+- Experience in relevant research domains, such as ocean acoustics, fisheries acoustics, machine learning, statistics, data visualization, and physical or biological oceanography.
+- Excellent communication skills
+- The experience and/or ability to work in a team environment
+- A strong interest in interdisciplinary research approaches
 
 ### Application Instructions
 Please submit your application to Dr. Wu-Jung Lee (wjlee@apl.washington.edu) with the following materials: 1) CV including a list of publications (include GitHub handle if available); 2) cover letter with brief description of present and future research interests; 3) a list of three references and their contact information.
