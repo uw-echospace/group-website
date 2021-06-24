@@ -5,14 +5,13 @@ date: 2021-06-21T14:50:00-08:00
 authors: 
   - leewj
   - vms16
-  - emiliom
 slug: 2021-06-21-postdoc-hake-ml
 draft: false
 tags: 
   - machine learning
   - fisheries acoustics
   - cloud computing
-summary: "We are looking for a postdoc scientist to join our team to work on our recently funded project from NOAA Fisheries!"
+summary: "We are looking for a postdoc scientist to join our team on our recently funded project from NOAA Fisheries!"
 
 # Customize
 share: false
@@ -43,22 +42,16 @@ June 21, 2021
 Open until filled. Review of materials will start immediately.
 
 ### Description
-We are looking for a highly motivated and independent individual to join the Echospace group at the University of Washington (https://uw-echospace.github.io/) to conduct research at the intersection of fisheries/ocean acoustics and machine learning. 
+We are looking for a highly motivated and independent individual to join the [Echospace](https://uw-echospace.github.io/) group at the University of Washington to conduct research at the intersection of fisheries/ocean acoustics and machine learning. 
 
 The postdoc will develop and apply machine learning methodologies to extract identification and distribution information of fish and zooplankton from large volumes of water column sonar data collected over the past 20 years off the west coast of the U.S. The project is in close collaboration with the NOAA Fisheries Northwest Fisheries Science Center (NWFSC) with a primary goal of developing a high-throughput echosounder data analysis pipeline to contribute to fishery stock assessment and ecosystem-based management. In addition, the postdoc will have opportunities to develop skills including cloud computing and software engineering as integrated components of their work within Echospace and interact with the vibrant ocean sciences and data science communities at UW and in Seattle. 
 
-The UW Echospace group, based jointly at the Applied Physics Laboratory (APL, https://www.apl.washington.edu/) and eScience Institute (https://escience.washington.edu/), is a highly collaborative research group with members with diverse backgrounds and experiences. Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from computational method development, open source software, cloud applications, to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.
+The UW Echospace group, based jointly at the [Applied Physics Laboratory](https://www.apl.washington.edu/) (APL) and [eScience Institute](https://escience.washington.edu/), is a highly collaborative research group with members with diverse backgrounds and experiences. Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from development of computational methods, open source software, cloud applications, to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.
 
 The anticipated start date of this position is in the Fall of 2021. The initial appointment period is 18 months, with renewal contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotional opportunities following the completion of the postdoc appointment are possible subject to availability of funds and demonstration of an interest in developing independent research initiatives during the appointment. The candidate is encouraged to apply for the APL Science and Engineering Enrichment and Development (SEED) Postdoctoral Scholar Program in parallel with this position (see https://apply.interfolio.com/86009 for detail). 
 
 ### Qualifications
-Qualifications of the ideal candidate include:
-- A PhD degree (earned or nearing completion of) in acoustics, oceanography, physics, computational sciences, statistics, applied mathematics, or a related science or engineering discipline
-- A track record of first-author, peer-reviewed publications
-- Experience in relevant research domains, such as ocean acoustics, fisheries acoustics, machine learning, statistics, data visualization, and physical or biological oceanography.
-- Excellent communication skills
-- The experience and/or ability to work in a team environment
-- A strong interest in interdisciplinary research approaches
+The candidate will hold a PhD degree (earned or nearing completion of) in acoustics, oceanography, computational sciences, or a related field, and have a track record of first-author, peer-reviewed publications, programming experience (Python, R, Matlab, or similar), and prior research experience in relevant research domains, such as ocean acoustics, fisheries acoustics, machine learning, statistics, data visualization, and physical or biological oceanography. Familiarity with echosounder data and analysis techniques, and experience applying machine learning methods to scientific problems are preferred. They are expected to have excellent communication skills, the experience and/or ability to work in a team environment, and a strong interest in interdisciplinary research approaches.
 
 ### Application Instructions
 Please submit your application to Dr. Wu-Jung Lee (wjlee@apl.washington.edu) with the following materials: 1) CV including a list of publications (include GitHub handle if available); 2) cover letter with brief description of present and future research interests; 3) a list of three references and their contact information.
