@@ -5,6 +5,7 @@ date: 2021-06-21T14:50:00-08:00
 authors: 
   - leewj
   - vms16
+  - emiliom
 slug: 2021-06-21-postdoc-hake-ml
 draft: false
 tags: 
@@ -42,7 +43,7 @@ June 21, 2021
 Open until filled. Review of materials will start immediately.
 
 ### Description
-We are looking for a highly motivated and independent individual to join the [Echospace](https://uw-echospace.github.io/) to conduct research at the intersection of fisheries/ocean acoustics and machine learning. 
+We are looking for a highly motivated and independent individual to join the [Echospace](https://uw-echospace.github.io/) group at the Univesity of Washington to conduct research at the intersection of fisheries/ocean acoustics and machine learning. 
 
 The postdoc will develop and apply machine learning methodologies to extract identification and distribution information of fish and zooplankton from large volumes of water column sonar data collected over the past 20 years off the west coast of the U.S. The project is in close collaboration with the NOAA Fisheries Northwest Fisheries Science Center (NWFSC) with a primary goal of developing a high-throughput echosounder data analysis pipeline to contribute to fishery stock assessment and ecosystem-based management. In addition, the postdoc will have opportunities to develop skills including cloud computing and software engineering as integrated components of their work within Echospace and interact with the vibrant ocean sciences and data science communities at UW and in Seattle. 
 
@@ -54,7 +55,14 @@ The anticipated start date of this position is in the Fall of 2021. The initial 
 The candidate will hold a PhD degree (earned or nearing completion of) in acoustics, oceanography, computational sciences, or a related field, and have a track record of first-author, peer-reviewed publications, programming experience (Python, R, Matlab, or similar), and prior research experience in relevant research domains, such as ocean acoustics, fisheries acoustics, machine learning, statistics, data visualization, and physical or biological oceanography. Familiarity with echosounder data and analysis techniques, and experience applying machine learning methods to scientific problems are preferred. They are expected to have excellent communication skills, the experience and/or ability to work in a team environment, and a strong interest in interdisciplinary research approaches.
 
 ### Application Instructions
-Please submit your application to Dr. Wu-Jung Lee (wjlee@apl.washington.edu) with the following materials: 1) CV including a list of publications (include GitHub handle if available); 2) cover letter with brief description of present and future research interests; 3) a list of three references and their contact information.
+Please upload your application materials via Interfolio at https://apply.interfolio.com/89869. Include the following materials: 
+1. CV including a list of publications (include GitHub handle if available)
+2. Cover letter with a brief description of present and future research interests
+3. A list of three references and their contact information
+
+For questions about the position, please reach out to Dr. Wu-Jung Lee (leewj@uw.edu).
+
+To request disability accommodation in the application process, please contact the UW's Disability Services Office at 206-543-6450, or 206-543-6452 (TTY), or dso@uw.edu.
 
 -----------------
 
