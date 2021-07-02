@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Postdoc position for machine learning in fisheries/ocean acoustics"
-date: 2021-06-21T14:50:00-08:00
+date: 2021-06-30T14:50:00-08:00
 authors: 
   - leewj
   - vms16
   - emiliom
-slug: 2021-06-21-postdoc-hake-ml
+slug: 2021-06-30-postdoc-hake-ml
 draft: false
 tags: 
   - machine learning
@@ -37,13 +37,13 @@ image:
 Seattle, WA, USA 
 
 ### Open Date
-June 21, 2021
+June 30, 2021
 
 ### Deadline
 Open until filled. Review of materials will start immediately.
 
 ### Description
-We are looking for a highly motivated and independent individual to join the [Echospace](https://uw-echospace.github.io/) group at the Univesity of Washington to conduct research at the intersection of fisheries/ocean acoustics and machine learning. 
+We are looking for a highly motivated and independent individual to join the [Echospace](https://uw-echospace.github.io/) group at the University of Washington to conduct research at the intersection of fisheries/ocean acoustics and machine learning. 
 
 The postdoc will develop and apply machine learning methodologies to extract identification and distribution information of fish and zooplankton from large volumes of water column sonar data collected over the past 20 years off the west coast of the U.S. The project is in close collaboration with the NOAA Fisheries Northwest Fisheries Science Center (NWFSC) with a primary goal of developing a high-throughput echosounder data analysis pipeline to contribute to fishery stock assessment and ecosystem-based management. In addition, the postdoc will have opportunities to develop skills including cloud computing and software engineering as integrated components of their work within Echospace and interact with the vibrant ocean sciences and data science communities at UW and in Seattle. 
 
