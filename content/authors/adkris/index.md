@@ -30,7 +30,7 @@ education:
   courses:
   - course: BE in Electrical Engineering (in progress)
     institution: University of Washington
-    year: 2024
+    year: 2024 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
