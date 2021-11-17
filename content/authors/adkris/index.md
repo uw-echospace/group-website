@@ -16,9 +16,7 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Applied Physics Lab
 - name: University of Washington
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in applying artificial intelligence for environmental conservation
