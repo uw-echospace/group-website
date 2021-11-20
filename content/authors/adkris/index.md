@@ -16,6 +16,7 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Electrical and Computer Engineering
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
