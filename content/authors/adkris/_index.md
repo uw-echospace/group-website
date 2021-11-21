@@ -49,7 +49,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/adkris1002/
 - icon: paw
-  icon_pack: fab
+  icon_pack: fas
   link: https://wildlabs.net/users/adkris1002
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
