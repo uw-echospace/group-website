@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: BE in Electrical Engineering (in progress)
+  - course: BS in Electrical Engineering (in progress)
     institution: University of Washington
     year: 2024 (expected)
 
