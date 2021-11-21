@@ -48,7 +48,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adkris1002/
-- icon: medium
+- icon: paw
   icon_pack: fab
   link: https://wildlabs.net/users/adkris1002
 # Link to a PDF of your resume/CV from the About widget.
