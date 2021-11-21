@@ -66,7 +66,7 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I will be graduating around the Spring of 2024 and look forward to pursuing graduate studies after receiving my bachelor's degree. 
+I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate around the Spring of 2024 and look forward to hope to pursue graduate studies after receiving my bachelor's degree. 
 
 I have experience in Java, Python, and Arduino. I am interested in using my programming skills to aid wildlife conservation efforts. My current project with Echospace involves monitoring the bat population at the Union Bay Natural Area, beside the Husky Stadium, using their echolocation call activity to develop machine learning algorithms that generate meaningful information on the overall population and ecosystem.
 
