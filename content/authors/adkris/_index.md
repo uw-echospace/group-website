@@ -25,8 +25,8 @@ bio: I am interested in applying artificial intelligence for environmental conse
 
 interests:
 - Bioacoustics
-- Wildlife conservation
 - Artificial Intelligence 
+- Wildlife conservation
 
 education:
   courses:
