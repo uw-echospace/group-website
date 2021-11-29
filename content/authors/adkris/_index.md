@@ -44,7 +44,7 @@ social:
   link: 'mailto:adkris@uw.edu' # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/Adkris1002
+  link: https://github.com/aditya-uw
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adkris1002/
