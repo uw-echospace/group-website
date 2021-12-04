@@ -7,7 +7,7 @@ authors:
   - vms16
   - emiliom
 slug: 2021-06-30-postdoc-hake-ml
-draft: false
+draft: true
 tags: 
   - machine learning
   - fisheries acoustics
