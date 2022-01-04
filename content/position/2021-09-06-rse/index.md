@@ -7,7 +7,7 @@ authors:
   - emiliom
   - vms16
 slug: 2021-09-06-rse
-draft: false
+draft: true
 tags: 
   - python
   - open-source
