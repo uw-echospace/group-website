@@ -26,7 +26,7 @@ organizations:
 interests:
 - Distributed computing
 - Computational mathematics 
-- Applied Mathematics 
+- Applied mathematics 
 - Machine learning
 - Data science
 
@@ -84,7 +84,7 @@ user_groups:
 I truly believe that mathematics is a universal language that can solve some of the world’s most difficult problems! I also recognize that to accomplish these tasks, it is absolutely necessary to employ mathematical techniques in conjunction with software development and distributed computing. I am lucky enough to use these skills to support the UW Echospace’s group goal of extracting knowledge from large volumes of ocean acoustic data.
 
 My primary responsibilities within the group include: 
-   * The development of [echopype]https://github.com/OSOceanAcoustics/echopype
+   * The development of [echopype](https://github.com/OSOceanAcoustics/echopype)
    * Optimizing computational operations for distributed computing
    * Building a scalable cloud cyberinfrastructure
 
