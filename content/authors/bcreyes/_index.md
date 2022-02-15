@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Research Engineer
+role: Research Software Engineer
 
 # Organizations/Affiliations
 organizations:
