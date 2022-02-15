@@ -12,8 +12,8 @@ weight: 12
 superuser: false
 
 # Role/position
-# role: Research Assistant
-external link: https://github.com/linda189
+# role: 
+external_link: https://github.com/linda189
 
 # Organizations/Affiliations
 organizations:
