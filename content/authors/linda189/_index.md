@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 # role: Research Assistant
-- external link: https://github.com/linda189
+external link: https://github.com/linda189
 
 # Organizations/Affiliations
 organizations:
