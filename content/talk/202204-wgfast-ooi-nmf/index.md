@@ -50,7 +50,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: 20220425_ooi_nmf.pdf
 
 url_code:
 url_pdf: 
