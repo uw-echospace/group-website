@@ -12,8 +12,8 @@ weight: 11
 superuser: false
 
 # Role/position
-role: ROLE
-external_link: LINK
+role: 
+external_link: 
 
 # Organizations/Affiliations
 organizations:
