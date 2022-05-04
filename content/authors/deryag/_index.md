@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 role: 
-external_link: 
+external_link: https://www.linkedin.com/in/derya-gumustel/
 
 # Organizations/Affiliations
 organizations:
