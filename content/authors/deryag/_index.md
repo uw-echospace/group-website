@@ -12,7 +12,8 @@ weight: 11
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Instructor Associate at [General Assembly](https://generalassemb.ly/)
+external_link: https://www.linkedin.com/in/derya-gumustel/
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 ## Research Assistant 
