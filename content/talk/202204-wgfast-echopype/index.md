@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: " "
+summary: "This presentation was also given at the NOAA National Centers for Environmental Information (NCEI) Water Column Sonar Data Archive 2022 Workshop on March 29, 2022."
 abstract: Echopype is an open-source Python software package built to enhance the interoperability and scalability of fisheries acoustics data. By standardizing data from diverse instrument sources following a community convention and utilizing the widely embraced netCDF data model to encode data as labeled, multi-dimensional arrays, Echopype facilitates intuitive, user-friendly exploration and use of echosounder data in an instrument-agnostic manner. In addition, it directly enables computational interoperability and scalability in both local and cloud computing environments by leveraging existing open-source Python libraries optimized for distributed computing. Echopype is currently used by the US Ocean Observatories Initiative (OOI) Data Center to parse and serve echosounder data, and by the NOAA National Centers for Environmental Information as the data ingestion backend for interactive visualization on the cloud. In this presentation, we will summarize content of recent Echopype releases, including support for additional echosounder models, direct reading and writing interface with cloud object storage, enhanced data access and integration functionalities, documentation upgrades, and improved data structure adherence to the SONAR-netCDF4 convention. We will conclude by discussing our development roadmap and hope that you will join us to make this a community-driven effort.
 
 # Talk start and end times.
