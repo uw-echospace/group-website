@@ -12,7 +12,7 @@ weight: 11
 superuser: false
 
 # Role/position
-role: 
+role: Instructor Associate at [General Assembly](https://generalassemb.ly/)
 external_link: https://www.linkedin.com/in/derya-gumustel/
 
 # Organizations/Affiliations
