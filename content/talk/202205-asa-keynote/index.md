@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Understanding echoes"
-event: ASA 2022 spring meeting
+event: ASA 2022 spring meeting (ASA - the Aoustical Society of America)
 event_url:
 location: Denver, CO
 address:
@@ -16,12 +16,12 @@ abstract: By sending out sounds and analyzing the returning echoes, both humans 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-04-27T18:10:00+02:00
+date: 2022-05-23T16:10:00+02:00
 # date_end: 2020-10-29T16:30:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: 2020-10-10T08:28:33-08:00
+publishDate: 2020-10-10T08:28:33-08:00
 
 authors:
   - leewj

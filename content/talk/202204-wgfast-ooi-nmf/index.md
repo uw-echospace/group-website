@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Summarizing low-dimensional patterns in long-term echosounder time series from the U.S. Ocean Observatories Initiative network"
-event: WGFAST 2022 meeting (ICES Working Group on Fisheries Acoustics, Science and Technology)
+event: WGFAST 2022 meeting (WGFAST - ICES Working Group on Fisheries Acoustics, Science and Technology)
 event_url:
 location: Senegal + Online
 address:
