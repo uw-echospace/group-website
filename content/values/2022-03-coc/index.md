@@ -1,0 +1,55 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+title: "Code of Conduct & What we value"
+date: 2022-03-29T00:00:00-08:00
+authors: 
+slug: 2022-03-coc-values
+draft: false
+tags: 
+summary: "We review and discuss the code of conduct and what we value as a group regularly, as reminder and inspiration for ourselves."
+
+# Customize
+share: false
+markup: md
+math: true
+featured: false
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  caption:
+  Placement options: 1
+  focal_point: "Center"
+  preview_only: true
+
+---
+
+### Why
+We respect and want to take advantage of the diversity of background and expertise in the group.
+
+We also want to create an optimal learning and research environment for everyone.
+
+### Code of Conduct
+
+Echospace is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of group members in any form. Sexual language and imagery is not appropriate for any group venue, including meetings, presentations, or discussions.
+
+### What we value
+
+- Be open, empathetic, courteous, and patient
+- Be open to change
+- Be respectful to others' views
+- Be inclusive regardless of technical expertise and career stage
+- Share your successes and excitements with the group
+- Respect other people's time
+- Acknowledge contributions from others
+- Ensure everyone has the opportunity to participate and talk both online and in person
+- Give opportunities to others to speak first
+- It is ok to disagree, but not disrespect
+- Don't be afraid to make mistakes
+- Be comfortable reaching to other members for career/academic advice, this is part of peer mentoring
+- Don't be afraid to ask questions or answer others' questions. Unexpected obstacles can always come up: try to understand and help someone deal with their obstacle individually (but not taking away their work from them!)
+- Be comfortable bringing up issues or obstacles that hold you back from getting work done
+- Make accommodations for personal emergencies

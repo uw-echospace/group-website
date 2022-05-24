@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Updates from Echopype developers: changes and roadmap"
-event: WGFAST 2022 meeting
+event: WGFAST 2022 meeting (WGFAST - ICES Working Group on Fisheries Acoustics, Science and Technology)
 event_url:
 location: Senegal + Online
 address:
