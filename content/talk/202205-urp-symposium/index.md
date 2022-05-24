@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Discerning Behavioral Habits of Echolocating Bats Using Acoustical and Computational Methods"
+title: "Discerning behavioral habits of echolocating bats using acoustical and computational methods"
 event: UW Undergraduate Research Symposium
 event_url:
 location: Mary Gates Hall at University of Washington
