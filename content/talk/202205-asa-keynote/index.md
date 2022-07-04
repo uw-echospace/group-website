@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Understanding echoes"
-event: ASA 2022 spring meeting (ASA - the Aoustical Society of America)
+event: ASA 2022 spring meeting (ASA - the Acoustical Society of America)
 event_url:
 location: Denver, CO
 address:
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Keynote lecture at the 2022 Denver Aoustical Society of America meeting."
+summary: "Keynote Lecture at the 2022 Denver Aoustical Society of America meeting."
 abstract: By sending out sounds and analyzing the returning echoes, both humans and animals use active acoustic sensing systems to probe and understand the environment. High-frequency sonar systems, or echosounders, are the workhorse for observing fish and zooplankton in the ocean. Toothed whales and bats navigate and forage via echolocation in the air and under water. In this talk, I will discuss our work with both engineered and biological sonar systems to enable effective extraction and interpretation of information embedded in the echoes. We are developing data-driven methodologies and open-source software tools to tackle challenges imposed by large volumes of echosounder data rapidly accumulating across the global ocean. Using echolocating toothed whales as a model, we are combining experimental and computational approaches to understand biological processing of echo information. Throughout the talk, I will highlight the pivotal role of collaboration in my professional and personal development, and discuss efforts by colleagues and myself to cultivate a sense of community in our field.
 
 # Talk start and end times.
@@ -45,18 +45,18 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: ASA Keynote Lecture Collection
+  url: https://acousticalsociety.org/keynote-lectures-collection/
+  # icon_pack: fab
+  # icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
 url_code:
 url_pdf: 
-url_video: 
+url_video: https://vimeo.com/722733008
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
