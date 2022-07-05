@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Keynote Lecture at the 2022 Denver Aoustical Society of America meeting."
+summary: "Keynote Lecture at the 2022 Denver Acoustical Society of America meeting."
 abstract: By sending out sounds and analyzing the returning echoes, both humans and animals use active acoustic sensing systems to probe and understand the environment. High-frequency sonar systems, or echosounders, are the workhorse for observing fish and zooplankton in the ocean. Toothed whales and bats navigate and forage via echolocation in the air and under water. In this talk, I will discuss our work with both engineered and biological sonar systems to enable effective extraction and interpretation of information embedded in the echoes. We are developing data-driven methodologies and open-source software tools to tackle challenges imposed by large volumes of echosounder data rapidly accumulating across the global ocean. Using echolocating toothed whales as a model, we are combining experimental and computational approaches to understand biological processing of echo information. Throughout the talk, I will highlight the pivotal role of collaboration in my professional and personal development, and discuss efforts by colleagues and myself to cultivate a sense of community in our field.
 
 # Talk start and end times.
