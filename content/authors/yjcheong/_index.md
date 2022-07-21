@@ -27,7 +27,7 @@ interests:
 - Acoustic imaging/sensing
 - Physical acoustics
 - Animal echolocation / bioacoustics
-- Data-driven method in acoustics
+- Data-driven methods in acoustics
 
 
 education:
