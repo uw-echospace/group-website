@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Fellowship opportunities"
+title: "Other opportunities at Echospace"
 date: 2022-07-24T00:00:00-08:00
 authors: 
   - leewj
@@ -30,7 +30,7 @@ image:
 
 ---
 
-We welcome researchers with diverse backgrounds to work with us in the Echospace! Below are a list of regular fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, environmental data science, ocean and coastal observations. Feel free to reach out to us for questions and discussions.
+We welcome researchers with diverse backgrounds to work with us in Echospace! Below are a list of postdoc fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, environmental data science, ocean and coastal observations. Feel free to reach out to us for questions and discussions.
 
 
 ## University of Washington
