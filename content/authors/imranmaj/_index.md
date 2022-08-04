@@ -12,7 +12,7 @@ weight: 21
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: ""
 external_link: https://github.com/imranmaj
 
 # Organizations/Affiliations
