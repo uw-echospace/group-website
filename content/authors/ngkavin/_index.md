@@ -12,8 +12,8 @@ weight: 12
 superuser: false
 
 # Role/position
-role: Graduate student, UW-ECE
-external_link: https://github.com/ngkavin
+role: Operations Automation Engineer, SpaceX
+external_link: https://www.linkedin.com/in/kavin-nguyen/
 
 
 # Organizations/Affiliations
