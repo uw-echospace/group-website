@@ -53,9 +53,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/leewujung
-- icon: home
-  icon_pack: fas
-  link: https://apl.uw.edu/people/profile.php?last_name=Lee&first_name=Wu-Jung
 - icon: igloo
   icon_pack: fas
   link: https://leewujung.github.io/
@@ -72,8 +69,8 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
-  # icon_pack: ai
-  # link: files/cv/shhuang_cv_210208.pdf
+  icon_pack: ai
+  link: /author/wu-jung-lee/leewujung_cv_202207.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
