@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Postdoc position for machine learning in fisheries and ocean acoustics for ecological applications"
-date: 2022-07-25T00:00:00-08:00
+title: "Postdoc position for machine learning in fisheries acoustics for ecological applications"
+date: 2022-08-10T00:00:00-08:00
 authors: 
   - leewj
   - vms16
 slug: 2022-07-25-postdoc
 draft: false
 tags: 
-summary: "We invite applications to come work with us at Echospace to develop ML methods for analyzing fisheries and ocean acoustics data!"
+summary: " "
 
 # Customize
 share: false

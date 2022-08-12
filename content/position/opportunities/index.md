@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Other opportunities at Echospace"
-date: 2022-07-24T00:00:00-08:00
+title: "Opportunities at Echospace"
+date: 2022-07-25T00:00:00-08:00
 authors: 
   - leewj
   - vms16
@@ -9,7 +9,7 @@ authors:
 slug: fellowships
 draft: false
 tags: 
-summary: "We welcome researchers to come work with us at Echospace through various fellowship opportunities!"
+summary: " "
 
 # Customize
 share: false
@@ -30,15 +30,27 @@ image:
 
 ---
 
-We welcome researchers with diverse backgrounds to work with us in Echospace! Below are a list of postdoc fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, environmental data science, ocean and coastal observations. Feel free to reach out to us for questions and discussions.
+## General information
+
+We welcome researchers and students with diverse backgrounds to come work with us in Echospace! If you are interested but do not find a specific position posted, feel free to reach out to us directly. Please include a cover letter and a CV/resume when initiating the contact, so that we have a better idea what you are looking for.
 
 
-## University of Washington
+## Fellowship opportunities
+
+Below are a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.
+
+### Postdoc fellowships
+
+University of Washington
 - [APL SEED Postdoctoral Scholar Program](https://ap.washington.edu/ahr/position-details/?job_id=99111)
-- [Washington Research Foundation (WRF) Postdoctoral Fellowship](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/)
 - [Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) postdoctoral fellowship](https://cicoes.uw.edu/education/postdoc-program/)
+- [Washington Research Foundation (WRF) Postdoctoral Fellowship](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/)
 
-## External
+External
 - [NSF Ocean Sciences (OCE) Postdoctoral Research Fellowships (OCE-PRF)](https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0)
 - [NSF Division of Earth Sciences (EAR) Postdoctoral Fellowships (EAR-PF)](https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf)
-- [Acoustical Society of America (ASA) Hunt Postdoctoral Research fellowship in Acoustics](https://acousticalsociety.org/fellowships-and-scholarships/)
+- [Acoustical Society of America (ASA) Hunt Postdoctoral Research fellowship](https://acousticalsociety.org/fellowships-and-scholarships/)
+
+### Graduate fellowships
+
+- [NSF Graduate fellowships]()
