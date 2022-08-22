@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Postdoc position for machine learning in fisheries acoustics for ecological applications"
-date: 2022-08-10T00:00:00-08:00
+date: 2022-08-22T00:00:00-08:00
 authors: 
   - leewj
   - vms16
-slug: 2022-07-25-postdoc
+slug: 2022-08-22-postdoc
 draft: false
 tags: 
 summary: " "
@@ -33,7 +33,7 @@ image:
 Seattle, WA, USA 
 
 ### Open date
-August 12, 2023
+August 22, 2023
 
 ### Deadline
 Open until filled. Review of materials will start immediately.
