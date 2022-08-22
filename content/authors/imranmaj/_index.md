@@ -12,7 +12,8 @@ weight: 21
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: ""
+external_link: https://github.com/imranmaj
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +75,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 I am a student at the University of Washington studying Electrical Engineering with a concentration in Embedded Computing Systems. I hope to graduate from the University of Washington in Spring/Fall of 2022. I enjoy programming and working with others to create better software.
 
