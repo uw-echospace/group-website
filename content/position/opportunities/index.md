@@ -53,4 +53,4 @@ External
 
 ### Graduate fellowships
 
-- [NSF Graduate fellowships]()
+- [NSF Graduate fellowships](https://www.nsfgrfp.org/)
