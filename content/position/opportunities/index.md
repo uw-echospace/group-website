@@ -41,12 +41,12 @@ Below are a list of fellowship opportunities within and outside of UW. Relevant 
 
 ### Postdoc fellowships
 
-University of Washington
+#### University of Washington
 - [APL SEED Postdoctoral Scholar Program](https://ap.washington.edu/ahr/position-details/?job_id=99111)
 - [Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) postdoctoral fellowship](https://cicoes.uw.edu/education/postdoc-program/)
 - [Washington Research Foundation (WRF) Postdoctoral Fellowship](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/)
 
-External
+#### External
 - [NSF Ocean Sciences (OCE) Postdoctoral Research Fellowships (OCE-PRF)](https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0)
 - [NSF Division of Earth Sciences (EAR) Postdoctoral Fellowships (EAR-PF)](https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf)
 - [Acoustical Society of America (ASA) Hunt Postdoctoral Research fellowship](https://acousticalsociety.org/fellowships-and-scholarships/)
