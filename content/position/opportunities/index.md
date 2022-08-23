@@ -51,6 +51,12 @@ External
 - [NSF Division of Earth Sciences (EAR) Postdoctoral Fellowships (EAR-PF)](https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf)
 - [Acoustical Society of America (ASA) Hunt Postdoctoral Research fellowship](https://acousticalsociety.org/fellowships-and-scholarships/)
 
+
 ### Graduate fellowships
 
-- [NSF Graduate fellowships](https://www.nsfgrfp.org/)
+- [NSF Graduate Research Fellowships Program (GRFP)](https://www.nsfgrfp.org/)
+
+
+### Undergraduate fellowships
+
+- [Mary Gates Research Scholarship](https://expd.uw.edu/mge/apply/research/)
