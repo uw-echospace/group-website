@@ -37,7 +37,7 @@ We welcome researchers and students with diverse backgrounds to come work with u
 
 ## Fellowship opportunities
 
-Below are a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.
+Below is a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.
 
 ### Postdoc fellowships
 
