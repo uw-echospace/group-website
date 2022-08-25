@@ -33,7 +33,7 @@ image:
 Seattle, WA, USA 
 
 ### Open date
-August 22, 2023
+August 22, 2022
 
 ### Deadline
 Open until filled. Review of materials will start immediately.
