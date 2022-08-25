@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Postdoc position for machine learning in fisheries/ocean acoustics for ecological applications"
-date: 2022-08-22T00:00:00-08:00
+date: Fall
 authors: 
   - leewj
   - vms16
