@@ -48,7 +48,13 @@ As a participant of GSoC, I am developing the main APIs of echoshader based on t
 
 Before starting coding, I read lots of documents to find the most suitable tool. Although there are many excellent and fantastic visualizing libraries with Python, such as plotly and bokh, they can not process xarray directly, which is a kind of multidimensional labeled data massively used in echopype.  Then I locked my eyes on HoloViz ecosystem, whose tools and examples generally work with any Python standard data types (lists, dictionaries, etc.), plus Pandas or Dask DataFrames and NumPy, Xarray, or Dask arrays.
 After determining which type of tool to use, I began to read a user guide about HoloViz libraries. There are several libraries mainly used in echoshader: hvplot, Holoviews, GeoViews and Panel.  Hvplot and HoloViews declare objects for instantly visualizable data, building Bokeh plots from convenient high-level specifications. GeoViews visualize geographic data corresponding to ship survey datasets. Panel assembles grams and control widgets from these different libraries into a layout which could be displayed in a Jupyter notebook and in a standalone servable dashboard.  In addition to HoloViz libraries, PyVista and other libraries are involved for 3D extension, which also fit well in panel layout. Also, benchmarking and doc work are required for each module.
+Below are some screenshots of the different visualization functionalities I am developing:
 
+![2d_echogram](https://user-images.githubusercontent.com/15334215/186999651-76081a29-11f8-4d37-b3a9-fca0ad49a03c.png)
+
+![tracks](https://user-images.githubusercontent.com/15334215/186999662-ba744a49-b02e-4451-a716-f8c8df654053.png)
+
+![curtain](https://user-images.githubusercontent.com/15334215/186999678-2bf77985-aab3-42f8-88f9-1f2c78d3b2eb.png)
 Although the project is not difficult, there are some other challenges I face. Learning Git and Github is a prerequisite for me to participate in open source projects for the first time. It is also my first time to collaborate with an English-speaking team. I had difficulty reading and writing English documents, not to mention, communicating. Fortunately, the mentors, Wu-jung, Don, Valentina, Brandon and Emilio are all kind and warmhearted, willing to give me suggestions and guidance.
 
 I really recommend future GSoC participants select the IOOS organization and echospace team as your target and exploit your ability and talent to contribute to the community.  Water is extremely significant for holding an adequate food supply and a productive environment for all living organisms. So working here can not just improve your coding and teamwork capability, but also create a beautiful tomorrow for ourselves and our Mother Earth. 
