@@ -4,6 +4,7 @@ title: "Hello from Dingrui Lei, our GSoC contributor on the new package Echoshad
 date: 2022-07-28T00:00:00-08:00
 authors: 
   - Dingrui Lei
+  - landungs
 slug: 
 draft: false
 tags: 
@@ -30,7 +31,7 @@ image:
 
 _Echospace collaborates with the [Integrated Ocean Observing Systems (IOOS)](https://ioos.us/) in the [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) program in 2022 to jump start an echosounder data interactive visualization package called [echoshader](https://github.com/OSOceanAcoustics/echoshader)._
 
-_[Dingrui Lei](https://github.com/ldr426) is our great GSoC contributor, and our very own [Don Setiawan](author/don-setiawan) is Dingrui's primary mentor._
+_[Dingrui Lei](https://github.com/ldr426) is our great GSoC contributor, and our very own [Don Setiawan](author/don-setiawan) is the primary mentor._
 
 -------------------------------
 
@@ -55,6 +56,7 @@ Below are some screenshots of the different visualization functionalities I am d
 ![tracks](https://user-images.githubusercontent.com/15334215/186999662-ba744a49-b02e-4451-a716-f8c8df654053.png)
 
 ![curtain](https://user-images.githubusercontent.com/15334215/186999678-2bf77985-aab3-42f8-88f9-1f2c78d3b2eb.png)
+
 Although the project is not difficult, there are some other challenges I face. Learning Git and Github is a prerequisite for me to participate in open source projects for the first time. It is also my first time to collaborate with an English-speaking team. I had difficulty reading and writing English documents, not to mention, communicating. Fortunately, the mentors, Wu-jung, Don, Valentina, Brandon and Emilio are all kind and warmhearted, willing to give me suggestions and guidance.
 
 I really recommend future GSoC participants select the IOOS organization and echospace team as your target and exploit your ability and talent to contribute to the community.  Water is extremely significant for holding an adequate food supply and a productive environment for all living organisms. So working here can not just improve your coding and teamwork capability, but also create a beautiful tomorrow for ourselves and our Mother Earth. 
