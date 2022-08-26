@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Hello from Dingrui Lei, our GSoC contributor on the new package Echoshader!"
-date: 2022-08-26T00:00:00-08:00
+date: 2022-07-28T00:00:00-08:00
 authors: 
   - Dingrui Lei
 slug: 
