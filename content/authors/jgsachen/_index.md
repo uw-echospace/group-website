@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aditya Krishna
+title: Josie Sachen
 
 # Username (this should match the folder name)
 authors:
-- adkris
+- jgsachen
 
 weight: 22
 
