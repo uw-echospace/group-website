@@ -16,7 +16,7 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Computer Engineering
+- name: Department of Biology
 - name: Applied Physics Laboratory
 - name: University of Washington
 
@@ -25,14 +25,15 @@ bio: I am interested in applying artificial intelligence for environmental conse
 
 interests:
 - Bioacoustics
-- Artificial Intelligence 
+- Molecular Ecology 
+- 
 - Wildlife conservation
 
 education:
   courses:
-  - course: BS in Electrical Engineering (in progress)
+  - course: BS in Molecular, Cellular, and Developmental Biology; Minor in Environmental Science and Resource Management (in progress)
     institution: University of Washington
-    year: 2024 (expected)
+    year: 2023 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
