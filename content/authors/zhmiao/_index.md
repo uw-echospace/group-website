@@ -6,13 +6,14 @@ title: Zhongqi Miao
 authors:
 - zhmiao
 
-weight: 10
+weight: 22
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc 
+role: ""
+external_link: https://github.com/zhmiao
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +73,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
+
 ---
 I work on problems in wildlife conservation and environmental science using big data with high structural
 complexity (e.g., wildlife imagery data, accelerometer data, and audio data) and state-of-the-art artificial
