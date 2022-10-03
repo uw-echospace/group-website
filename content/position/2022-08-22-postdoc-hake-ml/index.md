@@ -32,18 +32,17 @@ image:
 ### Location
 Seattle, WA, USA 
 
-### Open date
-August 22, 2022
-
 ### Deadline
 Open until filled. Review of materials will start immediately.
 
 ### Description
 We are looking for a highly motivated early-career scientist to join the [Echospace](https://uw-echospace.github.io/) group at the University of Washington to conduct research at the intersection of fisheries/ocean acoustics and machine learning. The postdoc will develop computational methods to extract information from large volumes of ocean acoustic data. The initial project will focus on automatic identification of fish and zooplankton in echosounder data collected by ships, with expansions to integrate additional active/passive acoustic and environmental data streams from collocated moorings in the highly productive [northern California Current System](https://tos.org/oceanography/article/why-is-the-northern-end-of-the-california-current-system-so-productive). The project is in close collaboration with the NOAA Northwest Fisheries Science Center. The successful candidate will have a wide range of opportunities to develop new projects, build integrated skills across physics-based models, data-driven methods, and cloud computing, and interact with the vibrant ocean sciences and data science communities at UW and in Seattle. 
 
-The expected start date of this position is in the fall of 2022. The initial appointment period is one year, with extension contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotion following the completion of the appointment is possible subject to demonstration of an interest and the ability to develop independent research initiatives during the appointment. The candidate is encouraged to apply for the [APL SEED Postdoctoral Scholar Program](https://ap.washington.edu/ahr/position-details/?job_id=99111) and the [UW Data Science Postdoctoral Fellowship](https://escience.washington.edu/uw-data-science-postdoctoral-fellow/) in parallel with this position. 
+The expected start date of this position is in the fall/winter of 2022. The initial appointment period is one year, with extension contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotion following the completion of the appointment is possible subject to demonstration of an interest and the ability to develop independent research initiatives during the appointment. The candidate is encouraged to apply for the [UW Data Science Postdoctoral Fellowship](https://escience.washington.edu/uw-data-science-postdoctoral-fellow/) in parallel with this position. 
 
 The [UW Echospace](https://uw-echospace.github.io/) group is a highly collaborative research group based jointly at the [Applied Physics Laboratory (APL)](https://www.apl.washington.edu/) and [eScience Institute](https://escience.washington.edu/). Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from development of computational methods and open-source software to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.
+
+For other opportunities to work with us, see [this page](https://uw-echospace.github.io/position/fellowships/).
 
 ### Qualifications
 The candidate will hold a PhD degree (earned or nearing completion of) in one of the following fields: acoustics, oceanography, fisheries, statistics, or a related field in computational sciences. They will have a track record of first-author, peer-reviewed publication(s) in related domains and experience programming in Python, R, Matlab, or similar. Familiarity with ocean/fisheries acoustics or experience applying machine learning methods to scientific problems are preferred. They are expected to have excellent communication skills, the ability and desire to work in a team environment, and a strong interest in interdisciplinary research approaches.
