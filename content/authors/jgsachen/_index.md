@@ -21,7 +21,7 @@ organizations:
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested developing conservation solutions based on molecular ecology and genetics.
+bio: I am interested in developing conservation solutions based on molecular ecology and genetics.
 
 interests:
 - Bioacoustics
@@ -69,7 +69,7 @@ user_groups:
 
 I am a student at the University of Washington majoring in Molecular, Cellular, and Developmental Biology with a minor in Environmental Science and Resource Management. I am expected to graduate in the spring of 2023 and hope to one day attend graduate school to further my research. 
 
-I am particularly interested in molecular ecology and population genetics of vulnerable species, and the effect climate change and human development will have on these populations. I am an avid outdoorswoman, and when you cant find me in the lab I am usually hiking, camping, or birdwatching!
+I am particularly interested in molecular ecology and population genetics of vulnerable species, and the effect climate change and human development will have on these populations. I am an avid outdoorswoman, and when you can't find me in the lab I am usually hiking, camping, or birdwatching!
 
 At Echospace, I am part of a team that studies local bat populations using bioacoustic data to better understand social and foraging behavior of bats.  
 
