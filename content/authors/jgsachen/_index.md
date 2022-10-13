@@ -21,13 +21,13 @@ organizations:
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in applying artificial intelligence for environmental conservation
+bio: I am interested developing conservation solutions based on molecular ecology and genetics.
 
 interests:
 - Bioacoustics
 - Molecular Ecology 
-- 
-- Wildlife conservation
+- Population Genetics
+- Wildlife Conversation
 
 education:
   courses:
@@ -42,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adkris@uw.edu' # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jgsachen@uw.edu' # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/aditya-uw
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/adkris1002/
+  link: 
 - icon: paw
   icon_pack: fas
-  link: https://wildlabs.net/users/adkris1002
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,13 +67,13 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
+I am a student at the University of Washington majoring in Molecular, Cellular, and Developmental Biology with a minor in Environmental Science and Resource Management. I am expected to graduate in the spring of 2023 and hope to one day attend graduate school to further my research. 
 
-My core competency is in programming, with an expertise in Java and Python. I aim to use my programming skills to aid in ecological & environmental conservation. 
+I am particularly interested in molecular ecology and population genetics of vulnerable species, and the effect climate change and human development will have on these populations. I am an avid outdoorswoman, and when you cant find me in the lab I am usually hiking, camping, or birdwatching!
 
-At Echospace, I am currently working on using machine learning methods on echolocation data to understand the foraging and social behaviors of bats in the wild. 
+At Echospace, I am part of a team that studies local bat populations using bioacoustic data to better understand social and foraging behavior of bats.  
 
-Feel free to ask me any questions at my email on pursuing research as an undergraduate!
+I am available via email, and happy to answer any questions you may have. 
 
 
 
