@@ -17,7 +17,7 @@ role: Research Software Engineer
 # Organizations/Affiliations
 organizations:
 - name: eScience Institute
-  url: "https://escience.washington.edu/"
+  url: "https://escience.washington.edu/member/don-setiawan/"
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
