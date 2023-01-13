@@ -16,17 +16,20 @@ role: Research Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: School of Oceanography
-  url: "https://www.ocean.washington.edu/home/Don_Setiawan"
+- name: eScience Institute
+  url: "https://escience.washington.edu/"
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Research Software Engineer at the University of Washington with a strong focus in designing, developing, and maintaining scientific data analysis systems. I am a contributor to various open source software. I learning new technologies and apply them in my work.
 
 interests:
-- Geospatial Information Systems (GIS)
-- Data Engineering / Data Science
+- Data Management and Engineering
 - Software Engineering
+- Geospatial Information Systems (GIS)
+- Reproducibility & Open Science
+- Earth & Environmental Sciences
+- Oceanography
 - Web Development
 - DevOps/GitOps
 
@@ -71,10 +74,14 @@ user_groups:
 - Researchers
 ---
 
-## Ocean Research Software Engineering
+## Research Software Engineering
 
-I am a software engineer with a strong focus in designing and maintaining geospatial data analysis systems and software to support environmental research. I am currently providing software and research support for the [OOI Regional Cabled Array team](https://interactiveoceans.washington.edu/). I am also a part of the Open-Source Ocean Acoustics Github Organization, developing [echopype](https://github.com/OSOceanAcoustics/echopype) software for ocean sonar data.
+I am a research software engineer with a strong focus in designing and maintaining geospatial data analysis systems and software to support environmental research.
+I am currently providing software solutions for research projects as part of the [Scientific Software Engineering Center (SSEC)](https://escience.washington.edu/software-engineering/ssec/) at UW eScience Institute.
+I am also a part of the Open-Source Ocean Acoustics Github Organization, developing [echopype](https://github.com/OSOceanAcoustics/echopype) software for ocean sonar data.
 
-I have expertise in Python programming, web development, geospatial data analytics, data management solutions, data visualization, relational databases, and system administration. I love to contribute to open-source software and share my knowledge.
+I have expertise in Python programming, web development, geospatial data analytics, data management solutions, data visualization, relational databases, and system administration.
+I love to contribute to open-source software and share my knowledge.
 
-I am a UW School of Oceanography alumnus. I gained my bachelor's degree here with a focus on geospatial data analysis and management through the development of wave sensor buoys to study the spatial variability of oceanic waves. I was also actively involved with Marine Technology Society (MTS), OceanGate Foundation (OGF), Benthic Acoustic Mapping and Survey (BEAMS), Ocean Observatory Initiative-Interactive Oceans (OOI-IO), and served as the Information Technology Lead for Exploration and Remote Instrumentation by Students (ERIS).
+I am a UW School of Oceanography alumnus. I gained my bachelor's degree here with a focus on geospatial data analysis and management through the development of wave sensor buoys to study the spatial variability of oceanic waves.
+I was also actively involved with Marine Technology Society (MTS), OceanGate Foundation (OGF), Benthic Acoustic Mapping and Survey (BEAMS), Ocean Observatory Initiative-Interactive Oceans (OOI-IO), and served as the Information Technology Lead for Exploration and Remote Instrumentation by Students (ERIS).
