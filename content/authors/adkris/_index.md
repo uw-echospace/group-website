@@ -24,8 +24,8 @@ organizations:
 bio: I am interested in applying artificial intelligence for environmental conservation
 
 interests:
-- Bioacoustics
-- Artificial Intelligence 
+- Echolocation/Bioacoustics
+- Digital Signal Processing
 - Wildlife conservation
 
 education:
