@@ -21,7 +21,7 @@ organizations:
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in applying artificial intelligence for environmental conservation
+bio: I am interested in applying signal processing and machine learning for understanding echolocating animals
 
 interests:
 - Digital Signal Processing
