@@ -16,9 +16,10 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
+- name: University of Washington
 - name: Department of Electrical and Computer Engineering
 - name: Applied Physics Laboratory
-- name: University of Washington
+- name: Community of Mary Gates Scholars
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in applying machine learning algorithms for understanding echolocating animals
@@ -30,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Electrical Engineering (in progress)
+  - course: BS in Electrical Engineering
     institution: University of Washington
     year: 2024 (expected)
 
