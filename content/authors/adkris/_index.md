@@ -67,7 +67,7 @@ user_groups:
 
 I am a student at the University of Washington majoring in Electrical Engineering and pursuing Digital Signal Processing and Neural Engineering concentrations. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
 
-My core competency is in programming, with an expertise in Python and Java. I am currently studying how signal processing methods are used in passive acoustic monitoring projects to address project-specific goals and aid in ecological conservation.
+My core competency is in programming, with an expertise in Python and Java. I am currently applying signal processing techniques in passive acoustic monitoring of bats with a goal toward ecological conservation.
 
 At Echospace, I am developing and applying computational methods on echolocation data to understand the foraging and social behaviors of bats in the wild. We collect our echolocation data from local bat colonies by deploying AudioMoths, which are autonomous recording units, at the Union Bay Natural Area, beside the Husky Football Stadium.
 
