@@ -70,7 +70,7 @@ I am a student at the University of Washington majoring in Mathematics and minor
 
 My applied math interests are in signal processing, specifically in the area of acoustics. My math interests lie mostly in Harmonic Analysis. My hobbies include running, swimming, and (very inconsistently) playing the piano.
 
-At Echospace, I am working on two projects: UBNA Bat Passive Acoustic Monitoring and Echoregions.
+At Echospace, I am working on UBNA Bat Passive Acoustic Monitoring and the Echoregions software package.
 
 Echoregions: A Python data processing software package to support the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
 
