@@ -66,7 +66,7 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Mathematics and minoring in Data Science. I am expected to graduate the Spring of 2023 and am planning on pursuing a graduate education in Statistics.
+I am a student at the University of Washington majoring in Mathematics and minoring in Data Science. I am expected to graduate in the Spring of 2023 and am planning on pursuing graduate education in Statistics.
 
 My interests in applied math are in signal processing, specifically in the area of acoustics. My math interests lie mostly in Harmonic Analysis. My hobbies include running, swimming, and (very inconsistently) playing the piano.
 
