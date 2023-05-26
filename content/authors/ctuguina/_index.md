@@ -68,11 +68,11 @@ user_groups:
 
 I am a student at the University of Washington majoring in Mathematics and minoring in Data Science. I am expected to graduate the Spring of 2023 and am planning on pursuing a graduate education in Statistics.
 
-My applied math interests are in signal processing, specifically in the area of acoustics. My math interests lie mostly in Harmonic Analysis. My hobbies include running, swimming, and (very inconsistently) playing the piano.
+My interests in applied math are in signal processing, specifically in the area of acoustics. My math interests lie mostly in Harmonic Analysis. My hobbies include running, swimming, and (very inconsistently) playing the piano.
 
-At Echospace, I am working on the Echoregions software package and the UBNA Bat Passive Acoustic Monitoring project.
+At Echospace, I am working on the EchoRegions software package and the UBNA Bat Passive Acoustic Monitoring project.
 
-Echoregions: A Python data processing software package to support the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
+[EchoRegions](https://github.com/OSOceanAcoustics/echoregions): A Python data processing software package to support the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
 
 UBNA Bat Passive Acoustic Monitoring: Field data collection, management, processing, and analysis tasks to gain information from the collected passive acoustic monitoring datasets.
 
