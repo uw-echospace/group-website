@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: "HPC support at CU Boulder"
+role: "HPC specialist at CU Boulder"
 external_link: https://github.com/b-reyes
 
 # Organizations/Affiliations
