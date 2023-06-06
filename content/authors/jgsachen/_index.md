@@ -12,7 +12,8 @@ weight: 22
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: ""
+external_link: 
 
 # Organizations/Affiliations
 organizations:

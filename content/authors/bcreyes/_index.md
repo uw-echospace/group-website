@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 role: "HPC support at CU Boulder"
-external link: https://github.com/b-reyes
+external_link: https://github.com/b-reyes
 
 # Organizations/Affiliations
 organizations:
