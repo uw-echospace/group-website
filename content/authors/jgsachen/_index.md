@@ -64,7 +64,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a student at the University of Washington majoring in Molecular, Cellular, and Developmental Biology with a minor in Environmental Science and Resource Management. I am expected to graduate in the spring of 2023 and hope to one day attend graduate school to further my research. 
