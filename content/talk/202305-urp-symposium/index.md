@@ -27,7 +27,6 @@ authors:
   - adkris
 tags:
   - bioacoustics
-  - subsampling
   - passive acoustic monitoring
   - machine learning
   
