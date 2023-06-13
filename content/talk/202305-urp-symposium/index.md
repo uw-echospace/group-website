@@ -16,7 +16,7 @@ abstract: In long term data collection, sampling is a key parameter that can dic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-20T15:30:00+02:00
+date: 2023-05-20T15:30:00+02:00
 # date_end: 2020-10-29T16:30:00-05:00
 all_day: false
 
