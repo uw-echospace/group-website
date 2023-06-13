@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Investigation of Duty Cycles in Passive Acoustic Bat Monitoring"
+title: "Investigation of duty cycles in passive acoustic bat monitoring"
 event: UW Undergraduate Research Symposium
 event_url:
 location: Mary Gates Hall at University of Washington
