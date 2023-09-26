@@ -7,7 +7,7 @@ authors:
 slug:
 draft: false
 tags:
-summary: "Echospace hosted a contributor-[Dingrui Lei](https://github.com/ldr426), to refactor [echoshader](https://github.com/OSOceanAcoustics/echoshader), a package for interactive visualization of echosounder data."  
+summary: "Echospace hosted a contributor - Dingrui Lei, to refactor echoshader - a package for interactive visualization of echosounder data."  
 
 # Customize
 share: false
