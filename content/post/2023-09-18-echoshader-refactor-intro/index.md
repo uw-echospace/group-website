@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Hello from Dingrui Lei, A Contributor Refactoring Work of Echoshader!"
+title: "A summer of Refactoring Echoshader!"
 date: 2023-09-18T00:00:00-08:00
 authors:
   - Dingrui Lei
 slug:
 draft: false
 tags:
-summary: "Echospace hosted a contributor to jump refactor [echoshader](https://github.com/OSOceanAcoustics/echoshader), a package for interactive visualization of echosounder data."  
+summary: "Echospace hosted a contributor-Dingrui Lei to refactor [echoshader](https://github.com/OSOceanAcoustics/echoshader), a package for interactive visualization of echosounder data."  
 
 # Customize
 share: false
@@ -38,7 +38,7 @@ Author: [Dingrui Lei](mailto:leidingrui426@gmail.com)
 [Slides](https://docs.google.com/presentation/d/1HmL2-luVmA9T5HfS3L1kBu8c7dDHo75znwaS-8YlTSE/edit#slide=id.p) of presentation 
 [Docs](https://echoshader--140.org.readthedocs.build/en/140/intro.html)  for this version
 
-Hello, readers! I'm excited to share my summer internship experience working on the fascinating project, Echoshader. This Python package, designed to enhance the visualization of ocean sonar data, has been my focus this summer. While I won't be delving into technical jargon, I'll give you a glimpse of my journey, the challenges I faced, and the accomplishments achieved during my internship.
+Hello, readers! I'm excited to share my summer internship experience working on the fascinating project, Echoshader. This Python package, designed to enhance the visualization of ocean sonar data, has been my focus this summer. While I won't be delving into technical jargon, I'll give you a glimpse of my journey, the challenges I faced, and the accomplishments achieved during my internship. The prototype was built during [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/organizations/ioos).
 
 ## Echoshader: Bridging the Gap in Ocean Sonar Data Visualization
 
@@ -60,32 +60,32 @@ I defined the class and set up initial values and interactive widgets. These wid
 
 Echoshader needed to be interactive, allowing users to explore data dynamically. This required creating callback methods and stream objects. These elements connected user interactions to visualization updates, making the whole experience smooth and intuitive.
 
-### 3. Extending Xarray with Accessors: A New Level of Functionality
+### 3. Extending `Xarray` with Accessors: A New Level of Functionality
 
-One of the exciting challenges I encountered was extending xarray's functionality using accessors. This means adding custom methods and functionality to xarray objects, without cluttering the code with custom functions. We created a custom "eshader" accessor, which allowed us to take echogram visualization to the next level.
+One of the exciting challenges I encountered was extending `xarray`'s functionality using accessors. This means adding custom methods and functionality to `xarray` objects, without cluttering the code with custom functions. We created a custom "eshader" accessor, which allowed us to take echogram visualization to the next level.
 
 ## A Glimpse into Echogram Visualization
 
 Echogram visualization is where the magic happens. It's not just about pretty pictures; it's about gaining insights into marine life and ecosystems.
 
--   Fisheries scientists rely on echograms to identify fish aggregations, scrolling through data collected on ships to assess populations.
--   Oceanographers use echograms to observe zooplankton movements in mooring data over extended periods.
--   The "tricolor" echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.
+-   **Echograms for Identifying Fish**:Fisheries scientists rely on echograms to identify fish aggregations, scrolling through data collected on ships to assess populations.
+-   **Echograms for Observing Zooplankton**: Oceanographers use echograms to observe zooplankton movements in mooring data over extended periods.
+-   **Tricoloc Echograms**:The "tricolor" echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.
 
 ## Tracking and Curtain Visualization
 
 One of the most exciting aspects of Echoshader is tracking and curtain visualization. It's like having a GPS for underwater data.
 
--   Echogram-Control Mode: Visualizing data on a map helps assess fish associations with environmental variables.
--   Track-Control Mode: Highlighting ship track sections on the map while viewing corresponding echograms offers precise insights into marine life at specific locations.
--   Curtain Visualization: Representing longer data sections as curtains provides a broader spatial perspective on fish aggregations.
+-   **Echogram-Control Mode**: Visualizing data on a map helps assess fish associations with environmental variables.
+-   **Track-Control Mode**: Highlighting ship track sections on the map while viewing corresponding echograms offers precise insights into marine life at specific locations.
+-   **Curtain Visualization**: Representing longer data sections as curtains provides a broader spatial perspective on fish aggregations.
 
 ## Histograms and Statistics Tables: Tools for Deeper Analysis
 
 Histograms and statistics tables are essential for fisheries scientists.
 
--   Focused Analysis: Scientists can zoom in on specific data sections to examine volume backscattering strength (Sv) distribution and understand the types of fish present.
--   Multi-Channel Comparisons: Comparing Sv distributions across multiple echosounder channels helps determine fish aggregation composition, offering valuable insights into the ecosystem.
+-   **Focused Analysis**: Scientists can zoom in on specific data sections to examine volume backscattering strength (Sv) distribution and understand the types of fish present.
+-   **Multi-Channel Comparisons**: Comparing Sv distributions across multiple echosounder channels helps determine fish aggregation composition, offering valuable insights into the ecosystem.
 
 ## In Conclusion: An Incredible Summer Journey
 
