@@ -71,9 +71,9 @@ One of the exciting challenges I encountered was extending `xarray`'s functional
 
 Echogram visualization is where the magic happens. It's not just about pretty pictures; it's about gaining insights into marine life and ecosystems.
 
--   **Echograms for Identifying Fish**:Fisheries scientists rely on echograms to identify fish aggregations, scrolling through data collected on ships to assess populations.
+-   **Echograms for Identifying Fish**: Fisheries scientists rely on echograms to identify fish aggregations, scrolling through data collected on ships to assess populations.
 -   **Echograms for Observing Zooplankton**: Oceanographers use echograms to observe zooplankton movements in mooring data over extended periods.
--   **Tricoloc Echograms**:The "tricolor" echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.
+-   **Tricolor Echograms**: The "tricolor" echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.
 <img width="613" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/57472c8e-eef9-432a-83dd-2292b4eea546">
 
 ## Tracking and Curtain Visualization
@@ -97,6 +97,6 @@ Histograms and statistics tables are essential for fisheries scientists.
 
 ## In Conclusion: An Incredible Summer Journey
 
-My summer internship with Echoshader has been a remarkable journey. I've had the privilege of contributing to a project that has the potential to revolutionize oceanographic research and fisheries science. Echoshader isn't just a package; it's a gateway to uncovering the secrets of our oceans.
+My summer internship with Echoshader has been a remarkable journey. I've had the privilege of contributing to a project to advance oceanographic research and fisheries science. Echoshader isn't just a package; it's a gateway to uncovering the secrets of our oceans.
 
 If you're curious about ocean sonar data or want to explore the world of marine life, Echoshader is your partner in discovery. Feel free to reach out if you have questions or want to join us on this exciting journey. Until next time, happy exploring!
