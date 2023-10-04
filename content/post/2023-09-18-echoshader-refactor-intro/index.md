@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "A summer of Refactoring Echoshader!"
+title: "A Summer of Refactoring Echoshader!"
 date: 2023-09-18T00:00:00-08:00
 authors:
   - Dingrui Lei
