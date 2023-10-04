@@ -28,7 +28,7 @@ image:
 
 ---
 
-_Echospace recruited a contributor in 2023 to jump refactor an echosounder data interactive visualization package called [echoshader](https://github.com/OSOceanAcoustics/echoshader)._
+_Echospace recruited contributor Dingrui Lei in 2023 to refactor an echosounder data interactive visualization package called [echoshader](https://github.com/OSOceanAcoustics/echoshader)._
 
 _[Dingrui Lei](https://github.com/ldr426) is our contributor._
 
