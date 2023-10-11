@@ -61,7 +61,7 @@ I defined the class and set up initial values and interactive widgets. These wid
 ### 2. Callbacks and Streams: Making It Interactive
 
 Echoshader needed to be interactive, allowing users to explore data dynamically. This required creating callback methods and stream objects. These elements connected user interactions to visualization updates, making the whole experience smooth and intuitive.
-#<img width="594" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/472ca1bf-4ec3-#4e27-82db-20dba3f7fa58">
+<img width="594" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/472ca1bf-4ec3-#4e27-82db-20dba3f7fa58">
 
 ### 3. Extending `Xarray` with Accessors: A New Level of Functionality
 
