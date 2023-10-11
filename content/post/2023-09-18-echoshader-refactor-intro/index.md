@@ -61,7 +61,7 @@ I defined the class and set up initial values and interactive widgets. These wid
 ### 2. Callbacks and Streams: Making It Interactive
 
 Echoshader needed to be interactive, allowing users to explore data dynamically. This required creating callback methods and stream objects. These elements connected user interactions to visualization updates, making the whole experience smooth and intuitive.
-<img width="594" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/472ca1bf-4ec3-4e27-82db-20dba3f7fa58">
+#<img width="594" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/472ca1bf-4ec3-#4e27-82db-20dba3f7fa58">
 
 ### 3. Extending `Xarray` with Accessors: A New Level of Functionality
 
@@ -74,7 +74,9 @@ Echogram visualization is where the magic happens. It's not just about pretty pi
 -   **Echograms for Identifying Fish**: Fisheries scientists rely on echograms to identify fish aggregations, scrolling through data collected on ships to assess populations.
 -   **Echograms for Observing Zooplankton**: Oceanographers use echograms to observe zooplankton movements in mooring data over extended periods.
 -   **Tricolor Echograms**: The "tricolor" echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.
-<img width="613" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/57472c8e-eef9-432a-83dd-2292b4eea546">
+
+<img width="613" alt="single_frequency_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/a51a6a76-c73d-46c1-84dd-8df643438f07">
+<img width="613" alt="tricolor_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/e4ef610b-a8ba-426b-b2af-4342ba8c69e8">
 
 ## Tracking and Curtain Visualization
 
