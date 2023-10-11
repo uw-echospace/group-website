@@ -76,7 +76,8 @@ Echogram visualization is where the magic happens. It's not just about pretty pi
 -   **Tricolor Echograms**: The "tricolor" echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.
 
 <img width="613" alt="single_frequency_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/a51a6a76-c73d-46c1-84dd-8df643438f07">
-<img width="613" alt="tricolor_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/e4ef610b-a8ba-426b-b2af-4342ba8c69e8">
+<img width="613" alt="tricolor_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/0ba62c35-5dd0-41db-9225-db0290be1215">
+
 
 ## Tracking and Curtain Visualization
 
