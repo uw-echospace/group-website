@@ -28,9 +28,7 @@ image:
 
 ---
 
-_Echospace recruited contributor Dingrui Lei in 2023 to refactor an echosounder data interactive visualization package called [echoshader](https://github.com/OSOceanAcoustics/echoshader)._
-
-_[Dingrui Lei](https://github.com/ldr426) is our contributor._
+_Echospace recruited contributor [Dingrui Lei](https://github.com/ldr426) in 2023 to refactor an echosounder data interactive visualization package called [echoshader](https://github.com/OSOceanAcoustics/echoshader)._
 
 -------------------------------
 # My 2023 Summer Internship with Echoshader: A Dive into Advanced Ocean Sonar Data Visualization
