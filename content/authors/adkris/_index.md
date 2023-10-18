@@ -20,7 +20,7 @@ organizations:
 - name: Applied Physics Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in applying machine learning algorithms for understanding echolocating animals
+bio: I am interested in studying echolocation as a sensory tool.
 
 interests:
 - Digital Signal Processing
