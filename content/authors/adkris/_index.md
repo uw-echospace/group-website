@@ -24,8 +24,8 @@ bio: I am interested in applying machine learning algorithms for understanding e
 
 interests:
 - Digital Signal Processing
+- Auditory Neuroscience
 - Echolocation/Bioacoustics
-- Passive Acoustic Monitoring
 
 education:
   courses:
