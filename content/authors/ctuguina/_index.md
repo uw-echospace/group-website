@@ -67,6 +67,6 @@ At Echospace, I am working on the Hake Machine Learning (ML) Project.
 
 The Hake ML Project is a Data Processing and Convolutional Neural Network project focused on the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
 
-One of the software packages I am developing and maintaining for this project is [EchoRegions](https://github.com/OSOceanAcoustics/echoregions): A Python data processing software package to create region and bottom masks for Echosounder data using both Echoview data and data products from [Echopype](https://github.com/OSOceanAcoustics/echopype).
+One of the software packages I am developing and maintaining in this project is [EchoRegions](https://github.com/OSOceanAcoustics/echoregions): A Python data processing software package to create region and bottom masks for echosounder data using both Echoview data and data products from [Echopype](https://github.com/OSOceanAcoustics/echopype).
 
 For any inquiries, feel free to contact me via email!
