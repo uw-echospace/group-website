@@ -73,5 +73,5 @@ I am interested in developing methods that aid or improve conventional acoustic 
 
 
 My primary responsibilities within the group include: 
-   * Developing and interpreting physics-based models to understand the complex interaction of sound with elastic media and gain insights into how it influences the perception of sound by humans.
+   * Developing and interpreting physics-based models to understand the complex interaction of sound with elastic media and gain insights into how it influences the perception of sound by toothed whales.
 
