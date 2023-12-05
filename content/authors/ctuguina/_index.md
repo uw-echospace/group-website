@@ -24,9 +24,9 @@ bio: I am interested in using signal processing techniques to understand acousti
 
 interests:
 - Signal Processing
-- Bioacoustics/Speech Acoustics
-- Passive Acoustic Monitoring
-- Harmonic Analysis
+- Acoustics
+- Machine Learning
+- Data Processing
 
 education:
   courses:
@@ -41,17 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ctuguina@uw.edu' # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ctuguina@uw.edu'
 - icon: github
   icon_pack: fab
   link: https://github.com/ctuguinay
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/adkris1002/
-#- icon: paw
-#  icon_pack: fas
-#  link: https://wildlabs.net/users/adkris1002
-# Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -66,14 +59,14 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Mathematics and minoring in Data Science. I am expected to graduate in the Spring of 2023 and am planning on pursuing graduate education in Statistics.
+I am a recent graduate of the University of Washington. I majored in Mathematics and minored in Data Science. I am planning on pursuing graduate education in Statistics/Applied Mathematics.
 
-My interests in applied math are in signal processing, specifically in the area of acoustics. My math interests lie mostly in Harmonic Analysis. My hobbies include running, swimming, and (very inconsistently) playing the piano.
+My interests in applied math are in signal processing, specifically in the area of acoustics. My hobbies include running, swimming, and (very inconsistently) playing the piano.
 
-At Echospace, I am working on the EchoRegions software package and the UBNA Bat Passive Acoustic Monitoring project.
+At Echospace, I am working on the Hake Machine Learning (ML) Project.
 
-[EchoRegions](https://github.com/OSOceanAcoustics/echoregions): A Python data processing software package to support the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
+The Hake ML Project is a Data Processing and Convolutional Neural Network project focused on the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
 
-UBNA Bat Passive Acoustic Monitoring: Field data collection, management, processing, and analysis tasks to gain information from the collected passive acoustic monitoring datasets.
+One of the software packages I am developing and maintaining in this project is [EchoRegions](https://github.com/OSOceanAcoustics/echoregions): A Python data processing software package to create region and bottom masks for echosounder data using both Echoview data and data products from [Echopype](https://github.com/OSOceanAcoustics/echopype).
 
 For any inquiries, feel free to contact me via email!
