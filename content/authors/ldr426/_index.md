@@ -12,7 +12,8 @@ weight: 22
 superuser: false
 
 # Role/position
-role: Research Software Engineer Intern
+role: ""
+external_link: 
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +63,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
+
 ---
 I have strong eagerness to explore new domains and my ability to grasp complex concepts has allowed me to become a well-rounded and versatile computer science enthusiast.
 
