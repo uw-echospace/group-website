@@ -13,7 +13,7 @@ superuser: false
 
 # Role/position
 role: ""
-external_link: 
+external_link: https://github.com/ldr426
 
 # Organizations/Affiliations
 organizations:
