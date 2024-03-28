@@ -69,7 +69,7 @@ I am a student at the University of Washington majoring in Statistics with a Dat
 
 I specialize in applying Python and R for data analysis. My hobbies are photography and composing. 
 
-As a new member at Echospace, I am still in the learning phase. I am currently responsible for weekly field trips to the Union Bay Natural Area to deploy the acoustic loggers. My goal is to build a general buzz detector by the end of December. Although I'm new to the field of acoustics, I'm enjoying learning about the field because spectrograms are really cool!
+
 
 If you have any questions, please feel free to contact me via email.
 
