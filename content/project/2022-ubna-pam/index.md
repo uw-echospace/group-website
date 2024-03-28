@@ -31,5 +31,8 @@ image:
 
 ---
 
+### Here is a map of the UBNA and our 6 locations
+![map](./featured_map.png)
+
 **Funding agency**: 
 
