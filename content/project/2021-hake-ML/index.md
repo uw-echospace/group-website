@@ -32,6 +32,8 @@ image:
 
 ---
 
+<img src="featured.jpg" alt="Fisheries Acoustics" width="500" height="300">
+
 Active acoustic data collected with scientific echosounders from acoustic surveys have become essential for stock assessment in fisheries resources management. Over the past three decades, a wide suite of physics-based acoustic scattering models were developed to allow translating acoustic observations to biological quantities, such as biomass and abundance, for different marine organisms. In parallel, quantitative scientific echosounders have progressed from specialized equipment to one of the standard instruments on fisheries survey vessels. 
 
 To take full advantage of these large and complex new datasets, in this project we aim to combine the development of machine learning methodology with a cloud-based workflow to accelerate the extraction of biological information from fisheries acoustic data. This project is in close collaboration with the [Fisheries Engineering and Acoustics Technology (FEAT) team](https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team) at the NOAA Fisheries [Northwest Fisheries science center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and uses data collected in the past 20 years off the west coast of the U.S. from the [Joint U.S.-Canada Integrated Ecosystem and Pacific Hake Acoustic-Trawl Survey](https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey) (aka the "Hake survey").
