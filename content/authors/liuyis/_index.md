@@ -65,13 +65,13 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Statistics with a Data Science concentration. I expect to graduate in Spring 2025 and plan to pursue a graduate degree in Statistics or Data Science.
+I am a student at the University of Washington majoring in Statistics with a Data Science concentration. I expect to graduate in Spring 2025 and plan to pursue a graduate degree in Statistics or Data Science. 
 
 I specialize in applying Python and R for data analysis. My hobbies are photography and composing. 
 
 At Echospace, I am working on the Bat Detector Validation Project. It is a manual calibration project that creates ground truth datasets for finetuning the batdetect2 (a deep learning model for detecting and classifying bat echolocation calls in high-frequency audio recordings) by manually labeling bat calls in RavenPro. I am also analyzing the effects of different environmental conditions on bat activity using statistical methods such as regression and ANOVA. 
 
-In addition, I am mainly in charge of weekly trips to the Union Bay Natural, deploying and recovering audiomoths, then uploading the week's data to the hard drive in the lab. I understand the importance of obtaining high-quality datasets for scientific research.
+In addition, I am mainly in charge of weekly trips to the Union Bay Natural, deploying and recovering audiomoths, then uploading the week's data to the hard drive in the lab. I understand the importance of obtaining high-quality datasets for scientific research. 
 
 If you have any questions, please feel free to contact me via email.
 
