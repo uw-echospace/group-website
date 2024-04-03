@@ -10,7 +10,7 @@ tags:
   - bat echolocation
   - passive acoustics
   - community engagement
-summary: "Developing a passive acoustics monitoring program to study echolocation in bats"
+summary: "Using passive acoustic techniques to study bat foraging behaviors in an urban natural area"
 
 # Customize
 share: false
@@ -31,8 +31,7 @@ image:
 
 ---
 
-### Here is a map of the UBNA and our 6 locations
-![map](./featured_map.png)
+
 
 **Funding agency**: 
 
