@@ -1,31 +1,55 @@
+**[03/2024]** Wu-Jung and Valentina hosted 2 Capstone teams in the Master of Science in Data Science program for sonar data processing and automatic bat call detection.
 
-**[09/26/2023]** YeonJoon has been selected as a [UW Data Science Postdoctoral Fellow](https://escience.washington.edu/people/postdoctoral-fellows/).
+**[12/2023]** We welcome [Dr. Brandyn Lucca](/author/brandyn-lucca) to join Echospace as a [SEED](https://seeyourselfapl.uw.edu/seed-postdoctoral-fellowship/) postdoctoral fellow!
 
-**[05/19/2023]** Aditya presented his ongoing research on the effects of subsampling for passive acoustic monitoring of bats at [UW's 26th Annual Undergraduate Research Symposium](https://expo.uw.edu/expo/apply/676/proceedings).
+**[12/2023]** Soham gave a talk at 2023 PyData Global -- check out his [abstract](https://global2023.pydata.org/cfp/talk/FF9MXK/) and the [video recording](https://www.youtube.com/watch?v=9hr9rSOq5jQ )!
 
+**[10/2023]** Valentina and Wu-Jung gave a talk and a poster presentation in the [2023 North Pacific Marine Science Organization (PICES) meeting](https://meetings.pices.int/meetings/annual/2023/PICES/news) in Seattle.
 
-**[12/16/2022]** Aditya has been awarded the [Mary Gates Research Scholarship](https://expd.uw.edu/mge/apply/research/) for his research on passive acoustic monitoring of bats in the Union Bay Natural Area!
+**[09/2023]** YeonJoon was selected as a [UW Data Science Postdoctoral Fellow](https://escience.washington.edu/people/postdoctoral-fellows/).
 
-**[08/15/2022]** Many of us in Echospace and alumnus Derya are hosting the  [OceanHackWeek 2022](https://oceanhackweek.github.io/ohw22/index.html) [Northwest satellite](https://oceanhackweek.github.io/ohw22/seattle/index.html) this week!
+**[09/2023]** Wu-Jung joined the NOAA NCEI Water Column Sonar Data Archive stakeholder workshop and engaged in Echopype Q&As.
 
-**[07/01/2022]** We welcome [Dr. YeonJoon Cheong](/author/yeonjoon-cheong) to join Echospace as a postdoc scholar!
+**[08/2023]** Wu-Jung, Emilio, and Valentina hosted [OceanHackWeek 2023](https://oceanhackweek.org/about/pasthackweeks.html#ohw23) at UW with an international organizer team!
 
-**[05/27/2022]** We have released a [new, major version of echopype, 0.6.0](https://echopype.readthedocs.io/en/stable/whats-new.html). There are significant breaking changes, but also significant improvements in convention adherence, consistency across sensors, and dataset documentation.
+**[05/2023]** [Caesar Tuguinay](/author/caesar-tuguinay) joined the Echospace group as a Research Assistant. Welcome!
 
-**[05/23/2022]** Wu-Jung will be giving the keynote lecture on "Understanding Echoes" in the [ASA Denver meeting](https://acousticalsociety.org/asa-meetings/#KL).
+**[05/2023]** We welcome Dingrui Lei and [Soham Butala](/author/soham-kishor-butala) to join Echospace as summer interns!
 
-**[05/20/2022]** Aditya gave a talk on using machine learning to monitor bats in [UW's 25th Annual Undergraduate Research Symposium](https://expo.uw.edu/expo/apply/635/proceedings).
+**[06/2023]** Valentina and Wu-Jung went to sea with the Hake survey on the NOAA FSV Bell M. Shimada!
 
-**[04/27/2022]** Wu-Jung and Emilio gave two talks on [echopype updates and roadmap](/talk/202204-wgfast-echopype) in the 2022 WGFAST meeting and the 2022 NOAA NCEI Water Column Sonar Data Archive workshop.
+**[05/2023]** YeonJoon and Wu-Jung gave two talks on target discrimination behavior by a harbor porpoise and numerical modeling of sound transduction in dolphin head in the [Chicago ASA meeting](https://acousticalsociety.org/asa-meetings/).
 
-**[04/25/2022]** Valentina gave a talk on [analyzing OOI echosounder data using matrix decomposition](/talk/202204-wgfast-ooi-nmf) in the 2022 WGFAST meeting.
+**[05/2023]** Aditya presented his ongoing research on the effects of subsampling for passive acoustic monitoring of bats at [UW's 26th Annual Undergraduate Research Symposium](https://expo.uw.edu/expo/apply/676/proceedings).
 
-**[11/30/2021]** New paper ["Beluga whale (_Delphinapterus leucas_) acoustic foraging behavior and applications for long term monitoring"](https://doi.org/10.1371/journal.pone.0260485) was published in PLOS One!
+**[03/2023]** Valentina and Wu-Jung gave two talks on our software and machine learning developments at the [2023 ICES Fisheries and Plankton Acoustics Symposium](https://seagrant.umaine.edu/focus-areas/healthy-coastal-ecosystems/ices-fisheries-and-plankton-acoustics-symposium/) in Portland, Maine, and together with Emilio engaged with the international fisheries acoustic community in data format discussions.
 
-**[10/30/2021]** New preprint ["Echopype: A Python library for interoperable and scalable processing of water column sonar data for biological information"](https://arxiv.org/abs/2111.00187) was posted on arXiv!
+**[02/2023]** Wu-Jung was invited to serve on the committee for [Ocean Acoustics Education and Expertise](https://www.nationalacademies.org/our-work/ocean-acoustics-education-and-expertise) of the National Academies, comissioned by ONR.
 
-**[10/28/2021]** Emilio and Wu-Jung gave the IOOS DMAC webinar on ["Scalable, interoperable processing of water column sonar data for biological applications using the echopype Python package"](/talk/202110-ioos-dmac).
+**[12/2022]** Aditya has been awarded the [Mary Gates Research Scholarship](https://expd.uw.edu/mge/apply/research/) for his research on passive acoustic monitoring of bats in the Union Bay Natural Area!
 
-**[10/05/2021]** Wu-Jung gave the UW Data Science Seminar on ["Building a toolbox for studying marine ecology using large ocean sonar datasets"](/talk/202110-uw-data-sci).
+**[08/2022]** Many of us in Echospace and alumnus Derya are hosting the  [OceanHackWeek 2022](https://oceanhackweek.github.io/ohw22/index.html) [Northwest satellite](https://oceanhackweek.github.io/ohw22/seattle/index.html) this week!
 
-**[09/21/2021]** Wu-Jung and Linda successfully completed this summer's fieldwork evaluating the use of an ADCP-equipped glider as a biological monitoring tool. Check out [NOAA Exploration's coverage of this mission](https://oceanexplorer.noaa.gov/technology/development-partnerships/21adcp-gliders/welcome.html)!
+**[07/2022]** We welcome [Dr. YeonJoon Cheong](/author/yeonjoon-cheong) to join Echospace as a postdoc scholar!
+
+**[05/2022]** We have released a [new, major version of echopype, 0.6.0](https://echopype.readthedocs.io/en/stable/whats-new.html). There are significant breaking changes, but also significant improvements in convention adherence, consistency across sensors, and dataset documentation.
+
+**[05/2022]** Wu-Jung will be giving the keynote lecture on "Understanding Echoes" in the [ASA Denver meeting](https://acousticalsociety.org/asa-meetings/#KL).
+
+**[05/2022]** Aditya gave a talk on using machine learning to monitor bats in [UW's 25th Annual Undergraduate Research Symposium](https://expo.uw.edu/expo/apply/635/proceedings).
+
+**[04/2022]** Wu-Jung and Emilio gave two talks on [echopype updates and roadmap](/talk/202204-wgfast-echopype) in the 2022 WGFAST meeting and the 2022 NOAA NCEI Water Column Sonar Data Archive workshop.
+
+**[04/2022]** Valentina gave a talk on [analyzing OOI echosounder data using matrix decomposition](/talk/202204-wgfast-ooi-nmf) in the 2022 WGFAST meeting.
+
+**[11/2021]** Valentina gave a tutorial at the Seattle ASA meeting on [Software Best Practices](https://acousticalsociety.org/wp-content/uploads/2022/01/MeetingInformationSeattle.pdf#page=3)
+
+**[11/2021]** New paper ["Beluga whale (_Delphinapterus leucas_) acoustic foraging behavior and applications for long term monitoring"](https://doi.org/10.1371/journal.pone.0260485) was published in PLOS One!
+
+**[10/2021]** New preprint ["Echopype: A Python library for interoperable and scalable processing of water column sonar data for biological information"](https://arxiv.org/abs/2111.00187) was posted on arXiv!
+
+**[10/2021]** Emilio and Wu-Jung gave the IOOS DMAC webinar on ["Scalable, interoperable processing of water column sonar data for biological applications using the echopype Python package"](/talk/202110-ioos-dmac).
+
+**[10/2021]** Wu-Jung gave the UW Data Science Seminar on ["Building a toolbox for studying marine ecology using large ocean sonar datasets"](/talk/202110-uw-data-sci).
+
+**[09/2021]** Wu-Jung and Linda successfully completed this summer's fieldwork evaluating the use of an ADCP-equipped glider as a biological monitoring tool. Check out [NOAA Exploration's coverage of this mission](https://oceanexplorer.noaa.gov/technology/development-partnerships/21adcp-gliders/welcome.html)!
