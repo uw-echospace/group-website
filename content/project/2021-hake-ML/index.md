@@ -36,7 +36,7 @@ Active acoustic data collected with scientific echosounders from acoustic survey
 
 To take full advantage of these large and complex new datasets, in this project we aim to combine the development of machine learning methodology with a cloud-based workflow to accelerate the extraction of biological information from fisheries acoustic data. Our group has developed and used [Echopype](https://echopype.readthedocs.io/en/stable/), a Raw Sonar Backscatter data parsing Python package, and [Echoregions](https://echoregions.readthedocs.io/en/latest/), an Echoview annotation data parsing Python package. Transferring data from Echoview and proprietary echosounder formats to Python data products enables seamless integration with a rich ecosystem of scientific computing tools developed by a vast community of open-source contributors, thus allowing us to use our data to train deep learning models to predict regions of interest in echograms.
 
-<img src="featured.png" alt="Fisheries Acoustics">
+<img src="featured.png" alt="Fisheries Acoustics" width="450" height="270">
 
 This project is in close collaboration with the [Fisheries Engineering and Acoustics Technology (FEAT) team](https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team) at the NOAA Fisheries [Northwest Fisheries science center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and uses data collected in the past 20 years off the west coast of the U.S. from the [Joint U.S.-Canada Integrated Ecosystem and Pacific Hake Acoustic-Trawl Survey](https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey) (aka the "Hake survey").
 
