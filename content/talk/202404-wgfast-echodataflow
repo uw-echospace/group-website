@@ -3,14 +3,14 @@
 
 title: "Scalable and Configurable Echosounder Data Workflows"
 event: WGFAST 2024 Meeting
-event_url:
+event_url: https://www-iuem.univ-brest.fr/wgfast/?lang=en
 location: Brest, France
 address:
   street:
   city:
   region:
   postcode:
-  country: USA
+  country: 
 summary: 
 abstract: "Acoustic fisheries surveys and ocean observing systems collect terabytes of echosounder data that require custom processing pipelines to obtain biological estimates of target species, which often can be hard to reuse or adapt. There is a rising need to scale computations on local and cloud computing clusters. However, this requires an elaborate configuration of computing infrastructure and distributed computing libraries, and the ability to monitor progress and performance.
 
