@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "EchoPro workflow modernization"
-date: 2024-03-28T17:02:36-08:00
+date: 2024-06-27T15:01:02-08:00
 authors: 
 slug: 2021-echopro
 weight: 17
@@ -36,9 +36,6 @@ The [Fisheries Engineering and Acoustics Technology (FEAT) team](https://www.fis
 
 These biomass estimates are the inputs for the stock assessment of hake and need to be completed in an efficient and timely manner after the survey. The biomass estimates are currently produced by a suite of Matlab scripts operated by a single user, and the analysis procedures are not easily adaptable by other FEAT/DFO team members. The central objective of this project is to provide a well-documented open-source [Python software package](https://github.com/OSOceanAcoustics/echopop) (`echopop`) that contains the core computational functionality of the current Matlab EchoPro program and provides basic visualization of the analysis results. 
 
-The new software package will contain an expanded [documentation](https://echopop.readthedocs.io/en/latest/) that details the underlying theory and algorithmic implementation that help facilitate reproducibility. Other features include an [Application Programming Interface (API)](https://echopop.readthedocs.io/en/latest/api.html) that can be invoked in a reproducible manner, a flexible analysis configuration that allows for both machine and human-readable parameterizations, and interactive Jupyter notebooks that exemplify various workflows such as constructing a [mesh grid for kriging](https://github.com/OSOceanAcoustics/echopop/blob/main/example_notebooks/kriging_mesh_walkthrough.ipynb) or [report generation](https://github.com/OSOceanAcoustics/echopop/blob/main/example_notebooks/reports_workflow.ipynb).
-
-**Funding agency**: NOAA Fisheries, NOAA NWFSC
-
+The new software package (currently [version 0.4.0](https://github.com/OSOceanAcoustics/echopop/releases/tag/v0.4.0)) will contain an expanded [documentation](https://echopop.readthedocs.io/en/latest/) that details the underlying theory and algorithmic implementation that help facilitate reproducibility. Other features include an [Application Programming Interface (API)](https://echopop.readthedocs.io/en/latest/api.html) that can be invoked in a reproducible manner, a flexible analysis configuration that allows for both machine and human-readable parameterizations, and interactive Jupyter notebooks that exemplify various workflows [ranging from initial data processing to kriging](https://echopop.readthedocs.io/en/latest/example_notebooks/example_echopop_workflow.html).
 
 **Funding agency**: NOAA Fisheries, NOAA NWFSC
