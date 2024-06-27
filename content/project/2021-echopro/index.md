@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "EchoPro workflow modernization"
-date: 2024-06-27T15:01:02-08:00
+date: 2022-01-25T17:02:36-08:00
 authors: 
 slug: 2021-echopro
 weight: 17
