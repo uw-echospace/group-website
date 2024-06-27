@@ -24,10 +24,10 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Acoustic imaging/sensing
 - Physical acoustics
-- Animal echolocation / bioacoustics
-- Data-driven methods in acoustics
+- Computational acoustics
+- Echolocation/bioacoustics
+- Data-driven approaches in acoustics
 
 
 education:
@@ -69,9 +69,9 @@ email: ""
 user_groups:
 - Researchers
 ---
-I am interested in developing methods that aid or improve conventional acoustic sensing/imaging techniques. An example of a highly effective acoustic sensing modality developed by nature is echolocation. By studying the processes and strategies exploited by echolocating animals to interpret acoustic information so effectively, we can learn how to build better acoustic systems. I am also interested in applying data-driven methods to acoustics, which are powerful tools that can enable the discovery of many interesting phenomena. 
+I am interested in developing methods to enhance conventional acoustic sensing and imaging techniques. Nature provides a prime example of effective acoustic sensing through echolocation. By studying the processes and strategies used by echolocating animals to interpret acoustic information, we can gain insights into building more advanced acoustic systems. Additionally, I am interested in applying data-driven methods to acoustics, as these powerful tools can facilitate the discovery of many interesting phenomena.
 
 
 My primary responsibilities within the group include: 
-   * Developing and interpreting physics-based models to understand the complex interaction of sound with elastic media and gain insights into how it influences the perception of sound by toothed whales.
+   * Developing physics-based models to study the complex interplay of sounds with the anatomical structures within the heads of toothed whales. This research aims to gain insights into how these interactions influence the whales' perception of sound, ultimately contributing to their exceptional abilities in detecting, localizing, and discriminating sounds.
 
