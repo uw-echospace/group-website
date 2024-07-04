@@ -31,17 +31,9 @@ image:
 
 ---
 
-Understanding how echolocators make use of sound to navigate their surroundings has great potential for informing the design of advanced acoustic sensing technologies.
+Understanding how echolocators make use of sound to navigate their surroundings has great potential for informing the design of advanced acoustic sensing technologies. Although much has already been studied in laboratory experiments, technology has just started catching up to allow researchers to study echolocation-related processes in the wild. Advancements in passive acoustic monitoring tools have made it affordable to conduct long-term acoustic surveys on animals in the wild. Echolocators, like bats, are well-suited for monitoring using simple passive acoustic techniques because of their use of acoustics and navgitaion in air.
 
-Although much has already been studied in laboratory experiments, technology has just started catching up to allow researchers to study echolocation-related processes in the wild.
+In this project, we sought to collect long-term acoustic data using Audiomoths from an urban natural area called the Union Bay Natural Area at the University of Washington. With this data, we hope to uncover questions on how environmental conditions influence how bats choose to forage.
 
-Advancements in passive acoustic monitoring tools have made it affordable to conduct long-term acoustic surveys on animals in the wild. 
-
-Echolocators, like bats, are well-suited for monitoring using simple passive acoustic techniques because of their use of acoustics and navgitaion in air.
-
-In this project, we sought to collect long-term acoustic data using Audiomoths from an urban natural area called the Union Bay Natural Area at the University of Washington.
-
-With this data, we hope to uncover questions on how environmental conditions influence how bats choose to forage.
-
-**Funding agency**: 
+**Funding agency**: NSF
 
