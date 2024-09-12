@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "EchoPro workflow modernization"
+title: "Echopop: hake biomass estimation"
 date: 2022-01-25T17:02:36-08:00
 authors: 
 slug: 2021-echopro
