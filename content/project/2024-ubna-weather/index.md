@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Analyzing the effects of different environmental conditions on bat activity"
+title: "Analyzing effects of different environmental conditions on bat activity"
 date: 2024-03-15T17:02:36-08:00
 authors: 
 slug: 2024-ubna-weather
@@ -10,7 +10,7 @@ tags:
   - bat echolocation
   - environmental factor
   - statistics analysis
-summary: "Analyzing the effects of weather factors on bat activity through ANOVA, generalized linear model, and difference in difference."
+summary: "Analyzing the effects of weather factors on bat activity through ANOVA, negative binomial GLM, and DiD."
 
 # Customize
 share: false
