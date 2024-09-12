@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scalable and configurable echosounder data workflows"
-event: WGFAST 2024 Meeting
-event_url: https://www-iuem.univ-brest.fr/wgfast/?lang=en
-location: Brest, France
+title: "Echostack: An open-source Python software toolbox that democratizes water column sonar dataand processing"
+event: SciPy 2024
+event_url: https://www.scipy2024.scipy.org/
+location: Tacoma, WA
 address:
   street:
   city:
@@ -12,28 +12,31 @@ address:
   postcode:
   country: 
 summary: 
-abstract: "Acoustic fisheries surveys and ocean observing systems collect terabytes of echosounder data that require custom processing pipelines to obtain biological estimates of target species, which often can be hard to reuse or adapt. There is a rising need to scale computations on local and cloud computing clusters. However, this requires an elaborate configuration of computing infrastructure and distributed computing libraries, and the ability to monitor progress and performance.
+abstract: "Water column sonar data collected by echosounders are essential for marine ecosystem research, allowing the detection, classifi cation, and quantification of fish and zooplankton from many different ocean observing platforms. However, broad usage of these data has been hindered by the lack of software tools that allow intuitive and transparent data access, processing, and interpretation. We address this gap by developing Echostack, a toolbox of open-source packages leveraging distributed computing and cloud-interfacing libraries in the scientific Python ecosystem. These tools can be used individually or orchestrated together, which we will demonstrate in an end-to-end workflow."
 
-In this talk, we describe how we address some of these challenges by developing a framework that allows researchers to execute complex echosounder data processing procedures on both local and cloud platforms by editing text-based configuration “recipe” templates. We create a user-friendly Python package Echodataflow that leverages Prefect, a modern workflow orchestration framework, to run large data pipelines (reading raw files, computing volume backscatter, performing frequency differencing, etc.) with only a few lines of code. We will demonstrate how we used Echodataflow to process ship data from the U.S.-Canada Pacific Hake Acoustic Trawl Survey and discuss other use cases. We believe that this approach will increase the reproducibility and transparency of fisheries acoustics data pipelines and allow the community to learn from each other’s work.
-" 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-04-11T09:00:00-05:00
-# date_end: 2020-10-29T16:30:00-05:00
+date: 2024-07-11T14:20:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: 2020-10-10T08:28:33-08:00
 
 authors:
-  - vms16
-  - sbutala
   - leewj
+  - vms16
   - landungs
+  - emiliom
+  - ctuguina
+  - sbutala
+  - bmlucca
+  - ldr426
 tags:
   - open-source
   - pipeline
   - fisheries acoustics
+  - scientific computing
+  - data standard
   - community engagement
 
 # Is this a featured talk? (true/false)

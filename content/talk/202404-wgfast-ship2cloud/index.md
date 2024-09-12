@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scalable and configurable echosounder data workflows"
+title: "A ship-to-cloud machine learning pipeline built on the open-source Python Echostack software tools"
 event: WGFAST 2024 Meeting
 event_url: https://www-iuem.univ-brest.fr/wgfast/?lang=en
 location: Brest, France
@@ -12,10 +12,8 @@ address:
   postcode:
   country: 
 summary: 
-abstract: "Acoustic fisheries surveys and ocean observing systems collect terabytes of echosounder data that require custom processing pipelines to obtain biological estimates of target species, which often can be hard to reuse or adapt. There is a rising need to scale computations on local and cloud computing clusters. However, this requires an elaborate configuration of computing infrastructure and distributed computing libraries, and the ability to monitor progress and performance.
+abstract: "Successful application of machine learning (ML) methodology requires iterative development and testing of not only the models but also the entire workflow on the very platform and operating scenario the development aims to serve, before the framework is generalized to other settings. In this work we present our implementation of a ship-to-cloud ML pipeline during the 2023 Pacific hake acoustics-trawl survey. Hake is a keystone species in the northern California Current ecosystem and supports the largest fishery on the west coast of the U.S. By integrating an echogram semantic segmentation model targeting hake with the “Echostack” suite of open-source Python software packages, our pipeline transformed raw instrument-generated binary files into hake aggregation predictions, which were displayed in two ways: in a configurable Python dashboard that allows sharing widely with collaborators, and in Echoview for aligning with live screening. We transmitted data products with reduced resolution and the corresponding ML predictions to the cloud in sub-realtime, allowing shore-side interaction. We plan to incorporate biomass estimation based on initial fish biometric measurements, automate the orchestration of this ship-to-cloud pipeline, and prototype an ML-driven annotation framework in the future."
 
-In this talk, we describe how we address some of these challenges by developing a framework that allows researchers to execute complex echosounder data processing procedures on both local and cloud platforms by editing text-based configuration “recipe” templates. We create a user-friendly Python package Echodataflow that leverages Prefect, a modern workflow orchestration framework, to run large data pipelines (reading raw files, computing volume backscatter, performing frequency differencing, etc.) with only a few lines of code. We will demonstrate how we used Echodataflow to process ship data from the U.S.-Canada Pacific Hake Acoustic Trawl Survey and discuss other use cases. We believe that this approach will increase the reproducibility and transparency of fisheries acoustics data pipelines and allow the community to learn from each other’s work.
-" 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2024-04-11T09:00:00-05:00
@@ -26,14 +24,16 @@ all_day: false
 # publishDate: 2020-10-10T08:28:33-08:00
 
 authors:
-  - vms16
-  - sbutala
   - leewj
-  - landungs
+  - vms16
+  - ldr426
+  - zhmiao
 tags:
   - open-source
   - pipeline
   - fisheries acoustics
+  - scientific computing
+  - data standard
   - community engagement
 
 # Is this a featured talk? (true/false)
