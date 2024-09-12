@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scalable and Configurable Echosounder Data Workflows"
+title: "Scalable and configurable echosounder data workflows"
 event: WGFAST 2024 Meeting
 event_url: https://www-iuem.univ-brest.fr/wgfast/?lang=en
 location: Brest, France
