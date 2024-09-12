@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Echopop: hake biomass estimation"
+title: "EchoPro workflow modernization"
 date: 2022-01-25T17:02:36-08:00
 authors: 
 slug: 2021-echopro
@@ -31,6 +31,8 @@ image:
   preview_only: true
 
 ---
+
+Echopop is a software used for processing backscatter measurements and biological data collected from acoustic-trawl surveys to estimate population estimates and other metrics. The development of this software has been primarily focused on surveys targeting Pacific hake (**see below information for more details**), but the goal is to generalize the software in the future for broader fisheries community use.
 
 The [Fisheries Engineering and Acoustics Technology (FEAT) team](https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team) at the NOAA Fisheries [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) collaborates with [Fisheries and Oceans Canada (DFO) - Pacific Region](https://www.dfo-mpo.gc.ca/index-eng.htm) to estimate total biomass of [Pacific hake (<i>Merluccius productus</i>)](https://www.fisheries.noaa.gov/species/pacific-whiting) by incorporating acoustic and biological trawl data from the [Joint U.S.-Canada Integrated Ecosystem and Pacific Hake Acoustic-Trawl Survey](https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey) (aka the "Hake survey").
 
