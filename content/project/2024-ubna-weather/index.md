@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Analyzing the Effects of Different Environmental Conditions on Bat Activity"
+title: "Analyzing the effects of different environmental conditions on bat activity"
 date: 2024-03-15T17:02:36-08:00
 authors: 
 slug: 2024-ubna-weather
