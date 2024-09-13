@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Investigation of duty cycles for measuring activity in passive acoustic bat monitoring"
-event: 186th Meeting of the Acoustical Society of America
+event: ASA 2022 spring meeting (ASA - the Acoustical Society of America)
 event_url:
 location: Ottawa, Ontario, Canada
 address:
@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: " "
-abstract: Echolocating bats are important bioindicators that can be monitored effectively using passive acoustic monitoring (PAM) techniques. In PAM, duty-cycle-based temporal subsampling is often used to collect data at ON/OFF intervals to circumvent the limitations of recorder battery and storage capacity to enable long-term monitoring. However, potential bias introduced by temporal subsampling has not been systematically investigated for bat monitoring. Here, we use continuous audio recordings from the Union Bay Natural Area in Seattle in Summer 2022 to simulate the effects of temporal subsampling using different duty cycle parameters. We detected bat calls automatically using a deep learning model [Aodha et al., 2022, BioRxiv] and calculated three metrics as proxy for bat activity: number of calls, Activity Index (AI), and Bout Time Percentage (BTP). We found that although the number of calls and AI are more readily computable using the detected calls, BTP is likely a more accurate measure that relies less on the performance of automated call detection methods. In addition, reduced sampling for only a portion of the night (e.g., 4 hrs) was generally inadequate for capturing bat activity. Our results suggest that considering species-specific acoustic characteristics is crucial for reducing sampling bias for PAM of bats.
+summary: "Presentation of Aditya's work at the Acoustical Society of America conference"
+abstract: "Echolocating bats are important bioindicators that can be monitored effectively using passive acoustic monitoring (PAM) techniques. In PAM, duty-cycle-based temporal subsampling is often used to collect data at ON/OFF intervals to circumvent the limitations of recorder battery and storage capacity to enable long-term monitoring. However, potential bias introduced by temporal subsampling has not been systematically investigated for bat monitoring. Here, we use continuous audio recordings from the Union Bay Natural Area in Seattle in Summer 2022 to simulate the effects of temporal subsampling using different duty cycle parameters. We detected bat calls automatically using a deep learning model [Aodha et al., 2022, BioRxiv] and calculated three metrics as proxy for bat activity: number of calls, Activity Index (AI), and Bout Time Percentage (BTP). We found that although the number of calls and AI are more readily computable using the detected calls, BTP is likely a more accurate measure that relies less on the performance of automated call detection methods. In addition, reduced sampling for only a portion of the night (e.g., 4 hrs) was generally inadequate for capturing bat activity. Our results suggest that considering species-specific acoustic characteristics is crucial for reducing sampling bias for PAM of bats."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
