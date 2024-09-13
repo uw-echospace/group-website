@@ -35,5 +35,5 @@ Understanding how echolocators make use of sound to navigate their surroundings 
 
 In this project, we sought to collect long-term acoustic data using Audiomoths from an urban natural area called the Union Bay Natural Area at the University of Washington. With this data, we hope to uncover questions on how environmental conditions influence how bats choose to forage.
 
-**Funding agency**: NSF
+**Funding agency**: [University of Washington Royalty Research Fund](https://www.washington.edu/research/or/royalty-research-fund-rrf/)
 
