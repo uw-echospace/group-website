@@ -25,6 +25,7 @@ all_day: false
 
 authors:
   - adkris
+  - Wu-Jung Lee
 tags:
   - passive acoustic monitoring
   - bioacoustics
