@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Investigation of duty cycles for measuring activity in passive acoustic bat monitoring"
-event: ASA 2022 spring meeting (ASA - the Acoustical Society of America)
-event_url:
+event: The 186th Meeting of the Acoustical Society of America
+event_url: https://doi.org/10.1121/10.0026933
 location: Ottawa, Ontario, Canada
 address:
   street:
