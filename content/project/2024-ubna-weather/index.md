@@ -33,7 +33,7 @@ image:
 
 With global warming and the re-emergence of El Niño, the impact of changing weather patterns on bat activity is becoming increasingly crucial as they can profoundly alter the behavior, foraging patterns, and overall health of the entire bat communities. Therefore, understanding which environmental conditions have an impact on bat activity, and to what extent, is critical to developing effective conservation strategies.
 
-Using bat echolocation detection data from the UBNA Passive Acoustic Monitoring Program (processed by BatDetect2), meteorological data from the University of Washington Weather Station, and lunar phase data from the National Aeronautics and Space Administration (NASA), the project aims to find the environmental factors that influence bat activity and explore the effects of extreme stormy weather on bat emergence through statistical testing and inference.
+Using bat echolocation detection data from the [Union Bay Natural Area Passive Acoustic Monitoring Program](https://uw-echospace.github.io/project/2022-ubna-pam/) (processed by BatDetect2), meteorological data from the University of Washington Weather Station, and lunar phase data from the National Aeronautics and Space Administration (NASA), the project aims to find the environmental factors that influence bat activity and explore the effects of extreme stormy weather on bat emergence through statistical testing and inference.
 We hope that this project will offer a more profound understanding of bat habits from a statistical background.
 
 
