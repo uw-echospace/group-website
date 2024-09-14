@@ -37,4 +37,4 @@ Using bat echolocation detection data from the UBNA Passive Acoustic Monitoring 
 We hope that this project will offer a more profound understanding of bat habits from a statistical background.
 
 
-**Funding agency**: 
+Funding: [UW Royalty Research Fund](https://www.washington.edu/research/or/royalty-research-fund-rrf/)
