@@ -13,6 +13,7 @@ superuser: false
 
 # Role/position
 role: Postdoc
+external_link: https://www.linkedin.com/in/yeonjoon-cheong-883498106/
 
 # Organizations/Affiliations
 organizations:
@@ -67,11 +68,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 I am interested in developing methods to enhance conventional acoustic sensing and imaging techniques. Nature provides a prime example of effective acoustic sensing through echolocation. By studying the processes and strategies used by echolocating animals to interpret acoustic information, we can gain insights into building more advanced acoustic systems. Additionally, I am interested in applying data-driven methods to acoustics, as these powerful tools can facilitate the discovery of many interesting phenomena.
 
 
 My primary responsibilities within the group include: 
    * Developing physics-based models to study the complex interplay of sounds with the anatomical structures within the heads of toothed whales. This research aims to gain insights into how these interactions influence the whales' perception of sound, ultimately contributing to their exceptional abilities in detecting, localizing, and discriminating sounds.
-

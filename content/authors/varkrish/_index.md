@@ -12,7 +12,8 @@ weight: 22
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+# role: Undergraduate Research Assistant
+external_link: https://www.linkedin.com/in/varun-krishnakumar-b5691229b/
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +58,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a student studying both Computer Science and Environmental Science at the University of Washington. I am expected to graduate in the summer of 2026.
