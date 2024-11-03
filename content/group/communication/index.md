@@ -6,6 +6,7 @@ authors:
 slug: communication
 weight: 40
 draft: false
+show_date: false
 tags: 
 summary: "Our current practice to communicate with each other in Echospace"
 
