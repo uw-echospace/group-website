@@ -3,8 +3,8 @@
 title: "Modeling sound propagation in the head of toothed whales"
 date: 2022-07-01
 authors: 
-  - leewj
   - yjcheong
+  - leewj
 slug: echolocation-comsol
 weight: 40
 draft: false
