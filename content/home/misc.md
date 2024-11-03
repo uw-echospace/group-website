@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
-title = "What we value"
+title = "Group"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "values"
+  page_type = "misc"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
