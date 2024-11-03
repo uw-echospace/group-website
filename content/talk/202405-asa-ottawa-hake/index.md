@@ -43,14 +43,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: DOI
+  url: https://doi.org/10.1121/10.0026900
 #   icon_pack: fab
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url: https://doi.org/10.1121/10.0026900
 url_slides:
 
 url_code:

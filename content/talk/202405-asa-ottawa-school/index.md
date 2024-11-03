@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Two Pieces of the Same Puzzle: Active and Passive Acoustics for Cross-Trophic Marine Ecosystem Monitoring"
+title: "Two Pieces of the Same Puzzle: Active and Passive Acoustics for Cross-Trophic Marine Ecosystem Monitoring Part II"
 event: ASA School 2024 (ASA - The Acoustical Society of America)
 event_url: https://acousticalsociety.org/asa-school-2024/
 location: Ottawa, ON, Canada
@@ -50,7 +50,6 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url: 
 url_slides:
 
 url_code:
