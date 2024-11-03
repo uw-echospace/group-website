@@ -66,3 +66,12 @@ Echospace is dedicated to providing a harassment-free experience for everyone, r
   - Enable and encourage growth by everyone in the group, in directions that align with what they’re interested in
   - Be comfortable bringing up issues or obstacles that hold you back from getting work done
 
+
+## Feedback Sharing 
+
+Provide feedback on what to improve either in person or use the [Echospace Anonymous Feedback Form](https://forms.gle/NZFZBQLk9BoMLZCV6) if you prefer to remain anonymous. The form requires one to be logged with their `uw` email address, but we will not have access to it.
+
+
+## Conflict Resolution
+
+If you see something inappropriate, let Wu-Jung or Valentina know immediately, or contact the [Office of the Ombud](https://www.washington.edu/ombud/) for support in conflict resolution. You can refer to some additional resources from the UW HR office [here](https://hr.uw.edu/policies/complaint-resolution/) or refer to your department for advice.
