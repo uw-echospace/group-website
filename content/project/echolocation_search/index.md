@@ -3,7 +3,6 @@
 title: "Target search and discrimination by echolocating toothed whales"
 date: 2018
 authors:
-  - leewj
 slug: echolocation-search
 weight: 40
 draft: false

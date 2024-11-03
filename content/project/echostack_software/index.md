@@ -3,17 +3,6 @@
 title: "The open-source \"Echostack\" for scalable, cloud-native processing of water column sonar data"
 date: 2021-07-01
 authors: 
-  - leewj
-  - landungs
-  - ctuguinay
-  - bmlucca
-  - ldr426
-  - sbutala
-  - emiliom
-  - breyes
-  - imranmaj
-  - ngkavin
-  - vms16
 slug: echostack
 weight: 15
 draft: false
