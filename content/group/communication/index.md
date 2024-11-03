@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Communication within group"
-date: 2023-09-19
+# date: 2023-09-19
 authors: 
 slug: communication
 weight: 40
