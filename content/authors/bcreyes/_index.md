@@ -88,5 +88,3 @@ My primary responsibilities within the group include:
    * The development of [echopype](https://github.com/OSOceanAcoustics/echopype)
    * Optimizing computational operations for distributed computing
    * Building a scalable cloud cyberinfrastructure
-
-

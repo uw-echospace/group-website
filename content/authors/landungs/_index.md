@@ -12,7 +12,8 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Research Software Engineer
+role: "Research Software Engineer at UW eScience Institute"
+external_link: https://escience.washington.edu/member/don-setiawan/
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 ## Research Software Engineering

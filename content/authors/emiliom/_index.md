@@ -6,13 +6,13 @@ title: Emilio Mayorga
 authors:
 - emiliom
 
-weight: 30
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Oceanographer
+role: Senior Oceanographer at APL-UW
 external_link: https://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio
 
 # Organizations/Affiliations

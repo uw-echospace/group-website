@@ -6,7 +6,7 @@ title: Imran Majeed
 authors:
 - imranmaj
 
-weight: 21
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false

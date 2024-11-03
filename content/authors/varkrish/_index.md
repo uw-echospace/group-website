@@ -6,7 +6,7 @@ title: Varun Krishnakumar
 authors:
 - varkrish
 
-weight: 22
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
