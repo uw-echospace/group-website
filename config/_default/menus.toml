@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
- name = "Values"
- url = "#values"
- weight = 15
-
-[[main]]
   name = "People"
   url = "#people"
   weight = 20
@@ -49,9 +44,14 @@
   weight = 70
 
 [[main]]
+ name = "Group"
+ url = "#misc"
+ weight = 80
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
