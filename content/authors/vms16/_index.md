@@ -6,7 +6,7 @@ title: Valentina Staneva
 authors:
 - vms16
 
-weight: 20
+weight: 11
 
 # Is this the primary user of the site?
 superuser: false
@@ -76,7 +76,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
 I am a Senior Data Scientist and Data Science Fellow at the eScience Institute, Paul G. Allen School of Computer Science and Engineering, University of Washington. As part of my role I collaborate with researchers from a wide range of domains on extracting information from large data sets of various modalities, such as time series, images, videos, audio, text, etc. I am involved in data science education for audiences at broad level of experience, and regularly teach workshops on introductory and advanced topics. I support open science and reproducible research, and strive to help others adopt better data science workflows.
@@ -88,5 +88,3 @@ I am a Senior Data Scientist and Data Science Fellow at the eScience Institute, 
 * Large Scale Computing
 * Reproducible Research Workflows
 * Data Science for Social Good
-
-

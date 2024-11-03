@@ -6,14 +6,14 @@ title: Imran Majeed
 authors:
 - imranmaj
 
-weight: 21
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ""
-external_link: https://github.com/imranmaj
+role: "Software Engineer at Allen Institute"
+external_link: https://alleninstitute.org/person/imran-majeed/
 
 # Organizations/Affiliations
 organizations:

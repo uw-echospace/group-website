@@ -6,14 +6,14 @@ title: Josie Sachen
 authors:
 - jgsachen
 
-weight: 22
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ""
-external_link: 
+role: "Research Technician at Seattle Children's Research Institute"
+external_link: https://www.linkedin.com/in/josie-sachen-2453b8310/
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,3 @@ I am particularly interested in molecular ecology and population genetics of vul
 At Echospace, I am part of a team that studies local bat populations using bioacoustic data to better understand social and foraging behavior of bats.  
 
 I am available via email, and happy to answer any questions you may have. 
-
-
-
-

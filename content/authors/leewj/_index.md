@@ -78,7 +78,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
 Sound is the best information carrier in the ocean. I work at the intersection of physics, engineering, and biology to develop computational methodologies and interpretation frameworks for extracting mid- to high-trophic level biological information from ocean acoustic data across multiple spatial and temporal scales. 

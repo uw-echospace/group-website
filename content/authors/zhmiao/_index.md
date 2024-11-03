@@ -6,13 +6,13 @@ title: Zhongqi Miao
 authors:
 - zhmiao
 
-weight: 22
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ""
+role: "Applied Research Scientist at Microsoft"
 external_link: https://github.com/zhmiao
 
 # Organizations/Affiliations
@@ -86,5 +86,3 @@ science and ecological / environmental research.
 
 My primary responsibilities within the group include: 
    * The development of algorithms for automatic fish recognition through echosounder imagery
-
-
