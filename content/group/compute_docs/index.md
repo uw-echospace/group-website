@@ -4,6 +4,7 @@ title: "Computing startup resources"
 date: 2023-12-07
 authors: 
 slug: compute_docs
+weight: 30
 draft: false
 tags: 
 summary: "Useful starting computing resources"

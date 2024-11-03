@@ -4,7 +4,7 @@ title: "Communication within group"
 date: 2023-09-19
 authors: 
 slug: communication
-weight: 15
+weight: 40
 draft: false
 tags: 
 summary: "Our current practice to communicate with each other in Echospace"

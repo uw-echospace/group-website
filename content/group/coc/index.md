@@ -4,6 +4,7 @@ title: "Code of Conduct & What we value"
 date: 2024-09-29
 authors: 
 slug: coc
+weight: 10
 draft: false
 tags: 
 summary: "We review and discuss the code of conduct and what we value as a group regularly, as reminder and inspiration for ourselves."

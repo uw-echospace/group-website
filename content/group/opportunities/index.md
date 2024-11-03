@@ -3,6 +3,7 @@
 title: "Opportunities at Echospace"
 date: 2024-09-01
 slug: opportunities
+weight: 20
 draft: false
 tags: 
 summary: "Interested in joining Echospace? Check out the latest info here!"
