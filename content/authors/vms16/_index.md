@@ -6,7 +6,7 @@ title: Valentina Staneva
 authors:
 - vms16
 
-weight: 20
+weight: 11
 
 # Is this the primary user of the site?
 superuser: false

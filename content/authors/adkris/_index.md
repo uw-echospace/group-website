@@ -6,7 +6,7 @@ title: Aditya Krishna
 authors:
 - adkris
 
-weight: 22
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false
@@ -72,7 +72,3 @@ My core competency is in signal processing, with extensive experience programmin
 At Echospace, I am investigating duty cycle-based subsampling for passive acoustic monitoring of bats by understanding how bat activity can happen in bursts defined as bouts. By understanding these bout characteristics, we can identify the subsampling parameters needed to address data maintenance costs by configuring recorders to only record during bouts of acoustic bat activity. We collect our echolocation data from local bat colonies by deploying autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)), at the Union Bay Natural Area right by the UW's football stadium.
 
 Feel free to ask me any questions at my email on pursuing research as an undergraduate!
-
-
-
-
