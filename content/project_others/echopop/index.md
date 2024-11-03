@@ -3,9 +3,9 @@
 title: "Echopop: biomass estimation for Pacific Hake"
 date: 2022-01-25T17:02:36-08:00
 authors: 
-slug: 2021-echopop
+slug: echopop
 weight: 17
-draft: true
+draft: false
 tags: 
   - fisheries acoustics
   - scientific computing
