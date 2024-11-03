@@ -29,7 +29,7 @@
   weight = 70
 
 [[main]]
- name = "Group"
+ name = "Group resources"
  url = "#group"
  weight = 80
 

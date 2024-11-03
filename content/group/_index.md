@@ -1,5 +1,5 @@
 ---
-title: Our values
+title: Group resources
 
 # View.
 #   1 = List
