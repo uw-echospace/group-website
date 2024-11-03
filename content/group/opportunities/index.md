@@ -1,10 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Opportunities at Echospace"
-date: 2024-11-03
-authors: 
-  - leewj
-  - vms16
+date: 2024-09-01
 slug: opportunities
 draft: false
 tags: 
