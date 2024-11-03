@@ -51,7 +51,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 1000
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

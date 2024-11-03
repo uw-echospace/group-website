@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Code of Conduct & What we value"
-date: 2023-10-03T00:00:00-08:00
+date: 2024-09-29
 authors: 
-slug: 2023-10-coc-values
+slug: coc
 draft: false
 tags: 
 summary: "We review and discuss the code of conduct and what we value as a group regularly, as reminder and inspiration for ourselves."
