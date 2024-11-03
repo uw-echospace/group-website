@@ -12,8 +12,8 @@ weight: 21
 superuser: false
 
 # Role/position
-role: ""
-external_link: https://github.com/imranmaj
+role: "Software Engineer at Allen Institute"
+external_link: https://alleninstitute.org/person/imran-majeed/
 
 # Organizations/Affiliations
 organizations:
