@@ -6,7 +6,7 @@ title: Soham Kishor Butala
 authors:
 - sbutala
 
-weight: 22
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
@@ -62,8 +62,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumn
 ---
 I will be working on the echoflow project over the summer. [Echoflow](https://github.com/OSOceanAcoustics/echoflow), an open source project, aims to orchestrate the echopype data processing functions to ease the ability to process cloud-based/local data through a sequence of functions. Echoflow will be developed in parallel with the ongoing development of [echopype](https://echopype.readthedocs.io/en/stable/#), which handles the standardization, preprocessing and organization of echo data.
-
-

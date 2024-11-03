@@ -6,7 +6,7 @@ title: Kavin Nguyen
 authors:
 - ngkavin
 
-weight: 12
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false

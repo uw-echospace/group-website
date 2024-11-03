@@ -6,7 +6,7 @@ title: Aidan Lee
 authors:
 - alee2005
 
-weight: 22
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false

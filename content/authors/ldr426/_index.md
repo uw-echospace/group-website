@@ -6,7 +6,7 @@ title: Dingrui Lei
 authors:
 - ldr426
 
-weight: 22
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
@@ -69,5 +69,3 @@ user_groups:
 I have strong eagerness to explore new domains and my ability to grasp complex concepts has allowed me to become a well-rounded and versatile computer science enthusiast.
 
 My primary responsibilities within the group is to build echohshader project. [Echoshader](https://github.com/OSOceanAcoustics/echoshader), an open source project, aims to enhance the ability to interactively visualize large amounts of cloud-based data to accelerate the data exploration and discovery process. Echoshader will be developed in parallel with the ongoing development of [echopype](https://echopype.readthedocs.io/en/stable/#), which handles the standardization, preprocessing and organization of echo data.
-
-

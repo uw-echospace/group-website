@@ -6,7 +6,7 @@ title: Brandyn Lucca
 authors:
 - bmlucca
 
-weight: 10
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
@@ -90,4 +90,3 @@ user_groups:
 - Researchers
 ---
 Active acoustic backscatter is a powerful tool for quantifying spatiotemporal distributions of marine organisms ranging from shallow water estuaries to the dark depths of the bathypelagic ocean. This capability involves exploiting differences in organism-specific scattering properties to effectively fingerprint various types of scatterers (e.g., elastic-shelled pteropods, fish with gas-filled swimbladders) and estimating animal biomass (i.e., the number of animals). Despite its efficacy, acoustic classification and estimates of marine organisms can sometimes be imprecise, leading to substantial uncertainty. My primary focus is on quantifying the natural variability in the acoustic scattering properties of different organisms and understanding how this variability influences uncertainty estimates in target strength (i.e., the amount of backscatter from a single animal) and abundance/biomass. Additionally, I am interested in how various optimization and statistical techniques can be incorporated into forward and inverse problem modeling. Improving acoustic estimates of data products relevant to fishery/ecosystem managers can further help us discern how organisms react to environmental and hydrographic variability at both the individual and population levels.
-

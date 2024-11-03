@@ -6,7 +6,7 @@ title: Liuyixin Shao
 authors:
 - liuyis
 
-weight: 22
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
@@ -62,7 +62,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a student at the University of Washington majoring in Statistics with a Data Science concentration. I expect to graduate in Spring 2025 and plan to pursue a graduate degree in Statistics or Data Science. 
@@ -74,6 +74,3 @@ At Echospace, I am working on the Bat Detector Validation Project. It is a manua
 In addition, I am mainly in charge of weekly trips to the Union Bay Natural Area, deploying and recovering audiomoths (the acoustic loggers), then uploading the week's data to the hard drive in the lab. I understand the importance of obtaining high-quality datasets for scientific research. 
 
 If you have any questions, please feel free to contact me via email.
-
-
-
