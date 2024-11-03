@@ -36,10 +36,10 @@ education:
   - course: PhD in Marine and Atmospheric Science
     institution: Stony Brook University, Stony Brook, NY
     year: 2023
-  - course: MS in Marine and Atmospheric Science
+  - course: MSc in Marine and Atmospheric Science
     institution: Stony Brook University, Stony Brook, NY
     year: 2016
-  - course: BS in Marine Biology
+  - course: BSc in Marine Biology
     institution: University of Rhode Island, Kingston, RI
     year: 2012
 
@@ -79,7 +79,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: author/brandyn-lucca/BMLucca.CV.January2024.pdf
+  link: author/brandyn-lucca/BMLucca.CV.September2024.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
