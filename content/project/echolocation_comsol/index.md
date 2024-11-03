@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Modeling sound propagation in the head of toothed whales"
-date: 2018
+date: 2022-07-01
 authors: 
   - leewj
   - yjcheong
