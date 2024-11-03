@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Presentations"
-  url = "#talks"
+  url = "#presentations"
   weight = 50
 
 [[main]]
