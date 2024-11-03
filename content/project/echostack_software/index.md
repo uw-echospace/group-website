@@ -1,8 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "The open-source \"Echostack\" for scalable, cloud-native processing of water column sonar data"
-date: 2021
+date: 2021-10
 authors: 
+  - leewj
+  - landungs
+  - ctuguinay
+  - bmlucca
+  - ldr426
+  - sbutala
+  - emiliom
+  - breyes
+  - imranmaj
+  - ngkavin
+  - vms16
 slug: echostack
 weight: 15
 draft: false
@@ -37,9 +48,9 @@ Water column sonar data collected by echosounders are essential for fisheries an
 
 Currently, the Echostack contains the following packages:
 - [Echopype](https://github.com/OSOceanAcoustics/echopype): performs data standardization and computation from raw instrument files to acoustic data products
-  - check out the [Echopype paper in ICES Journal of Marine Science](https://doi.org/10.1093/icesjms/fsae133)
+  - Check out the [Echopype paper in ICES Journal of Marine Science](https://doi.org/10.1093/icesjms/fsae133)
 - [Echopop](https://github.com/OSOceanAcoustics/echopop): generates acoustically derived biological estimates, such as abundance
-  - [Echopop project page](project/2021-echopro)
+  - Learn more on [Echopop project page](../2021-echopop/)
 - [Echoshader](https://github.com/OSOceanAcoustics/echoshader): enables interactive acoustic data visualization and exploration
 - [Echoregions](https://github.com/OSOceanAcoustics/echoregions): interfaces acoustic data with machine learning developments
 - [Echodataflow](https://github.com/OSOceanAcoustics/echodataflow): workflow orchestration via text-based configuration “recipes” instead of code

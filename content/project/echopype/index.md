@@ -5,11 +5,11 @@ date: 2020-11-01T14:50:00-08:00
 authors: 
 slug: echopype
 weight: 30
-draft: false
+draft: true
 tags: 
-  - python
+  - fisheries acoustics
+  - scientific computing
   - open-source
-  - echosounder
 summary: "A Python package that enhances the interoperability and scalability in ocean sonar processing."
 
 # Customize
