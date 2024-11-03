@@ -38,4 +38,4 @@ As part of a Multidisciplinary University Research Initiative (MURI) project, we
 
 <!-- TODO: link ASA 2023 talk -->
 
-**Funding agency**: Office of Naval Research, Multidisciplinary University Research Initiative (MURI) program
+**Funding**: Office of Naval Research, Multidisciplinary University Research Initiative (MURI) program

@@ -34,4 +34,4 @@ image:
 
 The present study aims to develop physics-based models that enable a better understanding of the directional hearing mechanisms in toothed whales. The proposed models will help elucidate the complex acoustic pathways that play a crucial role in the ability of these marine mammals to locate and track prey, communicate with conspecifics, and avoid potential threats in their environment. We intend to employ a range of analytical and computational techniques to model the sound propagation and reception in the auditory systems of toothed whales, which will provide valuable insights into their hearing capabilities. The ultimate goal of this research is to enhance our knowledge of the sensory systems of toothed whales, which could have significant implications for their conservation and management in the wild, as well as for the development of innovative technologies inspired by nature.
 
-**Funding agency**: Office of Naval Research -- Multidisciplinary University Research Initiative (MURI) 
+**Funding**: Office of Naval Research -- Multidisciplinary University Research Initiative (MURI) 
