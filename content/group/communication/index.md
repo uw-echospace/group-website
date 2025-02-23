@@ -29,7 +29,7 @@ image:
 
 ---
 
-# Communication
+## Mode of Communication
 
 We use various modes of communication in Echospace to keep ourselves up-to-date on what we are each working on and coordinate.
 
@@ -39,7 +39,8 @@ Depending on who's involved and the context, we use different methods to communi
 - GitHub: PR and issues, see [here](./compute-git.md) for how to get started
 - Talking: we do talk in analog form!
 
-In terms of expectations:
+
+## Expectations
 - We encourage proactive and frequent communication; for most projects we meet at least weekly to keep each other updated and set short and long term goals
 - Immediate response are not expected unless urgent
 - People may send messages/emails at their convenient time; aim to respond within a reasonable time frame
