@@ -1,15 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Opportunities at Echospace"
-date: 2022-07-25T00:00:00-08:00
-authors: 
-  - leewj
-  - vms16
-  - emiliom
-slug: fellowships
+date: 2024-09-01
+slug: opportunities
+weight: 20
 draft: false
 tags: 
-summary: " "
+summary: "Interested in joining Echospace? Check out the latest info here!"
 
 # Customize
 share: false
@@ -32,12 +29,13 @@ image:
 
 ## General information
 
-We welcome researchers and students with diverse backgrounds to come work with us in Echospace! If you are interested but do not find a specific position posted, feel free to reach out to us directly. Please include a cover letter and a CV/resume when initiating the contact, so that we have a better idea what you are looking for.
+We welcome researchers and students with diverse backgrounds to come work with us in Echospace! If you don't see a specific position below, feel free to reach out to us directly. Please include a cover letter and a CV/resume when initiating the contact, so that we have a better idea what you are looking for and your background.
 
 
 ## Fellowship opportunities
 
 Below is a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.
+
 
 ### Postdoc fellowships
 
@@ -49,7 +47,7 @@ Below is a list of fellowship opportunities within and outside of UW. Relevant a
 #### External
 - [NSF Ocean Sciences (OCE) Postdoctoral Research Fellowships (OCE-PRF)](https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0)
 - [NSF Division of Earth Sciences (EAR) Postdoctoral Fellowships (EAR-PF)](https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf)
-- [Acoustical Society of America (ASA) Hunt Postdoctoral Research fellowship](https://acousticalsociety.org/fellowships-and-scholarships/)
+- [Acoustical Society of America (ASA) F. V. Hunt Postdoctoral Research fellowship](https://acousticalsociety.org/fellowships-and-scholarships/)
 
 
 ### Graduate fellowships
@@ -59,4 +57,5 @@ Below is a list of fellowship opportunities within and outside of UW. Relevant a
 
 ### Undergraduate fellowships
 
-- [Mary Gates Research Scholarship](https://expd.uw.edu/mge/apply/research/)
+- [UW Mary Gates Research Scholarship](https://expd.uw.edu/mge/apply/research/)
+- [APL DINO-SIP Diverse + Inclusive Naval Oceanographic Summer Intership Program](https://www.apl.uw.edu/education/dino_sip.php)

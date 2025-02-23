@@ -1,17 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Echopop: hake biomass estimation"
+title: "Echopop: biomass estimation for Pacific Hake"
 date: 2022-01-25T17:02:36-08:00
 authors: 
-slug: 2021-echopro
+slug: echopop
 weight: 17
 draft: false
 tags: 
   - fisheries acoustics
-  - biomass estimation
-  - community engagement
-  - software development
-summary: "Modernizing the EchoPro workflow for integrating acoustic and biological survey samples for biomass estimation."
+  - scientific computing
+  - open-source
+summary: "Integrating echosounder data and net catches for biomass estimation."
 
 # Customize
 share: false
