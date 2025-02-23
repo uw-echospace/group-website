@@ -12,7 +12,8 @@ weight: 20
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Peer Mentor at UW Statistics
+external_link: https://www.linkedin.com/in/liuyixin-s-322b84250/
 
 # Organizations/Affiliations
 organizations:

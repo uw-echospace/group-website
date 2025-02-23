@@ -31,7 +31,7 @@ education:
   courses:
   - course: BS in Electrical Engineering
     institution: University of Washington
-    year: 2024 (expected)
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

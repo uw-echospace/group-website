@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Senior Oceanographer
+role: Principal Oceanographer
 
 # Organizations/Affiliations
 organizations:
@@ -27,20 +27,17 @@ interests:
 - Acoustical oceanography
 - Fisheries acoustics
 - Animal echolocation / bioacoustics
-- Distributed sensing
-- Data science education
+- Adaptive sensing
+- Acoustic and data science education
 
 education:
   courses:
   - course: PhD in Oceanographic Engineering
     institution: MIT-WHOI Joint Program in Oceanography
-    year: 2013
   - course: BSc in Electrical Engineering
     institution: National Taiwan University
-    year: 2005
   - course: BSc in Life Science (Zoology focus)
     institution: National Taiwan University
-    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,12 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:leewj@uw.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/leewujung
-- icon: igloo
-  icon_pack: fas
-  link: https://leewujung.github.io/
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -81,15 +72,15 @@ user_groups:
 - Researchers
 ---
 
-Sound is the best information carrier in the ocean. I work at the intersection of physics, engineering, and biology to develop computational methodologies and interpretation frameworks for extracting mid- to high-trophic level biological information from ocean acoustic data across multiple spatial and temporal scales. 
+Sound is the best information carrier in the ocean. I work at the intersection of physics, engineering, and biology to develop computational methods, models, and interpretation frameworks to extract biological information from ocean acoustic data. 
 
 My current research focuses on integrating physics-based models and data-driven methods to address two fundamental aspects of acoustic sensing:
 
 * **Sampling** – how do we collect better data?
 * **Inference** – what can we learn from the data?
 
-A parallel but closely related focus of my research involves using echolocating bats and toothed whales as biological models for adaptive and distributed ocean sensing.
+A parallel but closely related focus of my research involves using echolocating bats and toothed whales as biological models for adaptive ocean sensing.
 
-I enjoy working with people from diverse backgrounds, and am an active contributor to open-source scientific software (see [echopype](https://github.com/OSOceanAcoustics/echopype)). I am passionate about data science education and have been the lead and co-lead of [OceanHackWeek](https://oceanhackweek.github.io/), a workshop dedicated to data science in oceanography, since 2018.
+I enjoy working with people from diverse backgrounds, and am an active contributor to open-source scientific software (see [echostack](https://proceedings.scipy.org/articles/WXRH8633)). I am passionate about education and have founded and continue to co-lead [OceanHackWeek](https://oceanhackweek.github.io/), a workshop dedicated to data science in oceanography, since 2018.
 
 I lead the Echospace group and our research projects are funded by the National Science Foundation, the Office of Naval Research, and the National Oceanic and Atmospheric Administration.
