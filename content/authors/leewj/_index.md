@@ -81,6 +81,6 @@ My current research focuses on integrating physics-based models and data-driven 
 
 A parallel but closely related focus of my research involves using echolocating bats and toothed whales as biological models for adaptive ocean sensing.
 
-I enjoy working with people from diverse backgrounds, and am an active contributor to open-source scientific software (see [echostack](https://proceedings.scipy.org/articles/WXRH8633)). I am passionate about education and have founded and continue to co-lead [OceanHackWeek](https://oceanhackweek.github.io/), a workshop dedicated to data science in oceanography, since 2018.
+I enjoy working with people from diverse backgrounds, and am an active contributor to open-source scientific software (see [echostack](https://proceedings.scipy.org/articles/WXRH8633)). I am passionate about education, and have founded and continued to co-lead [OceanHackWeek](https://oceanhackweek.github.io/), a workshop dedicated to data science in oceanography, since 2018. I was also a committee member for the National Academies study on [Ocean Acoustics Education and Expertise](https://www.nationalacademies.org/our-work/ocean-acoustics-education-and-expertise) in 2023-2024.
 
 I lead the Echospace group and our research projects are funded by the National Science Foundation, the Office of Naval Research, and the National Oceanic and Atmospheric Administration.
