@@ -12,8 +12,8 @@ weight: 10
 superuser: false
 
 # Role/position
-role: ""
-external_link: https://github.com/ldr426
+role: "Software Engineer at GEICO"
+external_link: https://www.linkedin.com/in/dingrui-lei-b41560236/
 
 # Organizations/Affiliations
 organizations:

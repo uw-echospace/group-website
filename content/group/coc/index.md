@@ -7,7 +7,7 @@ slug: coc
 weight: 10
 draft: false
 tags: 
-summary: "We review and discuss the code of conduct and what we value as a group regularly, as reminder and inspiration for ourselves."
+summary: "We review and discuss our code of conduct and what we value regularly, as a reminder and inspiration."
 
 # Customize
 share: false
