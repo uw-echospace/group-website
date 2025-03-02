@@ -30,7 +30,7 @@ We also study echolocating bats and toothed whales as biological models for adap
 
 ### Research areas:
 - Acoustical oceanography
-- Machine learning in ocean acoustics
 - Fisheries acoustics
 - Animal echolocation / bioacoustics
+- Machine learning in ocean acoustics
 - Data systems and workflows
