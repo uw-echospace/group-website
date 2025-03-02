@@ -10,7 +10,7 @@ tags:
   - echolocation
   - passive acoustic monitoring
   - community engagement
-summary: "Using passive acoustic techniques to monitor bat activity on UW campus!"
+summary: "Using passive acoustic techniques to monitor bats and birds on UW campus!"
 
 # Customize
 share: false
