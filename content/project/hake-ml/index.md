@@ -3,7 +3,7 @@
 title: "Machine learning in fisheries acoustics"
 date: 2021-05-01T17:02:36-08:00
 authors: 
-slug: echo-ml
+slug: hake-ml
 weight: 10
 draft: false
 tags: 
