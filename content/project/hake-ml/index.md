@@ -31,7 +31,7 @@ image:
 
 ---
 
-[Active acoustic data collected by echosounders](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f) (high-frequency sonar systems) play a crucial role in marine ecological research and fisheries stock assessments. Recent technical advancements has further integrated echosounders onto a wide variety of ocean observing platforms, leading to the rapid accumulation of echosounder data from all oceans.
+[Active acoustic data collected by echosounders](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f) (high-frequency sonar systems) play a crucial role in marine ecological research and fisheries stock assessments. Recent technical advancements has further integrated echosounders onto many ocean observing platforms, leading to the rapid accumulation of echosounder data worldwide.
 
 In this project, we tackle the challenge of translating experiences from human experts into machine learning models capable of efficiently extracting biological information from large echosounder dataset. Using the rich dataset collected by the [Joint U.S.-Canada Integrated Ecosystem and Pacific Hake Acoustic Trawl Survey](https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey) dated back to early 2000s, we are developing deep learning models to automatically annotate echograms—color-coded visual representations of echo returns—with the presence of specific fish and zooplankton species or taxa.
  

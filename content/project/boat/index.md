@@ -31,7 +31,7 @@ image:
 
 ---
 
-Ocean Acoustics (OA) is an interdisciplinary field in which researchers focus on measuring, modeling, and understanding acoustic phenomena of oceanographical, geological, biological, and anthropogenic sources. However, despite its inherent interdisciplinary nature, OA research currently has limited presence in most US institutions and is typically viewed as a highly niched field.
+Ocean acoustics is an interdisciplinary field in which researchers focus on measuring, modeling, and understanding acoustic phenomena of oceanographical, geological, biological, and anthropogenic sources. However, despite its inherent interdisciplinary nature, Ocean acoustics research currently has limited presence in most US institutions and is typically viewed as a highly niched field.
 
 The [Bridge to Ocean Acoustics and Technology (BOAT)](https://boat-ocean-acoustics.github.io/) program aims to broaden access to ocean acoustics by empowering learners to explore and advance the field through collaboration and shared knowledge, focusing on:
 - Developing open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents.
@@ -41,6 +41,6 @@ In the current pilot phase, we will host two education workshops to provide a ha
 
 Our goal is to create open tutorials that can 1) be adapted to various educational settings, including regular university courses or summer workshops, and 2) serve as blueprints for further developing in-depth resources on specific ocean acoustics topics.
 
-See the [BOAT website](https://boat-ocean-acoustics.github.io/) for information for the two upcoming workshop - in [Seattle](https://boat-ocean-acoustics.github.io/workshop_seattle.html) and [New Orleans](https://boat-ocean-acoustics.github.io/workshop_new_orleans.html)!
+See the [BOAT website](https://boat-ocean-acoustics.github.io/) for information for the two upcoming workshops in [Seattle](https://boat-ocean-acoustics.github.io/workshop_seattle.html) and [New Orleans](https://boat-ocean-acoustics.github.io/workshop_new_orleans.html)!
 
 **Funding Agency:** Office of Naval Research, Ocean Acoustics Program
