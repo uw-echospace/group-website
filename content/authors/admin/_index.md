@@ -24,7 +24,7 @@ organizations:
 user_groups: []
 ---
 
-We are an interdisciplinary research group focused on extracting insights from large ocean acoustic datasets, which contain rich information from zooplankton, fish, to whales. 
+We are an interdisciplinary research group focused on extracting biological insights from ocean acoustic data, which contain rich information from zooplankton to fish and whales. 
 Our work combines physics-based models with data-driven methods to develop computational tools and open-source software to analyze [water column sonar data](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f).
 We also study echolocating bats and toothed whales as biological models for adaptive sonar sensing.
 
