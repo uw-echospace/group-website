@@ -1,8 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Passive acoustic monitoring of bats in the Union Bay Natural Area"
+title: "Passive acoustic monitoring in the Union Bay Natural Area"
 date: 2021-09-01
-authors: 
+authors:
+- leewj
+- adkris
 slug: ubna-pam
 weight: 10
 draft: false
@@ -31,8 +33,13 @@ image:
 
 ---
 
-Understanding how echolocators make use of sound to navigate their surroundings has great potential for informing the design of advanced acoustic sensing technologies. Although much has already been studied in laboratory experiments, technology has just started catching up to allow researchers to study echolocation-related processes in the wild. Advancements in passive acoustic monitoring tools have made it affordable to conduct long-term acoustic surveys on animals in the wild. Echolocators, like bats, are well-suited for monitoring using simple passive acoustic techniques because of their use of acoustics and navgitaion in air.
+Passive acoustic monitoring (PAM) has become a useful technique for monitoring soniferous animals in both terrestrial and marine habitats, and has in recent years been particularly bolstered by the broader availability and accessibility of low-cost recording devices.
 
-In this project, we sought to collect long-term acoustic data using Audiomoths from an urban natural area called the Union Bay Natural Area at the University of Washington. With this data, we hope to uncover questions on how environmental conditions influence how bats choose to forage.
+In this project, we deploy low-cost [AudioMoth](https://www.openacousticdevices.info/audiomoth) recorders at multiple sites in the [Union Bay Natural Area](https://botanicgardens.uw.edu/center-for-urban-horticulture/visit/union-bay-natural-area/), right on the eastern edge of the University of Washington, Seattle campus. Since the project began in fall 2021, we have collected over 30 TB of recordings that are embedded with sounds from a wide variety of animals (birds, bats, frogs, etc.) and anthopogenic sources (airplanes, football stadium roars, etc.).
+
+Beyond generating a rich dataset, the project fieldwork and data analysis provides an accesible entry point for students to engage in real-world bioacoustics research, with hands-on data science and instrumentation opportunities.
+
+We have leveraged this dataset to investigate the [impact of duty cycle recording on bat monitoring](/talk/202405-aditya-asa/) and support multiple capstone projects in the [UW Data Sciene Master's Program](https://www.washington.edu/datasciencemasters/), focused on developing open-source, cloud-hosted workflows for analyzing large PAM datasets. With these tools in place, going forward we plan to characterize the seasonal soundscape fluctuations in UBNA with respect to weather/climate events, and find opportunities to expand this effort to a community monitoring program in the Greater Seattle area.
+
 
 **Funding**: [UW Royalty Research Fund](https://www.washington.edu/research/or/royalty-research-fund-rrf/)

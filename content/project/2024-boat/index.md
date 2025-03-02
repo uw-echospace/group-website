@@ -2,17 +2,17 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "BOAT: Bridge to Ocean Acoustics and Technology"
 date: 2024-03-28T17:02:36-08:00
-authors: 
+authors:
+- leewj
+- vms16
 slug: boat
 weight: 10
 draft: false
 tags: 
   - education
-  - fisheries acoustics
-  - seabed acoustics
   - community engagement
     
-summary: "Democratizing the entrance to the ocean acoustics field through interdisciplinary education and outreach"
+summary: "An open education program for ocean acoustics via executable tutorials"
 
 # Customize
 share: false
@@ -33,6 +33,16 @@ image:
 
 ---
 
-[Wu-Jung Lee](/author/wu-jung-lee) (APL), [Valentina Staneva](/author/valentina-staneva) (eScience Institute), and [Todd Hefner](https://www.apl.washington.edu/people/profile.php?last_name=Hefner&first_name=Todd) (APL) were awarded a grant by the Office of Naval Research to democratize ocean acoustics education and research training. The new program BOAT: Bridge to Ocean Acoustics and Technology will develop open source education curriculum\&tutorials and interactive training workshops that aim to prepare students from diverse backgrounds (biology, physics, electrical engineering, math, etc) for doing research in the interdisciplinary field of Ocean Acoustics. The modules will cover topics ranging from the scientific theory (physics) of scattering of the seabed and marine organisms, practical applications in oceanography and fisheries, to foundational topics in statistics, machine learning, and data science workflows which all are indispensable in navigating today’s data-rich science. They will be provided in the form of [Jupyter Notebooks](https://ebooks.iospress.nl/publication/42900) with interactive components, which can be adapted and ingested in various settings such as a university course or a summer workshop, and will serve as blueprints for building resources on other ocean acoustics topics. The goal is to build a community of practitioners who build and share knowledge on best practices on how to teach and train new scientists in the field. For those interested in learning more about the program and/or exploring potential collaborations, please, reach out to the PIs at emails: `leewj@uw.edu`, `vms16@uw.edu`, `bth3@uw.edu`.  
+Ocean Acoustics (OA) is an interdisciplinary field in which researchers focus on measuring, modeling, and understanding acoustic phenomena of oceanographical, geological, biological, and anthropogenic sources. However, despite its inherent interdisciplinary nature, OA research currently has limited presence in most US institutions and is typically viewed as a highly niched field.
 
-**Funding Agency:** Office of Naval Research
+The [Bridge to Ocean Acoustics and Technology (BOAT)](https://boat-ocean-acoustics.github.io/) program aims to broaden access to ocean acoustics by empowering learners to explore and advance the field through collaboration and shared knowledge, focusing on:
+- Developing open, executable, and web-hosted tutorials that encapsulate fundamental ocean acoustics knowledge and techniques as living documents.
+- Growing the ocean acoustics education and research community through interactive and collaborative workshops.
+
+In the current pilot phase, we will host two education workshops to provide a hands-on introduction to ocean acoustics—from fundamental concepts to real-world applications—using interactive [Jupyter notebooks](https://jupyter.org/). We will cover topics broadly applicable to both active and passive acoustics, with hands-on experience using echosounder and hydrophone datasets.
+
+Our goal is to create open tutorials that can 1) be adapted to various educational settings, including regular university courses or summer workshops, and 2) serve as blueprints for further developing in-depth resources on specific ocean acoustics topics.
+
+See the [BOAT website](https://boat-ocean-acoustics.github.io/) for information for the two upcoming workshop - in [Seattle](https://boat-ocean-acoustics.github.io/workshop_seattle.html) and [New Orleans](https://boat-ocean-acoustics.github.io/workshop_new_orleans.html)!
+
+**Funding Agency:** Office of Naval Research, Ocean Acoustics Program
