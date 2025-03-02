@@ -24,7 +24,9 @@ organizations:
 user_groups: []
 ---
 
-We are a diverse group of researchers whose work centers around extracting knowledge from large volumes of ocean acoustic data, which contain rich information about animals ranging from zooplankton, fish, to marine mammals. Integrating physics-based models and data-driven methods, our current work focuses on mining [water column sonar data](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f) and spans a broad spectrum from developing computational methods, building open source software and cloud applications, to joint analysis of acoustic observations and ocean environmental variables. A parallel but closely related focus of our research involves using [echolocating bats and toothed whales](https://www.nationalgeographic.com/animals/article/echolocation-is-nature-built-in-sonar-here-is-how-it-works) as biological model systemss for adaptive and distributed ocean sensing. 
+We are an interdisciplinary research group focused on extracting insights from large ocean acoustic datasets, which contain rich information from zooplankton, fish, to whales. 
+Our work combines physics-based models with data-driven methods to develop computational tools and open-source software to analyze [water column sonar data](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f).
+We also study echolocating bats and toothed whales as biological models for adaptive sonar sensing.
 
 ### Research areas:
 - Acoustical oceanography
@@ -32,4 +34,3 @@ We are a diverse group of researchers whose work centers around extracting knowl
 - Fisheries acoustics
 - Animal echolocation / bioacoustics
 - Data systems and workflows
-- Data science in oceanography
