@@ -3,8 +3,6 @@
 title: "BOAT: Bridge to Ocean Acoustics and Technology"
 date: 2024-03-28T17:02:36-08:00
 authors:
-- leewj
-- vms16
 slug: boat
 weight: 10
 draft: false

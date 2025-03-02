@@ -3,8 +3,6 @@
 title: "Passive acoustic monitoring in the Union Bay Natural Area"
 date: 2021-09-01
 authors:
-- leewj
-- adkris
 slug: ubna-pam
 weight: 10
 draft: false
