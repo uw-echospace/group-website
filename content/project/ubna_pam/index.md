@@ -39,7 +39,7 @@ In this project, we deploy low-cost [AudioMoth](https://www.openacousticdevices.
 
 Beyond generating a rich dataset, the project fieldwork and data analysis provides an accesible entry point for students to engage in real-world bioacoustics research, with hands-on data science and instrumentation opportunities.
 
-We have leveraged this dataset to investigate the [impact of duty cycle recording on bat monitoring](/talk/202405-aditya-asa/) and support multiple capstone projects in the [UW Data Sciene Master's Program](https://www.washington.edu/datasciencemasters/), focused on developing open-source, cloud-hosted workflows for analyzing large PAM datasets. With these tools in place, going forward we plan to characterize the seasonal soundscape fluctuations in UBNA with respect to weather/climate events, and find opportunities to expand this effort to a community monitoring program in the Greater Seattle area.
+We have leveraged this dataset to investigate the [impact of duty cycle recording on bat monitoring](/talk/202405-aditya-duty-cycle/) and support multiple capstone projects in the [UW Data Sciene Master's Program](https://www.washington.edu/datasciencemasters/), focused on developing open-source, cloud-hosted workflows for analyzing large PAM datasets. With these tools in place, going forward we plan to characterize the seasonal soundscape fluctuations in UBNA with respect to weather/climate events, and find opportunities to expand this effort to a community monitoring program in the Greater Seattle area.
 
 
 **Funding**: [UW Royalty Research Fund](https://www.washington.edu/research/or/royalty-research-fund-rrf/)
