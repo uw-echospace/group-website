@@ -40,4 +40,9 @@ Beyond generating a rich dataset, the project fieldwork and data analysis provid
 We have leveraged this dataset to investigate the [impact of duty cycle recording on bat monitoring](/talk/202405-aditya-duty-cycle/) and support multiple capstone projects in the [UW Data Sciene Master's Program](https://www.washington.edu/datasciencemasters/), focused on developing open-source, cloud-hosted workflows for analyzing large PAM datasets. With these tools in place, going forward we plan to characterize the seasonal soundscape fluctuations in UBNA with respect to weather/climate events, and find opportunities to expand this effort to a community monitoring program in the Greater Seattle area.
 
 
+<img src="featured.png" alt="UBNA bat activity grid" style="width:600px"/>
+<p align="center">
+  <b>Bat call activity detected in two UBNA sites in 2022.</b>
+</p>
+
 **Funding**: [UW Royalty Research Fund](https://www.washington.edu/research/or/royalty-research-fund-rrf/)
