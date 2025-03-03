@@ -29,14 +29,19 @@
   weight = 70
 
 [[main]]
- name = "Group resources"
+ name = "Group misc"
  url = "#group"
  weight = 80
 
 [[main]]
+  name = "Positions"
+  url = "#positions"
+  weight = 90
+
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 90
+  weight = 95
 
 [[main]]
   name = "Contact"
