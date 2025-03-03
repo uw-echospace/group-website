@@ -43,6 +43,11 @@ Moving forward, we aim to expand the model to include other ecologically and com
 
 <img src="featured.png" alt="Fisheries Acoustics"> -->
 
+<p align="center">
+  <img src="featured.png" alt="" style="width:1000px"/>
+  <b>Echogram examples showing the deep learning model predicts regions similar to human expert annotations.</b>
+</p>
+
 This project is in close collaboration with the [Fisheries Engineering and Acoustics Technology (FEAT) team](https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team) at the NOAA Fisheries [Northwest Fisheries science center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center).
 
 **Funding agency**: NOAA Fisheries
