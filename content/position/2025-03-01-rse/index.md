@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Research software engineer position (short-term)"
+title: "Scientific Software Engineering Opportunity"
 date: 2025-03-01T00:00:00-08:00
 authors: 
   - leewj
