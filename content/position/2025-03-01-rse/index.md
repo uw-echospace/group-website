@@ -28,7 +28,7 @@ image:
 
 ---
 
-## Open-Source Software to Accelerate Marine Ecosystem Research with Large-Scale Ocean Sonar Data
+## Open-Source Software to Accelerate Marine Ecosystem Research
 
 The [Echospace](https://uw-echospace.github.io/) research group at the University of Washington, Seattle is seeking a highly motivated individual to contribute to the development of cutting-edge software tools for marine ecosystem research. This position offers the opportunity to work on "[Echostack](https://doi.org/10.25080/WXRH8633)", a suite of open-source Python software packages designed to process and analyze large-scale echosounder data.
 
