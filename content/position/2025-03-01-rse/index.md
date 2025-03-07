@@ -4,6 +4,7 @@ title: "Scientific Software Engineering Opportunity"
 date: 2025-03-01T00:00:00-08:00
 authors: 
   - leewj
+  - vms16
 slug: 2025-03-01-rse
 draft: false
 tags: 
