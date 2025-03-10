@@ -36,22 +36,21 @@ image:
 
 We address this gap by developing **Echostack**, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.
 
-Below is a summary of the Echostack package:
+Below is a summary of the Echostack packages:
 <p align="center">
   <img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
-  <b>Bat call activity detected in two UBNA sites in 2022.</b>
 </p>
 
-For more information, check out each of the code repositories:
-- [Echopype](https://github.com/OSOceanAcoustics/echopype): performs data standardization and computation from raw instrument files to acoustic data products
-  - Check out the [Echopype paper in ICES Journal of Marine Science](https://doi.org/10.1093/icesjms/fsae133)
-- [Echopop](https://github.com/OSOceanAcoustics/echopop): generates acoustically derived biological estimates, such as abundance
+For more information, check out the code repositories below:
+- [Echopype](https://github.com/OSOceanAcoustics/echopype)
+  - Check out the our [Echopype paper](https://doi.org/10.1093/icesjms/fsae133) in the ICES Journal of Marine Science
+- [Echopop](https://github.com/OSOceanAcoustics/echopop)
   - Learn more on the [Echopop project page](../../project_others/echopop/)
-- [Echoshader](https://github.com/OSOceanAcoustics/echoshader): enables interactive acoustic data visualization and exploration
-- [Echoregions](https://github.com/OSOceanAcoustics/echoregions): interfaces acoustic data with machine learning developments
-- [Echodataflow](https://github.com/OSOceanAcoustics/echodataflow): workflow orchestration via text-based configuration “recipes” instead of code
+- [Echoshader](https://github.com/OSOceanAcoustics/echoshader)
+- [Echoregions](https://github.com/OSOceanAcoustics/echoregions)
+- [Echodataflow](https://github.com/OSOceanAcoustics/echodataflow)
 
-These packages are accompanied by a set of data processing level definitions, [Echolevels](https://github.com/OSOceanAcoustics/echolevels), which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.
+These packages are accompanied by a set of [Echolevels](https://github.com/OSOceanAcoustics/echolevels) that categorize data products at different workflow stages to enhance data understanding and provenance tracking.
 
 
 Check out Wu-Jung's talk at SciPy 2024 and the associated [paper](https://doi.org/10.25080/WXRH8633) in the proceedings!
