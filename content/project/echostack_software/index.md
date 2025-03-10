@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "The open-source \"Echostack\" for scalable, cloud-native processing of water column sonar data"
+title: "The open-source \"Echostack\" for flexible and scalable echosounder data processing"
 date: 2021-07-01
 authors: 
 slug: echostack
@@ -8,7 +8,6 @@ weight: 15
 draft: false
 tags: 
   - fisheries acoustics
-  - scientific computing
   - cloud computing
   - open-source
   - community engagement
@@ -33,7 +32,9 @@ image:
 
 ---
 
-Water column sonar data collected by echosounders are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem. We address this gap by developing **Echostack**, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.
+Water column sonar data collected by echosounders are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem.
+
+We address this gap by developing **Echostack**, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.
 
 Currently, the Echostack contains the following packages:
 - [Echopype](https://github.com/OSOceanAcoustics/echopype): performs data standardization and computation from raw instrument files to acoustic data products
@@ -46,9 +47,14 @@ Currently, the Echostack contains the following packages:
 
 These packages are accompanied by a set of data processing level definitions, [Echolevels](https://github.com/OSOceanAcoustics/echolevels), which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.
 
-Check out Wu-Jung's talk at SciPy 2024 and the associated [proceeding paper](https://doi.org/10.25080/WXRH8633)!
-{{< youtube YRFxMGisGww >}}
+<p align="center">
+  <img src="echostack summary.png" alt="Echostack summary" style="width:1000px"/>
+  <b>Bat call activity detected in two UBNA sites in 2022.</b>
+</p>
 
+
+Check out Wu-Jung's talk at SciPy 2024 and the associated [paper](https://doi.org/10.25080/WXRH8633) in the proceedings!
+{{< youtube YRFxMGisGww >}}
 
 **Funding**: 
 - NOAA Fisheries
