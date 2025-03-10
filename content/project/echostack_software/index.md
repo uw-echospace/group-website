@@ -48,7 +48,7 @@ Currently, the Echostack contains the following packages:
 These packages are accompanied by a set of data processing level definitions, [Echolevels](https://github.com/OSOceanAcoustics/echolevels), which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.
 
 <p align="center">
-  <img src="echostack summary.png" alt="Echostack summary" style="width:1000px"/>
+  <img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
   <b>Bat call activity detected in two UBNA sites in 2022.</b>
 </p>
 
