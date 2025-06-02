@@ -3,7 +3,7 @@
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 1000  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
@@ -17,4 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-

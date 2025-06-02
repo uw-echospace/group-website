@@ -12,7 +12,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
   - course: BS in Electrical Engineering
     institution: University of Washington
-    year: 2024 (expected)
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -9,24 +9,9 @@
   weight = 10
 
 [[main]]
- name = "Values"
- url = "#values"
- weight = 15
-
-[[main]]
   name = "People"
   url = "#people"
   weight = 20
-
-[[main]]
-  name = "Positions"
-  url = "#positions"
-  weight = 30
-
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 35
 
 [[main]]
   name = "Projects"
@@ -34,14 +19,9 @@
   weight = 40
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Presentations"
+  url = "#presentations"
   weight = 50
-
-[[main]]
-  name = "Software"
-  url = "#software"
-  weight = 60
 
 [[main]]
   name = "Publications"
@@ -49,9 +29,24 @@
   weight = 70
 
 [[main]]
+ name = "Group misc"
+ url = "#group"
+ weight = 80
+
+[[main]]
+  name = "Positions"
+  url = "#positions"
+  weight = 90
+
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 95
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 1000
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

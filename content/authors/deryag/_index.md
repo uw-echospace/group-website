@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Instructor Associate at [General Assembly](https://generalassemb.ly/)
+role: Web Developer at Sound Data Science
 external_link: https://www.linkedin.com/in/derya-gumustel/
 
 # Organizations/Affiliations

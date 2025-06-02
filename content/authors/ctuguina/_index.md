@@ -12,7 +12,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -33,6 +33,9 @@ education:
   - course: BS in Mathematics
     institution: University of Washington
     year: 2023
+  - course: MS in Applied Mathematics
+    institution: University of Washington
+    year: 2025 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
