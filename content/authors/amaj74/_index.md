@@ -20,7 +20,7 @@ organizations:
 - name: Applied Physics Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sophomore in Biology, intending Mechanical or Industrial Engineering
+bio: Sophomore in Mechanical Engineering
 
 interests:
 - Mechanical Design
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Biology
+  - course: BS in Mechanical Engineering
     institution: University of Washington
     year: 2027 (expected)
 
@@ -61,6 +61,6 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington currently majoring in Biology, but intending to transfer into Mechanical or Industrial Engineering. My expected graduation date is in Spring of 2027. I enjoy connecting mechanical design and biology, particularly physiology and zoology, to see them come together to create more efficient and innovative results. 
+I am a student at the University of Washington currently majoring in Mechanical Engineering with an expected graduation date in Spring of 2027. I have previously studied biology, and I enjoy connecting it with mechanical design to see them come together to create more efficient and innovative results. 
 
-I do not have much prior experience with acoustics, but I am excited to learn about the subject as well as develop new skills. At Echospace, I am assisting with audio recorder deployments in the Union Bay Natural Area as well as with the design of a microphone array to record bats.
+I do not have much prior experience with acoustics, but I am excited to learn about the subject as well as develop new skills. At Echospace, I am assisting with audio recorder deployments in the Union Bay Natural Area as well as with deployment of a microphone array to record bats.
