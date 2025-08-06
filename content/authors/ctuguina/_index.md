@@ -69,8 +69,8 @@ user_groups:
 
 I'm a first year Electrical Engineering PhD student working on acoustic projects at the University of Washington's Applied Physics Lab advised by Dr. Wu-Jung Lee. My research interests are in applications of water column sonar (fisheries acoustics and acoustical oceanography).
 
-I'm currently working on an oceanographic echosounder data processing and segmentation neural network project focused on the development of computer vision models for automatically detecting Pacific Hake in large volumes of fisheries echosounder data.
+I'm currently working on two related projects: (1) An echosounder data processing workflow for processing large volumes of fisheries echosounder data and (2) adapting computer vision models for acoustic classification and identification of Pacific Hake.
 
-To support this effort, I'm working on two open-source packages. I'm developing and maintaining [Echoregions](https://github.com/OSOceanAcoustics/echoregions): An open-source software package that interfaces annotations and water column sonar data for training machine learning models. I'm also helping in the effort to develop [Echopype](https://github.com/OSOceanAcoustics/echopype): An open-source software package that is designed to parse, calibrate, regrid, and perform other scientific computations on large amounts of raw acoustic data from various commercial and scientific Echosounder brands.
+To support this effort, I'm working on two open-source packages. I'm developing and maintaining [Echoregions](https://github.com/OSOceanAcoustics/echoregions): An open-source software package that interfaces annotations and water column sonar data for training machine learning models. I'm also helping in the effort to develop [Echopype](https://github.com/OSOceanAcoustics/echopype): An open-source software package that is designed to parse, calibrate, regrid, and perform other scientific computations on large amounts of raw acoustic data from various commercial and scientific echosounder brands.
 
 For any inquiries, feel free to contact me via email!
