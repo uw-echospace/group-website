@@ -12,7 +12,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -23,9 +23,9 @@ organizations:
 bio: I am interested in studying echolocation as an active sensing tool.
 
 interests:
-- Digital Signal Processing
+- Digital signal processing
 - Echolocation/Bioacoustics
-- Soundscape Monitoring
+- Soundscape monitoring
 
 education:
   courses:
