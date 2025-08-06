@@ -20,12 +20,12 @@ organizations:
 - name: Applied Physics Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in studying echolocation as a sensing tool.
+bio: I am interested in studying echolocation as an active sensing tool.
 
 interests:
 - Digital Signal Processing
-- Auditory Neuroscience
 - Echolocation/Bioacoustics
+- Soundscape Monitoring
 
 education:
   courses:
