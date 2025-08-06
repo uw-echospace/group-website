@@ -36,6 +36,8 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
     {{ $link = .RelPermalink }}
   {{ end }}
+  
+  {{- if ne (index (.Params.user_groups) 0) "Alumni" -}}
   <div class="col-12 col-sm-auto people-person">
     {{ $src := "" }}
     {{ if site.Params.avatar.gravatar }}
@@ -56,6 +58,19 @@
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>
+  
+  {{ else }}
+  <div class="col-12 col-sm-auto people-person" style='padding-right:5px;padding-left:5px;'>
+    <div class="portrait-title">
+      {{ $link := .Params.external_link }}
+      <h2 style="margin-bottom: 0ex; margin-top: 1pt;">{{with $link}}<a href="{{.}}">{{end}}{{ .Params.title }}{{if $link}}</a>{{end}}</h2>
+      {{ $organization := .Params.organization}}
+      {{- with .Params.role -}}<h3 style="margin-top: 8pt;">Now: {{ . | markdownify | emojify }}
+      {{- if $organization }} at {{$organization}}</h3> {{ end -}}{{- end -}}
+    </div>
+  </div>
+  {{-  end -}}
+
   {{ end }}
   {{ end }}
 </div>

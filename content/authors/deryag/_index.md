@@ -6,13 +6,14 @@ title: Derya Gumustel
 authors:
 - deryag
 
-weight: 11
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Web Developer at Sound Data Science
+external_link: https://www.linkedin.com/in/derya-gumustel/
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 ## Research Assistant 
