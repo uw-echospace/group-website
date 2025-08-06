@@ -46,7 +46,7 @@ social:
   link: https://github.com/aditya-uw
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/adkris1002/
+  link: https://www.linkedin.com/in/aditya-uw
 - icon: paw
   icon_pack: fas
   link: https://wildlabs.net/users/adkris1002
