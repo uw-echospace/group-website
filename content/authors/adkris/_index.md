@@ -24,7 +24,7 @@ bio: I am interested in studying echolocation as an active sensing tool.
 
 interests:
 - Digital signal processing
-- Echolocation/Bioacoustics
+- Echolocation/bioacoustics
 - Soundscape monitoring
 
 education:
@@ -65,10 +65,10 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Electrical Engineering and pursuing Digital Signal Processing and Neural Engineering concentrations. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
+I am a PhD student in the Electrical and Computer Engineering department at the University of Washington.
 
-My core competency is in signal processing, with extensive experience programming in Python. I enjoy interdisciplinary research and find that bats and whales are fascinating model systems to study due to their ability to echolocate. I am currently applying signal processing techniques in passive acoustic monitoring of bats with a goal toward understanding echolocation as a sensing tool.
+My interests are in utilizing ideas from statistics and signal processing to study how echolocating animals, such as bats and toothed whales, successfully perform complex tasks in dynamic environments. 
 
-At Echospace, I am investigating duty cycle-based subsampling for passive acoustic monitoring of bats by understanding how bat activity can happen in bursts defined as bouts. By understanding these bout characteristics, we can identify the subsampling parameters needed to address data maintenance costs by configuring recorders to only record during bouts of acoustic bat activity. We collect our echolocation data from local bat colonies by deploying autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)), at the Union Bay Natural Area right by the UW's football stadium.
+During my undergraduate studies, Wu-Jung and I led a long-term passive acoustic monitoring (PAM) program focused on capturing echolocation calls emitted by bats using autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)). We used the PAM data to perform an investigation into bat activity metrics and duty-cycle subsampling schemes.
 
-Feel free to ask me any questions at my email on pursuing research as an undergraduate!
+Feel free to ask me any questions at my email on doing research!
