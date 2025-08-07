@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Echodataflow: Recipe-based Fisheries Acoustics Workflow Orchestration"
-authors: ["V Staneva", "L Setiawan", "S Butala", "W-J Lee"]
+authors: ["V Staneva", "S Butala", "L Setiawan", "W-J Lee"]
 date: 2024-07-10
 doi: "https://doi.org/10.25080/JXDK4427"
 
@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "Proceedings of the 23rd Python in Science Conference"
 publication_short: "SciPy Proceedings"
 
-abstract: "With the influx of large data from multiple instruments and experiments, scientists are wrangling complex data pipelines that are context-dependent and non-reproducible. We demonstrate how we leverage Prefect ([Prefect](https://www.prefect.io/), 2024), a modern orchestration framework, to facilitate fisheries acoustics data processing. We built a Python package Echodataflow (Echodataflow, 2024) which 1) allows users to specify workflows and their parameters through editing text “recipes” which provide transparency and reproducibility of the pipelines; 2) supports scaling of the workflows while abstracting the computational infrastructure; 3) provides monitoring and logging of the workflow progress. Under the hood, Echodataflow uses Prefect to execute the workflows while providing a domain-friendly interface to facilitate diverse fisheries acoustics use cases. We demonstrate the features through a typical ship survey data processing pipeline."
+abstract: "With the influx of large data from multiple instruments and experiments, scientists are wrangling complex data pipelines that are context-dependent and non-reproducible. We demonstrate how we leverage Prefect ([Prefect](https://www.prefect.io/), 2024), a modern orchestration framework, to facilitate fisheries acoustics data processing. We built a Python package Echodataflow ([Echodataflow](https://github.com/OSOceanAcoustics/echodataflow), 2024) which 1) allows users to specify workflows and their parameters through editing text “recipes” which provide transparency and reproducibility of the pipelines; 2) supports scaling of the workflows while abstracting the computational infrastructure; 3) provides monitoring and logging of the workflow progress. Under the hood, Echodataflow uses Prefect to execute the workflows while providing a domain-friendly interface to facilitate diverse fisheries acoustics use cases. We demonstrate the features through a typical ship survey data processing pipeline."
 
 # Summary. An optional shortened abstract.
 summary: " "
