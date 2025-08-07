@@ -20,22 +20,25 @@ organizations:
 - name: Applied Physics Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in using signal processing techniques to understand acoustics!
+bio: I'm a first year Electrical Engineering PhD student working on acoustic projects at the University of Washington's Applied Physics Lab advised by Dr. Wu-Jung Lee. My research interests are in applications of water column sonar (fisheries acoustics and acoustical oceanography). I also develop open-source software for echosounder data processing and analysis.
 
 interests:
-- Signal Processing
 - Acoustics
-- Machine Learning
-- Data Processing
+- Signal processing
+- Machine learning
+- Open-source software
 
 education:
   courses:
-  - course: BS in Mathematics
+  - course: PhD in Electrical Engineering
+    institution: University of Washington
+    year: 2030 (expected)
+  - course: MSc in Applied Mathematics
+    institution: University of Washington
+    year: 2025
+  - course: BSc in Mathematics
     institution: University of Washington
     year: 2023
-  - course: MS in Applied Mathematics
-    institution: University of Washington
-    year: 2025 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ctuguina@uw.edu'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/caesar-tuguinay-a0b0882a4/
 - icon: github
   icon_pack: fab
   link: https://github.com/ctuguinay
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: /author/caesar-tuguinay/ctuguina_cv_202305.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: /author/caesar-tuguinay/ctuguina_cv_202305.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -62,14 +67,10 @@ user_groups:
 - Researchers
 ---
 
-I am a recent graduate of the University of Washington. I majored in Mathematics and minored in Data Science. I am planning on pursuing graduate education in Statistics/Applied Mathematics.
+I'm a first year Electrical Engineering PhD student working on acoustic projects at the University of Washington's Applied Physics Lab advised by Dr. Wu-Jung Lee. My research interests are in applications of water column sonar (fisheries acoustics and acoustical oceanography).
 
-My interests in applied math are in signal processing, specifically in the area of acoustics. My hobbies include running, swimming, and (very inconsistently) playing the piano.
+I'm currently working on two related projects: (1) An echosounder data processing workflow for processing large volumes of fisheries echosounder data and (2) adapting computer vision models for acoustic classification and identification of Pacific Hake.
 
-At Echospace, I am working on the Hake Machine Learning (ML) Project.
-
-The Hake ML Project is a Data Processing and Convolutional Neural Network project focused on the development of machine learning models for automatically detecting Pacific hake in large volumes of echosounder data.
-
-One of the software packages I am developing and maintaining in this project is [EchoRegions](https://github.com/OSOceanAcoustics/echoregions): A Python data processing software package to create region and bottom masks for echosounder data using both Echoview data and data products from [Echopype](https://github.com/OSOceanAcoustics/echopype).
+To support this effort, I'm working on two open-source packages. I'm developing and maintaining [Echoregions](https://github.com/OSOceanAcoustics/echoregions): An open-source software package that interfaces annotations and water column sonar data for training machine learning models. I'm also helping in the effort to develop [Echopype](https://github.com/OSOceanAcoustics/echopype): An open-source software package that is designed to parse, calibrate, regrid, and perform other scientific computations on large amounts of raw acoustic data from various commercial and scientific echosounder brands.
 
 For any inquiries, feel free to contact me via email!
