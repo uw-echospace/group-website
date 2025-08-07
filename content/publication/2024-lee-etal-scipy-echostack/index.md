@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Echostack: A flexible and scalable open-source software suite for echosounder data processing"
-authors: ["W-J Lee", "V Staneva", "L Setiawan", "E Mayorga", "S Butala", "C Tuguinay", "S Butala", "B Lucca", "D Lei"]
+authors: ["W-J Lee", "V Staneva", "L Setiawan", "E Mayorga", "C Tuguinay", "S Butala", "B Lucca", "D Lei"]
 date: 2024-07-10
 doi: "https://doi.org/10.25080/WXRH8633"
 
