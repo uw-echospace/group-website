@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Head-related transfer function predictions reveal dominant sound propagation mechanisms to the dolphin ears"
-authors: ["**Y Cheong**", "W-J Lee", "A Ruesch", "J Kainerstorfer", "B Shinn-Cunningham"]
+authors: ["**Y Cheong**", "W-J Lee", "A Ruesch", "MD Schalles", "J Kainerstorfer", "B Shinn-Cunningham"]
 date: 2025-07-08
 doi: "10.1121/10.0036904"
 
