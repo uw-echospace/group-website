@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Influence of duty-cycle recording on measuring bat activity in passive acoustic monitoring"
-authors: ["**A Krishna**", "W-J Lee"]
-date: 2025-09-09T09:00:00
-doi: "10.1121/10.0039108"
+title: "Interoperable and scalable echosounder data processing with Echopype"
+authors: ["W-J Lee", "L Setiawan", "C Tuguinay", "E Mayorga", "V Staneva"]
+date: 2024-10-09
+doi: "10.1093/icesjms/fsae133"
 
 # Customize
 share: false
@@ -13,7 +13,7 @@ math: true
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-09-12T08:30:00-08:00
+publishDate: 2020-10-09
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,17 +22,21 @@ publishDate: 2025-09-12T08:30:00-08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of the Acoustical Society of America"
-publication_short: "J Acoust Soc Am"
+publication: "ICES Journal of Marine Science"
+publication_short: "ICES JMS"
 
-abstract: "Echolocating bats provide vital ecosystem services and can be monitored effectively using passive acoustic monitoring (PAM) techniques. Duty-cycle subsampling is widely used to collect PAM data at regular ON/OFF cycles to circumvent battery and storage capacity constraints for long-term monitoring. However, the impact of duty-cycle subsampling and potential detector errors on estimating bat activity has not been systematically investigated for bats. Here, we simulate the influence of duty-cycle subsampling in measuring bat activity via three metrics—call rate, activity index (AI), and bout-time percentage (BTP)—using three months of continuous recordings spanning summer to fall in a temperate urban natural area. Our simulations show that subsampled bat activity estimates more accurately track true values when the listening ratio is high and the cycle length is low, when the true call activity is high, or when recorded calls have lower frequency content. Generally, among the three metrics, AI provides the best subsampling estimates and is robust against false negatives but sensitive to false positives, whereas BTP provides better temporal resolution compared to AI and is robust against both false positives and false negatives. Our results offer important insights into selecting sampling parameters and measurement metrics for long-term bat PAM."
+abstract: "Echosounders are high-frequency sonar systems used to sense fish and zooplankton underwater. Their deployment on a variety of ocean observing platforms is generating vast amounts of data at an unprecedented speed from the oceans. Efficient and integrative analysis of these data, whether across different echosounder instruments or in combination with other oceanographic datasets, is crucial for understanding marine ecosystem response to the rapidly changing climate. Here we present Echopype, an open-source Python software library designed to address this need. By standardizing data as labeled, multi-dimensional arrays encoded in the widely embraced netCDF data model following a community convention, Echopype enhances the interoperability of echosounder data, making it easier to explore and use. By leveraging scientific Python libraries optimized for distributed computing, Echopype achieves computational scalability, enabling efficient processing in both local and cloud computing environments. Echopype’s modularized package structure further provides a unified framework for expanding support for additional instrument raw data formats and incorporating new analysis functionalities. We plan to continue developing Echopype by supporting and collaborating with the echosounder user community, and envision that the growth of this package will catalyze the integration of echosounder data into broader regional and global ocean observation strategies."
 
 # Summary. An optional shortened abstract.
-summary: "We performed a systematic investigation into the effects of duty-cycling on measuring activity in the passive acoustic monitoring of echolocating bats."
+summary: " "
 
-tags: []
-categories: ["passive acoustic monitoring", "echolocation"]
-featured: true
+tags:
+  - open-source
+  - fisheries acoustics
+  - scientific computing
+  - community engagement
+categories: ["sonar"]
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,8 +46,6 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 links:
-- name: bioRxiv
-  url: https://doi.org/10.1101/2025.04.15.649046
 url_code:
 url_dataset:
 url_poster:
