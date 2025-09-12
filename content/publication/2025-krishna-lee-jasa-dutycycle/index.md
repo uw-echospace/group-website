@@ -28,7 +28,7 @@ publication_short: "J Acoust Soc Am"
 abstract: "Echolocating bats provide vital ecosystem services and can be monitored effectively using passive acoustic monitoring (PAM) techniques. Duty-cycle subsampling is widely used to collect PAM data at regular ON/OFF cycles to circumvent battery and storage capacity constraints for long-term monitoring. However, the impact of duty-cycle subsampling and potential detector errors on estimating bat activity has not been systematically investigated for bats. Here, we simulate the influence of duty-cycle subsampling in measuring bat activity via three metrics—call rate, activity index (AI), and bout-time percentage (BTP)—using three months of continuous recordings spanning summer to fall in a temperate urban natural area. Our simulations show that subsampled bat activity estimates more accurately track true values when the listening ratio is high and the cycle length is low, when the true call activity is high, or when recorded calls have lower frequency content. Generally, among the three metrics, AI provides the best subsampling estimates and is robust against false negatives but sensitive to false positives, whereas BTP provides better temporal resolution compared to AI and is robust against both false positives and false negatives. Our results offer important insights into selecting sampling parameters and measurement metrics for long-term bat PAM."
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: "We performed a systematic investigation into the effects of duty-cycling on measuring activity in the passive acoustic monitoring of echolocating bats."
 
 tags:
   - passive acoustic monitoring
@@ -44,6 +44,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 links:
+- name: bioRxiv
+  url: https://doi.org/10.1101/2025.04.15.649046
 url_code:
 url_dataset:
 url_poster:
