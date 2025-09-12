@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Influence of duty-cycle recording on measuring bat activity in passive acoustic monitoring"
-authors: ["A Krishna", "W-J Lee"]
+authors: ["**A Krishna**", "W-J Lee"]
 date: 2025-09-09
 doi: "10.1121/10.0039108"
 
