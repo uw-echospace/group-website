@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Interoperable and scalable echosounder data processing with Echopype"
-authors: ["W-J Lee", "L Setiawan", "C Tuguinay", "E Mayorga", "V Staneva"]
-date: 2024-10-09
-doi: "10.1093/icesjms/fsae133"
+title: "Influence of duty-cycle recording on measuring bat activity in passive acoustic monitoring"
+authors: ["A Krishna", "W-J Lee"]
+date: 2025-09-09
+doi: "10.1121/10.0039108"
 
 # Customize
 share: false
