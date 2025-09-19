@@ -43,6 +43,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 links:
+- name: bioRxiv
+  url: https://doi.org/10.1101/2025.05.22.655550
 url_code:
 url_dataset:
 url_poster:
