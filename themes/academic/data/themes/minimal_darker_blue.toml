@@ -5,12 +5,12 @@ name = "Minimal darker blue"
 light = true
 
 # Primary
-primary = "#273e92"
+primary = "#284ccf"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#273e92"
+menu_text_active = "#284ccf"
 menu_title = "#2b2b2b"
 
 # Home sections
