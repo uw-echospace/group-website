@@ -3,8 +3,8 @@
 {{/* Don't use partialCached as can error when admin changes theme config whilst `hugo server` is running. */}}
 {{- partial "functions/parse_theme" . -}}
 
-$sta-darken-percentage: 90%;
-$sta-lighten-percentage: 90%;
+$sta-darken-percentage: 10%;
+$sta-lighten-percentage: 10%;
 
 $sta-font-size: {{ $scr.Get "font_size" }};
 $sta-font-size-small: {{ $scr.Get "font_size_small" }};
