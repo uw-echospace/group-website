@@ -124,12 +124,12 @@
 
     {{ if and site.Params.map.engine $data.coordinates.latitude }}
     <div class="d-none">
-      <input id="map-provider" value="{{ site.Params.map.engine }}">
-      <input id="map-lat" value="{{ $data.coordinates.latitude }}">
-      <input id="map-lng" value="{{ $data.coordinates.longitude }}">
-      <input id="map-dir" value="{{ $addr_formatted }}">
-      <input id="map-zoom" value="{{ site.Params.map.zoom | default "15" }}">
-      <input id="map-api-key" value="{{ site.Params.map.api_key }}">
+      <input id="map-provider" aria-label="Open street map"  value="{{ site.Params.map.engine }}">
+      <input id="map-lat" aria-label="Latitude" value="{{ $data.coordinates.latitude }}">
+      <input id="map-lng" aria-label="Longitude" value="{{ $data.coordinates.longitude }}">
+      <input id="map-dir" aria-label="Address"  value="{{ $addr_formatted }}">
+      <input id="map-zoom" aria-label="Map zoom"  value="{{ site.Params.map.zoom | default "15" }}">
+      <input id="map-api-key" aria-label="Map API key"  value="{{ site.Params.map.api_key }}">
     </div>
     <div id="map"></div>
     {{ end }}
