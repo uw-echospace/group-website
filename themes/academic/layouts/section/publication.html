@@ -22,7 +22,7 @@
           autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
         </div>
         <div class="col-auto">
-          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+          <select class="pub-filters pubtype-select form-control form-control-sm" aria-label="Filter publications" data-filter-group="pubtype">
             <option value="*">{{ i18n "publication_type" }}</option>
             {{ $pub_types := partial "functions/get_pub_types" $ }}
             {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
@@ -33,7 +33,7 @@
           </select>
         </div>
         <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+          <select class="pub-filters form-control form-control-sm" aria-label="Filter publications" data-filter-group="year">
             <option value="*">{{ i18n "date" }}</option>
             {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
             {{ if $years_sorted }}
