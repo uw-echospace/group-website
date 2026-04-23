@@ -43,7 +43,7 @@ Moving forward, we aim to expand the model to include other ecologically and com
 
 <img src="featured.png" alt="Fisheries Acoustics"> -->
 
-<p align="center">
+<p align="left">
   <img src="featured.png" alt="" style="width:1000px"/>
   <b>Echogram examples showing the deep learning model predicts regions similar to human expert annotations.</b>
 </p>

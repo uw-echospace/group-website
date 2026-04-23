@@ -37,7 +37,7 @@ image:
 We address this gap by developing **Echostack**, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.
 
 Below is a summary of the Echostack packages:
-<p align="center">
+<p align="left">
   <img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
 </p>
 
