@@ -70,7 +70,7 @@ user_groups:
 
 I am a marine quantitative ecologist with a PhD from Sorbonne University (France), where I studied the spatiotemporal organization of mid-trophic level ecosystems in the Southern Indian Ocean using active acoustics, oceanographic data, and functional data analysis approaches to disentangle these complex ecological patterns.
 
-Since joining Echospace in February, I have been contributing to both open-source software development and acoustic research. My software work is mainly focused on [Echopype](https://github.com/OSOceanAcoustics/echopype) and the broader [EchoStack](https://github.com/OSOceanAcoustics) ecosystem, including developing new features, contributing notebook examples, and helping maintain interoperability and coherence across packages. I really enjoy contributing to open science tools that support both research and operational workflows.
+Since joining Echospace in February, I have been contributing to both open-source software development and acoustic research. My software work is mainly focused on [Echopype](https://github.com/echostack-org/echopype) and the broader [EchoStack](https://github.com/echostack-org) ecosystem, including developing new features, contributing notebook examples, and helping maintain interoperability and coherence across packages. I really enjoy contributing to open science tools that support both research and operational workflows.
 
 On the research side, I am currently applying FDA approaches previously developed for multivariate continuous-wave acoustic datasets to broadband acoustic data, with the goal of better characterizing acoustic targets and exploring new ways to understand these information-rich datasets.
 
