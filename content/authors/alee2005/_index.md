@@ -14,6 +14,7 @@ superuser: false
 # Role/position
 # role: Undergraduate Research Assistant
 role: UNOLS MATE intern
+external_link: https://www.linkedin.com/in/aidan-guanyi-lee
 
 # Organizations/Affiliations
 organizations:

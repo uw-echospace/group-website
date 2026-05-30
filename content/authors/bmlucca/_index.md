@@ -14,6 +14,7 @@ superuser: false
 # Role/position
 # role: Postdoc
 role: Postdoc at NOAA SWFSC
+external_link: https://www.linkedin.com/in/brandynlucca
 
 # Organizations/Affiliations
 organizations:
