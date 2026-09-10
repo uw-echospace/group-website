@@ -1,17 +1,21 @@
 name: CI_PR
 on:
-  pull_request_target:
+  pull_request:
     branches:
       - main
-      
+
+# Build PR code without write permissions or deployment secrets.
+permissions:
+  contents: read
+
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
+          persist-credentials: false
 
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
@@ -28,18 +32,10 @@ jobs:
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo --minify
 
-      - name: Deploy Website Preview
-        uses: nwtgck/actions-netlify@v1.1
+      - name: Upload built site
+        uses: actions/upload-artifact@v6
         with:
-          publish-dir: './public'
-          production-deploy: false
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          deploy-message: "Deploy from GitHub Actions"
-          enable-commit-comment: false
-          enable-pull-request-comment: true
-          overwrites-pull-request-comment: true
-          alias: deploy-preview-${{ github.event.number }}
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        timeout-minutes: 1
+          name: netlify-preview
+          path: public/
+          if-no-files-found: error
+          retention-days: 7
