@@ -1,0 +1,99 @@
+name: Deploy PR Preview
+on:
+  workflow_run:
+    workflows: [CI_PR]
+    types: [completed]
+
+permissions:
+  actions: read
+  contents: read
+  pull-requests: write
+
+jobs:
+  deploy:
+    if: github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      # This workflow runs from main. Never check out PR code or execute artifacts here.
+      - name: Identify current open pull request
+        id: pr
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const run = context.payload.workflow_run;
+            // Fork runs may have an empty pull_requests array. Resolve via the API
+            // instead of trusting PR metadata supplied in the build artifact.
+            const pulls = await github.paginate(github.rest.pulls.list, {
+              ...context.repo, state: 'open', base: 'main', per_page: 100
+            });
+            const matches = pulls.filter(pr =>
+              pr.head.sha === run.head_sha &&
+              pr.head.repo?.id === run.head_repository?.id &&
+              pr.head.ref === run.head_branch
+            );
+            if (matches.length !== 1) {
+              core.notice('Skipping: no unique current open PR matches this build.');
+              return;
+            }
+            core.setOutput('number', matches[0].number);
+
+      - name: Download built site from the triggering run
+        if: steps.pr.outputs.number != ''
+        uses: actions/download-artifact@v7
+        with:
+          name: netlify-preview
+          path: public
+          github-token: ${{ github.token }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Deploy static website preview
+        if: steps.pr.outputs.number != ''
+        id: netlify
+        uses: nwtgck/actions-netlify@v3.0
+        with:
+          publish-dir: './public'
+          production-deploy: false
+          deploy-message: 'PR preview from GitHub Actions'
+          alias: deploy-preview-${{ steps.pr.outputs.number }}
+          fails-without-credentials: true
+          # workflow_run has no PR context; the next step handles the comment.
+          enable-commit-comment: false
+          enable-pull-request-comment: false
+          enable-commit-status: false
+          enable-github-deployment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+
+      - name: Update pull request preview link
+        if: steps.pr.outputs.number != ''
+        uses: actions/github-script@v8
+        env:
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+          DEPLOY_URL: ${{ steps.netlify.outputs.deploy-url }}
+        with:
+          script: |
+            const issue_number = Number(process.env.PR_NUMBER);
+            const { data: pr } = await github.rest.pulls.get({
+              ...context.repo, pull_number: issue_number
+            });
+            if (pr.state !== 'open' || pr.head.sha !== context.payload.workflow_run.head_sha) {
+              core.notice('PR changed during deployment; skipping preview comment.');
+              return;
+            }
+            const marker = '<!-- netlify-pr-preview -->';
+            const body = `${marker}\nNetlify preview: ${process.env.DEPLOY_URL}`;
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              ...context.repo, issue_number, per_page: 100
+            });
+            const existing = comments.find(comment =>
+              comment.user.login === 'github-actions[bot]' && comment.body?.includes(marker)
+            );
+            if (existing) {
+              await github.rest.issues.updateComment({
+                ...context.repo, comment_id: existing.id, body
+              });
+            } else {
+              await github.rest.issues.createComment({ ...context.repo, issue_number, body });
+            }
