@@ -65,10 +65,10 @@ user_groups:
 - Researchers
 ---
 
-I am a PhD student in the Electrical and Computer Engineering department at the University of Washington.
+I am a third-year PhD student in the Electrical and Computer Engineering department at the University of Washington, Seattle. 
 
-My interests are in utilizing ideas from statistics and signal processing to study how echolocating animals, such as bats and toothed whales, successfully perform complex tasks in dynamic environments. 
+My interests are in using concepts from signal processing, active sampling, and auditory neuroscience to model how echolocating animals, such as bats and toothed whales, successfully perform complex tasks in dynamic environments. 
 
-During my undergraduate studies, Wu-Jung and I led a long-term passive acoustic monitoring (PAM) program focused on capturing echolocation calls emitted by bats using autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)). We used the PAM data to perform an investigation into bat activity metrics and duty-cycle subsampling schemes.
+In addition to this, Wu-Jung and I lead a long-term passive acoustic monitoring (PAM) program focused on capturing echolocation calls emitted by bats using autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)). During my undergraduate studies, I used the PAM data to perform an investigation into bat activity metrics and duty-cycle subsampling schemes.
 
 Feel free to ask me any questions at my email on doing research!
