@@ -12,7 +12,9 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+# role: Undergraduate Research Assistant
+role: UNOLS MATE intern
+external_link: https://www.linkedin.com/in/aidan-guanyi-lee
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Hi! I'm a senior at the University of Washington, studying Electrical and Computer Engineering with a focus on embedded systems. I love the ocean - I'm a team lead at UWROV, an underwater robotics team competing in the MATE Competition annually, and I enjoy scuba diving when I get the opportunity.
