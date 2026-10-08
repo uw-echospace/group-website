@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: "Greater Seattle Soundscape Monitoring Project"
+title: "Greater Seattle Soundscape Monitoring"
 date: 2026-10-08
 authors:
 slug: stf-seattle-soundscape
@@ -11,7 +11,7 @@ tags:
   - echolocation
   - passive acoustic monitoring
   - community engagement
-summary: ""
+summary: "Engaging the UW community in bioacoustics research and passive acoustic monitoring"
 
 # Customize
 share: false
