@@ -16,7 +16,7 @@ abstract: "Echograms are images commonly used to visualize and classify scatteri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2026-05-15
+date: 2026-05-15T10:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -16,7 +16,7 @@ abstract: "As the volume of active water column sonar data expands, automated, m
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-05-18
+date: 2025-05-18T16:00:00-06:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
